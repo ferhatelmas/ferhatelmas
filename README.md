@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m a passionate developer, currently working at [@stream](https://github.com/GetStream).
+- 🌱 I love reading and running.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Twitter](https://twitter.com/_ferhatelmas_) or [LinkedIn](https://www.linkedin.com/in/ferhatelmas/).
+- 😄 My adjectives: colorful, lucid and persistent.
 - ⚡ Fun fact: I don't watch any series.
 
 <!--
