@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a passionate developer, currently working at [@stream](https://github.com/GetStream).
+- 🔭 I’m a passionate developer, focusing on distributed systems, currently working at [@stream](https://github.com/GetStream).
 - 🌱 I love reading and running.
 - 💬 Ask me about anything. Answering is learning and I am born to learn.
 - 😄 My adjectives: colorful, lucid and persistent.
