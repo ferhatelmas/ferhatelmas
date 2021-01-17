@@ -5,7 +5,7 @@
 - 💬 Ask me about anything. Answering is learning and I am born to learn.
 - 😄 My adjectives: colorful, lucid and persistent.
 - ⚡ Fun fact: I don't watch any series, I love lowercase and typos bother me a lot.
-- 📫 How to reach me: [Twitter](https://twitter.com/_ferhatelmas_) or [LinkedIn](https://www.linkedin.com/in/ferhatelmas/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferhatelmas/).
 
 <!--
 Here are some ideas to get you started:
