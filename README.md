@@ -2,7 +2,9 @@
 
 - 🔭 I’m a passionate developer, focusing on distributed systems and scalability, currently working at [@stream](https://github.com/GetStream).
 - 🌱 I love reading, mostly nonfiction and philosophy, and long-distance running.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ferhatelmas/) or elmas [dot] ferhat [at] google email service (preferred).
+- 📫 How to reach me:
+    * public: [Ask me anything](https://github.com/ferhatelmas/AMA/issues/new)
+    * private: [LinkedIn](https://www.linkedin.com/in/ferhatelmas/) or elmas [dot] ferhat [at] google email service (preferred).
 
 <!--
 Here are some ideas to get you started:
