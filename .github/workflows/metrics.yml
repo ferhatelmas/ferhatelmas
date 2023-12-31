@@ -146,6 +146,7 @@ jobs:
 
           # Options
           template: classic
+          base: ""
           plugin_rss: yes # Display blog posts
           plugin_rss_limit: 4 # Display up to 4 blog posts
           plugin_rss_source: https://ferhatelmas.com/rss.xml
