@@ -25,5 +25,5 @@
 </a>
 
 <a href="https://github.com/ferhatelmas">
-    <img align="center" width="100%" src="./rss.svg" />
+    <img align="center" width="49%" src="./rss.svg" />
 </a>
