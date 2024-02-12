@@ -26,15 +26,15 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🌱 My latest projects
 
-- [ferhatelmas/ferhatelmas-archive](https://github.com/ferhatelmas/ferhatelmas-archive) - Me
 - [ferhatelmas/murmurtest](https://github.com/ferhatelmas/murmurtest) - A test to compare murmur3 implementations
 - [ferhatelmas/zero](https://github.com/ferhatelmas/zero) - Remove zero space characters
 - [ferhatelmas/pi](https://github.com/ferhatelmas/pi) - Generate digits of PI with Taylor series
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website with docusaurus
+- [ferhatelmas/scaling-communication-2](https://github.com/ferhatelmas/scaling-communication-2) - 
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-09T21-25-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-09T21-25-16Z), 3 days ago) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-12T21-02-27Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-12T21-02-27Z), today) - The Object Store for AI Data Infrastructure
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 4 days ago) - Fast linters Runner for Go
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 4 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
