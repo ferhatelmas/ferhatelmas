@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) - 🚨 slog: Sentry handler (3 months ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (3 months ago)
@@ -34,9 +34,9 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-12T21-02-27Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-12T21-02-27Z), today) - The Object Store for AI Data Infrastructure
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 4 days ago) - Fast linters Runner for Go
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 4 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-12T21-02-27Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-12T21-02-27Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 5 days ago) - Fast linters Runner for Go
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 5 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 #### 🔨 Latest Pull Requests I published
 
@@ -58,4 +58,4 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 weeks ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (2 weeks ago)
-- [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (4 weeks ago)
+- [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (1 month ago)
