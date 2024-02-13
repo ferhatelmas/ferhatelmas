@@ -29,8 +29,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 - [ferhatelmas/murmurtest](https://github.com/ferhatelmas/murmurtest) - A test to compare murmur3 implementations
 - [ferhatelmas/zero](https://github.com/ferhatelmas/zero) - Remove zero space characters
 - [ferhatelmas/pi](https://github.com/ferhatelmas/pi) - Generate digits of PI with Taylor series
-- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website with docusaurus
 - [ferhatelmas/scaling-communication-2](https://github.com/ferhatelmas/scaling-communication-2) - 
+- [ferhatelmas/scaling-communication](https://github.com/ferhatelmas/scaling-communication) - 
 
 #### 🚀 Latest releases I've contributed to
 
