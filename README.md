@@ -34,7 +34,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-12T21-02-27Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-12T21-02-27Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-13T15-35-11Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-13T15-35-11Z), today) - The Object Store for AI Data Infrastructure
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 5 days ago) - Fast linters Runner for Go
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 5 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
