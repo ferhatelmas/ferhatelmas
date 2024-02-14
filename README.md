@@ -18,8 +18,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
-- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - my resume (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 day ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) - 🚨 slog: Sentry handler (3 months ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (3 months ago)
@@ -34,9 +34,9 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-13T15-35-11Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-13T15-35-11Z), today) - The Object Store for AI Data Infrastructure
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 5 days ago) - Fast linters Runner for Go
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 5 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-13T15-35-11Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-13T15-35-11Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 6 days ago) - Fast linters Runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
@@ -56,6 +56,6 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### ⭐ Recent Stars
 
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 weeks ago)
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (2 weeks ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 weeks ago)
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (3 weeks ago)
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (1 month ago)
