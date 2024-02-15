@@ -34,17 +34,17 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), today) - Fast linters Runner for Go
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-14T21-36-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-14T21-36-02Z), 1 day ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 2 days ago) - Go library for the Cloudflare v4 API
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.1](https://github.com/golangci/golangci-lint/releases/tag/v1.56.1), 1 week ago) - Fast linters Runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (today)
+- [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (today)
 - [Update README.md](https://github.com/strapi/nextjs-corporate-starter/pull/114) on [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) (1 month ago)
 - [refactor: use slices helper to copy](https://github.com/samber/slog-common/pull/3) on [samber/slog-common](https://github.com/samber/slog-common) (3 months ago)
 - [fix: initialization of user data](https://github.com/samber/slog-sentry/pull/8) on [samber/slog-sentry](https://github.com/samber/slog-sentry) (3 months ago)
-- [Drop separate misspell](https://github.com/cloudflare/terraform-provider-cloudflare/pull/2814) on [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) (4 months ago)
-- [[R2]: add filter objects support](https://github.com/cloudflare/workers-sdk/pull/4070) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (4 months ago)
 
 #### 📚 Latest Blog posts
 
