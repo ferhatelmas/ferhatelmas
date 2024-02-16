@@ -27,7 +27,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 {{- end}}
 
 #### 🚀 Latest releases I've contributed to
-{{range recentReleases 3}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
@@ -42,6 +42,6 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 3}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
