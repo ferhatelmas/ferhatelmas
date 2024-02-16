@@ -21,16 +21,16 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (3 days ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
+- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (1 month ago)
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) - 🚨 slog: Sentry handler (3 months ago)
-- [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (3 months ago)
 
 #### 🌱 My latest projects
 
+- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes
 - [ferhatelmas/murmurtest](https://github.com/ferhatelmas/murmurtest) - A test to compare murmur3 implementations
 - [ferhatelmas/zero](https://github.com/ferhatelmas/zero) - Remove zero space characters
 - [ferhatelmas/pi](https://github.com/ferhatelmas/pi) - Generate digits of PI with Taylor series
 - [ferhatelmas/scaling-communication-2](https://github.com/ferhatelmas/scaling-communication-2) - 
-- [ferhatelmas/scaling-communication](https://github.com/ferhatelmas/scaling-communication) - 
 
 #### 🚀 Latest releases I've contributed to
 
