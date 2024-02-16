@@ -37,6 +37,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), 1 day ago) - Fast linters Runner for Go
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-14T21-36-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-14T21-36-02Z), 2 days ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 3 days ago) - Go library for the Cloudflare v4 API
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 1 week ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.24.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.24.0), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
@@ -59,3 +61,5 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 weeks ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite (3 weeks ago)
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (1 month ago)
+- [functime-org/functime](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data. (1 month ago)
+- [ds2-lab/infinistore](https://github.com/ds2-lab/infinistore) - InfiniStore: an elastic serverless cloud storage system (VLDB&#39;23) (1 month ago)
