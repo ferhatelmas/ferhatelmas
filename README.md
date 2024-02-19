@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (6 days ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (1 month ago)
