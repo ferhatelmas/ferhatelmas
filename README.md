@@ -19,10 +19,10 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 #### 👷 Check out what I'm currently working on
 
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (today)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (6 days ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (1 month ago)
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) - 🚨 slog: Sentry handler (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,8 +37,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-17T01-15-57Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-17T01-15-57Z), 2 days ago) - The Object Store for AI Data Infrastructure
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), 4 days ago) - Fast linters Runner for Go
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 6 days ago) - Go library for the Cloudflare v4 API
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.67](https://github.com/minio/minio-go/releases/tag/v7.0.67), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 1 week ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.24.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.24.0), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
