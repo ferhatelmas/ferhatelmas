@@ -34,11 +34,11 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), today) - Cloudflare Terraform Provider
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-17T01-15-57Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-17T01-15-57Z), 4 days ago) - The Object Store for AI Data Infrastructure
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), 6 days ago) - Fast linters Runner for Go
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.88.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.88.0), 1 week ago) - Go library for the Cloudflare v4 API
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.67](https://github.com/minio/minio-go/releases/tag/v7.0.67), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240208.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240208.0), 1 week ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 #### 🔨 Latest Pull Requests I published
 
