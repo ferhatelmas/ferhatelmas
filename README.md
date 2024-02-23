@@ -34,8 +34,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.18.2](https://github.com/GetStream/stream-chat-js/releases/tag/v8.18.2), today) - JS / Browser Client - Build Chat with GetStream.io
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240222.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240222.0), 1 day ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.18.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.18.0), 1 day ago) - JS / Browser Client - Build Chat with GetStream.io
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 2 days ago) - Cloudflare Terraform Provider
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-17T01-15-57Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-17T01-15-57Z), 6 days ago) - The Object Store for AI Data Infrastructure
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), 1 week ago) - Fast linters Runner for Go
