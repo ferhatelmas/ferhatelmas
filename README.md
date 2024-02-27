@@ -18,10 +18,10 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
-- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (5 days ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (6 days ago)
-- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 week ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (6 days ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 week ago)
+- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 weeks ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,15 +34,15 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-26T09-33-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-26T09-33-48Z), today) - The Object Store for AI Data Infrastructure
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240223.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240223.0), 3 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.18.2](https://github.com/GetStream/stream-chat-js/releases/tag/v8.18.2), 3 days ago) - JS / Browser Client - Build Chat with GetStream.io
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 5 days ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-26T09-33-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-26T09-33-48Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240223.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240223.0), 4 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.18.2](https://github.com/GetStream/stream-chat-js/releases/tag/v8.18.2), 4 days ago) - JS / Browser Client - Build Chat with GetStream.io
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 6 days ago) - Cloudflare Terraform Provider
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), 1 week ago) - Fast linters Runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (6 days ago)
+- [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Update README.md](https://github.com/strapi/nextjs-corporate-starter/pull/114) on [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) (1 month ago)
