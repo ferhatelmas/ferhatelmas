@@ -18,8 +18,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
-- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (6 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 week ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 week ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 weeks ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
@@ -34,19 +34,19 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.19.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.19.0), today) - JS / Browser Client - Build Chat with GetStream.io
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-26T09-33-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-26T09-33-48Z), 1 day ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240223.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240223.0), 4 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 6 days ago) - Cloudflare Terraform Provider
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v1.56.2](https://github.com/golangci/golangci-lint/releases/tag/v1.56.2), 1 week ago) - Fast linters Runner for Go
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.89.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.89.0), 1 day ago) - Go library for the Cloudflare v4 API
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.19.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.19.0), 1 day ago) - JS / Browser Client - Build Chat with GetStream.io
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-26T09-33-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-26T09-33-48Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240223.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240223.0), 5 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.25.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.25.0), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (1 day ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Update README.md](https://github.com/strapi/nextjs-corporate-starter/pull/114) on [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) (1 month ago)
-- [refactor: use slices helper to copy](https://github.com/samber/slog-common/pull/3) on [samber/slog-common](https://github.com/samber/slog-common) (4 months ago)
 
 #### 📚 Latest Blog posts
 
