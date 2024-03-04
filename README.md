@@ -18,8 +18,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (5 days ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 week ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 weeks ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
