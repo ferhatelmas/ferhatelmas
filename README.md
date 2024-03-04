@@ -18,8 +18,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (4 days ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (5 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 week ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 weeks ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
@@ -34,15 +34,15 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 1 day ago) - MinIO Go client SDK for S3 compatible object storage
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.89.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.89.0), 5 days ago) - Go library for the Cloudflare v4 API
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.19.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.19.0), 5 days ago) - JS / Browser Client - Build Chat with GetStream.io
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-02-26T09-33-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-02-26T09-33-48Z), 6 days ago) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-03T17-50-39Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-03T17-50-39Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 2 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.89.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.89.0), 6 days ago) - Go library for the Cloudflare v4 API
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.19.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.19.0), 6 days ago) - JS / Browser Client - Build Chat with GetStream.io
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240223.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240223.0), 1 week ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 #### 🔨 Latest Pull Requests I published
 
-- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (5 days ago)
+- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (6 days ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (1 week ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (2 weeks ago)
 - [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (2 weeks ago)
@@ -51,8 +51,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 #### 📚 Latest Blog posts
 
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (2 months ago)
-- [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (5 months ago)
-- [Why to write?](https://ferhatelmas.com/why-to-write) (5 months ago)
+- [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (6 months ago)
+- [Why to write?](https://ferhatelmas.com/why-to-write) (6 months ago)
 - [Why to see Boston Strangler (2023) ?](https://ferhatelmas.com/why-to-see-boston-strangler-2023) (10 months ago)
 - [The values of my average system](https://ferhatelmas.com/the-values-of-my-average-system) (11 months ago)
 
