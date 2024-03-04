@@ -34,11 +34,11 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.19.1](https://github.com/GetStream/stream-chat-js/releases/tag/v8.19.1), today) - JS / Browser Client - Build Chat with GetStream.io
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240304.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240304.0), today) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-03T17-50-39Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-03T17-50-39Z), 1 day ago) - The Object Store for AI Data Infrastructure
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 2 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.89.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.89.0), 6 days ago) - Go library for the Cloudflare v4 API
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.19.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.19.0), 6 days ago) - JS / Browser Client - Build Chat with GetStream.io
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240223.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240223.0), 1 week ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 
 #### 🔨 Latest Pull Requests I published
 
