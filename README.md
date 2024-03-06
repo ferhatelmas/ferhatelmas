@@ -18,8 +18,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
-- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (6 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
+- [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 week ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 weeks ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (3 weeks ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (1 month ago)
@@ -34,10 +34,10 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.20.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.20.0), today) - JS / Browser Client - Build Chat with GetStream.io
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-05T04-48-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-05T04-48-44Z), today) - The Object Store for AI Data Infrastructure
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240304.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240304.0), 1 day ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 3 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.20.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.20.0), 1 day ago) - JS / Browser Client - Build Chat with GetStream.io
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-05T04-48-44Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-05T04-48-44Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240304.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240304.0), 2 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 4 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) ([v0.89.0](https://github.com/cloudflare/cloudflare-go/releases/tag/v0.89.0), 1 week ago) - Go library for the Cloudflare v4 API
 
 #### 🔨 Latest Pull Requests I published
