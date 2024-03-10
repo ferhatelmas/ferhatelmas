@@ -34,8 +34,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-10T02-53-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-10T02-53-48Z), today) - The Object Store for AI Data Infrastructure
 - [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.22.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.22.0), 2 days ago) - JS / Browser Client - Build Chat with GetStream.io
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-07T00-43-48Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-07T00-43-48Z), 3 days ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.26.0), 4 days ago) - Cloudflare Terraform Provider
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240304.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240304.0), 6 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
