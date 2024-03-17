@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (3 weeks ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
@@ -34,9 +34,9 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-15T01-07-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-15T01-07-19Z), 1 day ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240314.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240314.0), 2 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.24.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.24.0), 3 days ago) - JS / Browser Client - Build Chat with GetStream.io
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-15T01-07-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-15T01-07-19Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) ([v1.20240314.0](https://github.com/cloudflare/workerd/releases/tag/v1.20240314.0), 3 days ago) - The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.24.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.24.0), 4 days ago) - JS / Browser Client - Build Chat with GetStream.io
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.26.0), 1 week ago) - Cloudflare Terraform Provider
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 
