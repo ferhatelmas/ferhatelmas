@@ -18,9 +18,9 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 weeks ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (3 weeks ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (4 weeks ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js (2 months ago)
 
@@ -34,16 +34,16 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-15T01-07-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-15T01-07-19Z), 3 days ago) - The Object Store for AI Data Infrastructure
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.24.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.24.0), 5 days ago) - JS / Browser Client - Build Chat with GetStream.io
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-15T01-07-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-15T01-07-19Z), 4 days ago) - The Object Store for AI Data Infrastructure
+- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.24.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.24.0), 6 days ago) - JS / Browser Client - Build Chat with GetStream.io
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.26.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.26.0), 1 week ago) - Cloudflare Terraform Provider
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.0](https://github.com/samber/slog-sentry/releases/tag/v2.4.0), 2 months ago) - 🚨 slog: Sentry handler
 
 #### 🔨 Latest Pull Requests I published
 
-- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (2 weeks ago)
-- [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (3 weeks ago)
+- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (3 weeks ago)
+- [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (4 weeks ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
 - [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
 - [Update README.md](https://github.com/strapi/nextjs-corporate-starter/pull/114) on [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) (2 months ago)
