@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (3 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 month ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
@@ -34,11 +34,11 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.27.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.27.0), 1 day ago) - Cloudflare Terraform Provider
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-15T01-07-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-15T01-07-19Z), 6 days ago) - The Object Store for AI Data Infrastructure
-- [GetStream/stream-chat-js](https://github.com/GetStream/stream-chat-js) ([v8.24.0](https://github.com/GetStream/stream-chat-js/releases/tag/v8.24.0), 1 week ago) - JS / Browser Client - Build Chat with GetStream.io
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.27.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.27.0), 2 days ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-15T01-07-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-15T01-07-19Z), 1 week ago) - The Object Store for AI Data Infrastructure
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.0](https://github.com/samber/slog-sentry/releases/tag/v2.4.0), 2 months ago) - 🚨 slog: Sentry handler
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.0](https://github.com/samber/slog-common/releases/tag/v0.15.0), 2 months ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
