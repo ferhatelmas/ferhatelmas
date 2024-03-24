@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (3 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 month ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
@@ -34,11 +34,11 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-21T23-13-43Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-21T23-13-43Z), 1 day ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.27.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.27.0), 3 days ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-03-21T23-13-43Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-03-21T23-13-43Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.27.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.27.0), 4 days ago) - Cloudflare Terraform Provider
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 3 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.0](https://github.com/samber/slog-sentry/releases/tag/v2.4.0), 2 months ago) - 🚨 slog: Sentry handler
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.0](https://github.com/samber/slog-common/releases/tag/v0.15.0), 2 months ago) - Common toolchain for slog
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.0](https://github.com/samber/slog-common/releases/tag/v0.15.0), 3 months ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
@@ -54,12 +54,12 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (6 months ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (6 months ago)
 - [Why to see Boston Strangler (2023) ?](https://ferhatelmas.com/why-to-see-boston-strangler-2023) (11 months ago)
-- [The values of my average system](https://ferhatelmas.com/the-values-of-my-average-system) (11 months ago)
+- [The values of my average system](https://ferhatelmas.com/the-values-of-my-average-system) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (1 month ago)
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (1 month ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 months ago)
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (2 months ago)
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (2 months ago)
 - [functime-org/functime](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data. (2 months ago)
 - [ds2-lab/infinistore](https://github.com/ds2-lab/infinistore) - InfiniStore: an elastic serverless cloud storage system (VLDB&#39;23) (2 months ago)
