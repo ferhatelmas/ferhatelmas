@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (6 days ago)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 week ago)
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 week ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 week ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 month ago)
@@ -34,15 +34,15 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [imroc/req](https://github.com/imroc/req) ([v3.43.2](https://github.com/imroc/req/releases/tag/v3.43.2), 3 days ago) - Simple Go HTTP client with Black Magic
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-06T05-26-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-06T05-26-02Z), 5 days ago) - The Object Store for AI Data Infrastructure
+- [imroc/req](https://github.com/imroc/req) ([v3.43.2](https://github.com/imroc/req/releases/tag/v3.43.2), 4 days ago) - Simple Go HTTP client with Black Magic
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-06T05-26-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-06T05-26-02Z), 6 days ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 1 week ago) - Cloudflare Terraform Provider
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.68](https://github.com/minio/minio-go/releases/tag/v7.0.68), 1 month ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.0](https://github.com/samber/slog-sentry/releases/tag/v2.4.0), 3 months ago) - 🚨 slog: Sentry handler
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (6 days ago)
+- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (1 week ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
