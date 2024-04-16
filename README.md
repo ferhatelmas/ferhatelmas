@@ -18,9 +18,9 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 week ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 week ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 week ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 weeks ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 month ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
 
@@ -34,8 +34,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.2](https://github.com/samber/slog-sentry/releases/tag/v2.4.2), today) - 🚨 slog: Sentry handler
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.2](https://github.com/samber/slog-common/releases/tag/v0.15.2), today) - Common toolchain for slog
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.2](https://github.com/samber/slog-sentry/releases/tag/v2.4.2), 1 day ago) - 🚨 slog: Sentry handler
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.2](https://github.com/samber/slog-common/releases/tag/v0.15.2), 1 day ago) - Common toolchain for slog
 - [imroc/req](https://github.com/imroc/req) ([v3.43.2](https://github.com/imroc/req/releases/tag/v3.43.2), 1 week ago) - Simple Go HTTP client with Black Magic
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-06T05-26-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-06T05-26-02Z), 1 week ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 1 week ago) - Cloudflare Terraform Provider
