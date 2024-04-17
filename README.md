@@ -34,11 +34,11 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), today) - Cloudflare Terraform Provider
 - [imroc/req](https://github.com/imroc/req) ([v3.43.3](https://github.com/imroc/req/releases/tag/v3.43.3), 1 day ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.2](https://github.com/samber/slog-sentry/releases/tag/v2.4.2), 2 days ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.2](https://github.com/samber/slog-common/releases/tag/v0.15.2), 2 days ago) - Common toolchain for slog
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-06T05-26-02Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-06T05-26-02Z), 1 week ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.29.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.29.0), 2 weeks ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
