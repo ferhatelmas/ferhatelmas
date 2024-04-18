@@ -58,8 +58,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### ⭐ Recent Stars
 
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (today)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 months ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (2 months ago)
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (3 months ago)
 - [functime-org/functime](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data. (3 months ago)
-- [ds2-lab/infinistore](https://github.com/ds2-lab/infinistore) - InfiniStore: an elastic serverless cloud storage system (VLDB&#39;23) (3 months ago)
