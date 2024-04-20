@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 weeks ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 month ago)
@@ -34,17 +34,17 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-18T19-09-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-18T19-09-19Z), 1 day ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), 2 days ago) - Cloudflare Terraform Provider
-- [imroc/req](https://github.com/imroc/req) ([v3.43.3](https://github.com/imroc/req/releases/tag/v3.43.3), 3 days ago) - Simple Go HTTP client with Black Magic
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.2](https://github.com/samber/slog-sentry/releases/tag/v2.4.2), 4 days ago) - 🚨 slog: Sentry handler
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.2](https://github.com/samber/slog-common/releases/tag/v0.15.2), 4 days ago) - Common toolchain for slog
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-18T19-09-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-18T19-09-19Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), 3 days ago) - Cloudflare Terraform Provider
+- [imroc/req](https://github.com/imroc/req) ([v3.43.3](https://github.com/imroc/req/releases/tag/v3.43.3), 4 days ago) - Simple Go HTTP client with Black Magic
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.2](https://github.com/samber/slog-sentry/releases/tag/v2.4.2), 5 days ago) - 🚨 slog: Sentry handler
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.15.2](https://github.com/samber/slog-common/releases/tag/v0.15.2), 5 days ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (2 weeks ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
-- [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (1 month ago)
+- [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 - [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 
@@ -58,7 +58,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### ⭐ Recent Stars
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (1 day ago)
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (2 days ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 months ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (2 months ago)
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (3 months ago)
