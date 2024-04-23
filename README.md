@@ -18,9 +18,9 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 weeks ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 weeks ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (3 weeks ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 month ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
 
@@ -34,10 +34,10 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### 🚀 Latest releases I've contributed to
 
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.16.0](https://github.com/samber/slog-common/releases/tag/v0.16.0), 1 day ago) - Common toolchain for slog
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-18T19-09-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-18T19-09-19Z), 4 days ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), 5 days ago) - Cloudflare Terraform Provider
-- [imroc/req](https://github.com/imroc/req) ([v3.43.3](https://github.com/imroc/req/releases/tag/v3.43.3), 6 days ago) - Simple Go HTTP client with Black Magic
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.16.0](https://github.com/samber/slog-common/releases/tag/v0.16.0), 2 days ago) - Common toolchain for slog
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-18T19-09-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-18T19-09-19Z), 5 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), 6 days ago) - Cloudflare Terraform Provider
+- [imroc/req](https://github.com/imroc/req) ([v3.43.3](https://github.com/imroc/req/releases/tag/v3.43.3), 1 week ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.4.2](https://github.com/samber/slog-sentry/releases/tag/v2.4.2), 1 week ago) - 🚨 slog: Sentry handler
 
 #### 🔨 Latest Pull Requests I published
@@ -58,8 +58,8 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 
 #### ⭐ Recent Stars
 
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (4 days ago)
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (2 months ago)
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (2 months ago)
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (5 days ago)
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 months ago)
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (3 months ago)
 - [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. (3 months ago)
 - [functime-org/functime](https://github.com/functime-org/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data. (3 months ago)
