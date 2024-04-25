@@ -6,8 +6,8 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:elmas.ferhat@gmail.com)
 -----------
 
-My name is ferhat, a curious mind and an avid reader.
-Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 object storage](https://developers.cloudflare.com/r2/).
+I am ferhat, a curious mind.
+Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Workers Storage (KV, R2, D1, DO, etc.)](https://developers.cloudflare.com/products/?product-group=Storage).
 
 
 
@@ -18,7 +18,7 @@ Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 obje
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (3 weeks ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (1 month ago)
