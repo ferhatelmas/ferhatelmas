@@ -6,8 +6,8 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:elmas.ferhat@gmail.com)
 -----------
 
-My name is ferhat, a curious mind and an avid reader.
-Currently, I am working on [@cloudflare](https://github.com/cloudflare) [R2 object storage](https://developers.cloudflare.com/r2/).
+I am ferhat, a curious mind.
+Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Workers Storage (KV, R2, D1, DO, etc.)](https://developers.cloudflare.com/products/?product-group=Storage).
 
 <!-- The open source projects that I'm currently focusing on are: -->
 
