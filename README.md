@@ -34,11 +34,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), today) - 🚨 slog: Sentry handler
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 1 day ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.16.0](https://github.com/samber/slog-common/releases/tag/v0.16.0), 5 days ago) - Common toolchain for slog
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-18T19-09-19Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-18T19-09-19Z), 1 week ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), 1 week ago) - Cloudflare Terraform Provider
-- [imroc/req](https://github.com/imroc/req) ([v3.43.3](https://github.com/imroc/req/releases/tag/v3.43.3), 1 week ago) - Simple Go HTTP client with Black Magic
 
 #### 🔨 Latest Pull Requests I published
 
