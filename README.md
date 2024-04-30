@@ -18,9 +18,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 weeks ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (3 weeks ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (4 weeks ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
 
@@ -34,9 +34,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-28T17-53-50Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-28T17-53-50Z), today) - The Object Store for AI Data Infrastructure
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 3 days ago) - 🚨 slog: Sentry handler
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 4 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-04-28T17-53-50Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-04-28T17-53-50Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 4 days ago) - 🚨 slog: Sentry handler
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.16.0](https://github.com/samber/slog-common/releases/tag/v0.16.0), 1 week ago) - Common toolchain for slog
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.30.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.30.0), 1 week ago) - Cloudflare Terraform Provider
 
@@ -50,7 +50,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
-- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (5 days ago)
+- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (6 days ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (4 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (7 months ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (7 months ago)
@@ -58,7 +58,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [dominictarr/d64](https://github.com/dominictarr/d64) -  (3 days ago)
+- [dominictarr/d64](https://github.com/dominictarr/d64) -  (4 days ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (1 week ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 months ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (3 months ago)
