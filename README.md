@@ -18,8 +18,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 weeks ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (4 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 month ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
@@ -34,15 +34,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-01T01-11-10Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-01T01-11-10Z), 1 day ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.31.0), 1 day ago) - Cloudflare Terraform Provider
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 6 days ago) - 🚨 slog: Sentry handler
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-01T01-11-10Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-01T01-11-10Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.31.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.31.0), 2 days ago) - Cloudflare Terraform Provider
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 1 week ago) - 🚨 slog: Sentry handler
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.16.0](https://github.com/samber/slog-common/releases/tag/v0.16.0), 1 week ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (3 weeks ago)
+- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (4 weeks ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
@@ -52,14 +52,14 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (1 week ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (4 months ago)
-- [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (7 months ago)
-- [Why to write?](https://ferhatelmas.com/why-to-write) (7 months ago)
+- [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (8 months ago)
+- [Why to write?](https://ferhatelmas.com/why-to-write) (8 months ago)
 - [Why to see Boston Strangler (2023) ?](https://ferhatelmas.com/why-to-see-boston-strangler-2023) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (1 day ago)
-- [dominictarr/d64](https://github.com/dominictarr/d64) -  (6 days ago)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (2 days ago)
+- [dominictarr/d64](https://github.com/dominictarr/d64) -  (1 week ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (2 weeks ago)
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. (3 months ago)
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite. (3 months ago)
