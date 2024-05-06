@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 month ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 month ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 months ago)
