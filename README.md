@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 month ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 month ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 months ago)
@@ -34,9 +34,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-10T01-41-38Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-10T01-41-38Z), 4 days ago) - The Object Store for AI Data Infrastructure
-- [imroc/req](https://github.com/imroc/req) ([v3.43.4](https://github.com/imroc/req/releases/tag/v3.43.4), 6 days ago) - Simple Go HTTP client with Black Magic
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.32.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.32.0), 6 days ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-10T01-41-38Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-10T01-41-38Z), 5 days ago) - The Object Store for AI Data Infrastructure
+- [imroc/req](https://github.com/imroc/req) ([v3.43.4](https://github.com/imroc/req/releases/tag/v3.43.4), 1 week ago) - Simple Go HTTP client with Black Magic
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.32.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.32.0), 1 week ago) - Cloudflare Terraform Provider
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 2 weeks ago) - 🚨 slog: Sentry handler
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 
@@ -45,12 +45,12 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (1 month ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
-- [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
-- [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
+- [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (3 months ago)
+- [Drop seeding rand in tests](https://github.com/minio/minio-go/pull/1934) on [minio/minio-go](https://github.com/minio/minio-go) (3 months ago)
 
 #### 📚 Latest Blog posts
 
-- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (2 weeks ago)
+- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (3 weeks ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (5 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (8 months ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (8 months ago)
@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (today)
-- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (today)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (1 week ago)
+- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (1 day ago)
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (1 day ago)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (2 weeks ago)
 - [dominictarr/d64](https://github.com/dominictarr/d64) -  (2 weeks ago)
 - [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (3 weeks ago)
