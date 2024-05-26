@@ -18,9 +18,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 day ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (4 days ago)
+- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (5 days ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (1 month ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (2 months ago)
 
@@ -37,12 +37,12 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [imroc/req](https://github.com/imroc/req) ([v3.43.5](https://github.com/imroc/req/releases/tag/v3.43.5), 1 week ago) - Simple Go HTTP client with Black Magic
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.33.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.33.0), 1 week ago) - Cloudflare Terraform Provider
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-10T01-41-38Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-10T01-41-38Z), 2 weeks ago) - The Object Store for AI Data Infrastructure
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 4 weeks ago) - 🚨 slog: Sentry handler
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 1 month ago) - 🚨 slog: Sentry handler
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 1 month ago) - MinIO Go client SDK for S3 compatible object storage
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (4 days ago)
+- [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (5 days ago)
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (1 month ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (2 months ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (3 months ago)
