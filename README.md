@@ -18,9 +18,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 week ago)
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 week ago)
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 weeks ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 months ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (3 months ago)
 
@@ -34,16 +34,16 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 3 days ago) - Simple Go HTTP client with Black Magic
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.34.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.34.0), 5 days ago) - Cloudflare Terraform Provider
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-28T17-19-04Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-28T17-19-04Z), 6 days ago) - The Object Store for AI Data Infrastructure
+- [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 4 days ago) - Simple Go HTTP client with Black Magic
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.34.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.34.0), 6 days ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-05-28T17-19-04Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-05-28T17-19-04Z), 1 week ago) - The Object Store for AI Data Infrastructure
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 1 month ago) - 🚨 slog: Sentry handler
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.70](https://github.com/minio/minio-go/releases/tag/v7.0.70), 1 month ago) - MinIO Go client SDK for S3 compatible object storage
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (1 week ago)
-- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (1 month ago)
+- [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (2 weeks ago)
+- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (2 months ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (3 months ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (3 months ago)
 - [Make 520 status code retryable](https://github.com/minio/minio-go/pull/1935) on [minio/minio-go](https://github.com/minio/minio-go) (3 months ago)
@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (today)
-- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (2 weeks ago)
-- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (2 weeks ago)
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 day ago)
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (1 day ago)
+- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (3 weeks ago)
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (3 weeks ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (1 month ago)
-- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (1 month ago)
