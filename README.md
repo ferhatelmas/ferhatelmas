@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-04T19-20-08Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-04T19-20-08Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-06T09-36-42Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-06T09-36-42Z), today) - The Object Store for AI Data Infrastructure
 - [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 6 days ago) - Simple Go HTTP client with Black Magic
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.34.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.34.0), 1 week ago) - Cloudflare Terraform Provider
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 1 month ago) - 🚨 slog: Sentry handler
@@ -61,5 +61,5 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (3 days ago)
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (3 days ago)
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens (3 weeks ago)
-- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (3 weeks ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. (1 month ago)
+- [Vonng/pigsty](https://github.com/Vonng/pigsty) - Battery-Included PostgreSQL Distro as a Free RDS Alternative (1 month ago)
