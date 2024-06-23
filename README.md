@@ -19,7 +19,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 👷 Check out what I'm currently working on
 
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 weeks ago)
-- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (4 weeks ago)
+- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 month ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 months ago)
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage (3 months ago)
@@ -34,8 +34,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-22T05-26-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-22T05-26-45Z), today) - The Object Store for AI Data Infrastructure
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.72](https://github.com/minio/minio-go/releases/tag/v7.0.72), 1 day ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-22T05-26-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-22T05-26-45Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.72](https://github.com/minio/minio-go/releases/tag/v7.0.72), 2 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.35.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.35.0), 1 week ago) - Cloudflare Terraform Provider
 - [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 3 weeks ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 1 month ago) - 🚨 slog: Sentry handler
@@ -50,7 +50,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
-- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (1 month ago)
+- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (2 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (6 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (9 months ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (9 months ago)
