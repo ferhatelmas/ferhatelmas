@@ -34,9 +34,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.36.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.36.0), today) - Cloudflare Terraform Provider
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-22T05-26-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-22T05-26-45Z), 4 days ago) - The Object Store for AI Data Infrastructure
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.72](https://github.com/minio/minio-go/releases/tag/v7.0.72), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.35.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.35.0), 2 weeks ago) - Cloudflare Terraform Provider
 - [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 3 weeks ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 2 months ago) - 🚨 slog: Sentry handler
 
