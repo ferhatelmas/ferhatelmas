@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 month ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (2 months ago)
@@ -34,10 +34,10 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-26T01-06-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-26T01-06-18Z), 1 day ago) - The Object Store for AI Data Infrastructure
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.36.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.36.0), 1 day ago) - Cloudflare Terraform Provider
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.72](https://github.com/minio/minio-go/releases/tag/v7.0.72), 6 days ago) - MinIO Go client SDK for S3 compatible object storage
-- [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 3 weeks ago) - Simple Go HTTP client with Black Magic
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-06-26T01-06-18Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-06-26T01-06-18Z), 2 days ago) - The Object Store for AI Data Infrastructure
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.36.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.36.0), 2 days ago) - Cloudflare Terraform Provider
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.72](https://github.com/minio/minio-go/releases/tag/v7.0.72), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
+- [imroc/req](https://github.com/imroc/req) ([v3.43.7](https://github.com/imroc/req/releases/tag/v3.43.7), 4 weeks ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.5.0](https://github.com/samber/slog-sentry/releases/tag/v2.5.0), 2 months ago) - 🚨 slog: Sentry handler
 
 #### 🔨 Latest Pull Requests I published
@@ -60,6 +60,6 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (2 weeks ago)
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure &amp; isolated JS environments for nodejs (2 weeks ago)
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (2 weeks ago)
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (3 weeks ago)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (3 weeks ago)
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (3 weeks ago)
