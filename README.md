@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 week ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (1 month ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (3 months ago)
@@ -34,10 +34,10 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-07-04T14-25-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-07-04T14-25-45Z), today) - The Object Store for AI Data Infrastructure
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.73](https://github.com/minio/minio-go/releases/tag/v7.0.73), 2 days ago) - MinIO Go client SDK for S3 compatible object storage
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.6.0](https://github.com/samber/slog-sentry/releases/tag/v2.6.0), 3 days ago) - 🚨 slog: Sentry handler
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.0](https://github.com/samber/slog-common/releases/tag/v0.17.0), 3 days ago) - Common toolchain for slog
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-07-04T14-25-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-07-04T14-25-45Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.73](https://github.com/minio/minio-go/releases/tag/v7.0.73), 3 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.6.0](https://github.com/samber/slog-sentry/releases/tag/v2.6.0), 4 days ago) - 🚨 slog: Sentry handler
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.0](https://github.com/samber/slog-common/releases/tag/v0.17.0), 4 days ago) - Common toolchain for slog
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.36.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.36.0), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
@@ -60,6 +60,6 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (3 weeks ago)
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure &amp; isolated JS environments for nodejs (3 weeks ago)
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (3 weeks ago)
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (4 weeks ago)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 month ago)
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (1 month ago)
