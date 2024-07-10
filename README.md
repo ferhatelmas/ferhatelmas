@@ -34,10 +34,10 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.7.0](https://github.com/samber/slog-sentry/releases/tag/v2.7.0), today) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 1 day ago) - Common toolchain for slog
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-07-04T14-25-45Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-07-04T14-25-45Z), 6 days ago) - The Object Store for AI Data Infrastructure
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.73](https://github.com/minio/minio-go/releases/tag/v7.0.73), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.6.0](https://github.com/samber/slog-sentry/releases/tag/v2.6.0), 1 week ago) - 🚨 slog: Sentry handler
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.36.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.36.0), 2 weeks ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
