@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
+- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022 (today)
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter (4 weeks ago)
 - [laverdet/isolated-vm](https://github.com/laverdet/isolated-vm) - Secure &amp; isolated JS environments for nodejs (1 month ago)
 - [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! (1 month ago)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 month ago)
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere. (1 month ago)
