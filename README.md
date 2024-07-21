@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (1 week ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (1 month ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 months ago)
@@ -34,8 +34,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-07-16T23-46-41Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-07-16T23-46-41Z), 3 days ago) - The Object Store for AI Data Infrastructure
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.74](https://github.com/minio/minio-go/releases/tag/v7.0.74), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-07-16T23-46-41Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-07-16T23-46-41Z), 4 days ago) - The Object Store for AI Data Infrastructure
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.74](https://github.com/minio/minio-go/releases/tag/v7.0.74), 6 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.37.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.37.0), 1 week ago) - Cloudflare Terraform Provider
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.7.0](https://github.com/samber/slog-sentry/releases/tag/v2.7.0), 1 week ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 1 week ago) - Common toolchain for slog
@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (today)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications (today)
-- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (today)
-- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (today)
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (2 days ago)
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (1 day ago)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications (1 day ago)
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (1 day ago)
+- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (1 day ago)
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (3 days ago)
