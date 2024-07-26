@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (2 weeks ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 months ago)
@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.38.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.38.0), 1 day ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.38.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.38.0), 2 days ago) - Cloudflare Terraform Provider
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-07-16T23-46-41Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-07-16T23-46-41Z), 1 week ago) - The Object Store for AI Data Infrastructure
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.74](https://github.com/minio/minio-go/releases/tag/v7.0.74), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.7.0](https://github.com/samber/slog-sentry/releases/tag/v2.7.0), 2 weeks ago) - 🚨 slog: Sentry handler
@@ -45,7 +45,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (2 weeks ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (2 months ago)
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (3 months ago)
-- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (4 months ago)
+- [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (5 months ago)
 - [Fix CVE-2022-28948](https://github.com/minio/minio-go/pull/1938) on [minio/minio-go](https://github.com/minio/minio-go) (5 months ago)
 
 #### 📚 Latest Blog posts
@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (5 days ago)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production. (5 days ago)
-- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (5 days ago)
-- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (5 days ago)
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (6 days ago)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production. (6 days ago)
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (6 days ago)
+- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (6 days ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 week ago)
