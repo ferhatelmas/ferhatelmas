@@ -50,11 +50,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
+- [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (today)
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (3 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (7 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (10 months ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (10 months ago)
-- [Why to see Boston Strangler (2023) ?](https://ferhatelmas.com/why-to-see-boston-strangler-2023) (1 year ago)
 
 #### ⭐ Recent Stars
 
