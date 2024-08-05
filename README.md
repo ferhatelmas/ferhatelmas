@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 week ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (3 weeks ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (2 months ago)
@@ -34,15 +34,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-03T04-33-23Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-03T04-33-23Z), 1 day ago) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-03T04-33-23Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-03T04-33-23Z), 2 days ago) - The Object Store for AI Data Infrastructure
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.38.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.38.0), 1 week ago) - Cloudflare Terraform Provider
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.74](https://github.com/minio/minio-go/releases/tag/v7.0.74), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.74](https://github.com/minio/minio-go/releases/tag/v7.0.74), 3 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.7.0](https://github.com/samber/slog-sentry/releases/tag/v2.7.0), 3 weeks ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 3 weeks ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (3 weeks ago)
+- [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (4 weeks ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (2 months ago)
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (4 months ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (5 months ago)
@@ -50,7 +50,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
-- [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (6 days ago)
+- [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (1 week ago)
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (3 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (7 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (11 months ago)
