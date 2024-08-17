@@ -34,15 +34,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.75](https://github.com/minio/minio-go/releases/tag/v7.0.75), 4 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.75](https://github.com/minio/minio-go/releases/tag/v7.0.75), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.39.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.39.0), 1 week ago) - Cloudflare Terraform Provider
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 1 week ago) - 🚨 slog: Sentry handler
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-03T04-33-23Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-03T04-33-23Z), 1 week ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-03T04-33-23Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-03T04-33-23Z), 2 weeks ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 1 month ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (1 day ago)
+- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (2 days ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (1 month ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (2 months ago)
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (4 months ago)
@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 weeks ago)
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (3 weeks ago)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production. (3 weeks ago)
-- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (3 weeks ago)
-- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (3 weeks ago)
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (3 weeks ago)
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents (4 weeks ago)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Supabase for RAG - R2R lets you build, scale, and manage user-facing Retrieval-Augmented Generation applications in production. (4 weeks ago)
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (4 weeks ago)
+- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). (4 weeks ago)
