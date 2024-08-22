@@ -18,9 +18,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (1 month ago)
-- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (2 months ago)
+- [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (3 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 months ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (4 months ago)
 
@@ -34,15 +34,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), today) - Cloudflare Terraform Provider
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-17T01-24-54Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-17T01-24-54Z), 4 days ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 1 day ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-17T01-24-54Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-17T01-24-54Z), 5 days ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.75](https://github.com/minio/minio-go/releases/tag/v7.0.75), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 2 weeks ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 1 month ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (6 days ago)
+- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (1 week ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (1 month ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (3 months ago)
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (4 months ago)
@@ -51,7 +51,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 📚 Latest Blog posts
 
 - [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (3 weeks ago)
-- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (3 months ago)
+- [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (4 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (8 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (11 months ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (11 months ago)
