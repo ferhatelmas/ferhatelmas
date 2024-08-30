@@ -18,11 +18,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (1 month ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (3 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (3 months ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (4 months ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,8 +34,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-26T15-33-07Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-26T15-33-07Z), 3 days ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.76](https://github.com/minio/minio-go/releases/tag/v7.0.76), 3 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-29T01-40-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-29T01-40-52Z), 1 day ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.76](https://github.com/minio/minio-go/releases/tag/v7.0.76), 4 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 1 week ago) - Cloudflare Terraform Provider
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 3 weeks ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 1 month ago) - Common toolchain for slog
