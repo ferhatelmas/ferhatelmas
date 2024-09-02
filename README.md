@@ -34,10 +34,10 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-29T01-40-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-29T01-40-52Z), 3 days ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.76](https://github.com/minio/minio-go/releases/tag/v7.0.76), 6 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-29T01-40-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-29T01-40-52Z), 4 days ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.76](https://github.com/minio/minio-go/releases/tag/v7.0.76), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.40.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.40.0), 1 week ago) - Cloudflare Terraform Provider
-- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 3 weeks ago) - 🚨 slog: Sentry handler
+- [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 4 weeks ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 1 month ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
@@ -45,7 +45,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (2 weeks ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (1 month ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (3 months ago)
-- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (4 months ago)
+- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (5 months ago)
 - [Drop more rand seeding in tests](https://github.com/minio/minio-go/pull/1942) on [minio/minio-go](https://github.com/minio/minio-go) (6 months ago)
 
 #### 📚 Latest Blog posts
@@ -58,7 +58,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (2 days ago)
+- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (3 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
 - [web-fragments/web-fragments](https://github.com/web-fragments/web-fragments) - A radically different microfrontend solution that actually works and is easy to incrementally adopt. (1 week ago)
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (1 month ago)
