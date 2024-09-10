@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [imroc/req](https://github.com/imroc/req) ([v3.44.0](https://github.com/imroc/req/releases/tag/v3.44.0), 5 days ago) - Simple Go HTTP client with Black Magic
+- [imroc/req](https://github.com/imroc/req) ([v3.45.0](https://github.com/imroc/req/releases/tag/v3.45.0), today) - Simple Go HTTP client with Black Magic
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.41.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.41.0), 6 days ago) - Cloudflare Terraform Provider
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-08-29T01-40-52Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-08-29T01-40-52Z), 1 week ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.76](https://github.com/minio/minio-go/releases/tag/v7.0.76), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
