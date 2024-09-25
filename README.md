@@ -34,10 +34,10 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.77](https://github.com/minio/minio-go/releases/tag/v7.0.77), today) - MinIO Go client SDK for S3 compatible object storage
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-alpha1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-alpha1), today) - Cloudflare Terraform Provider
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-09-22T00-33-43Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-09-22T00-33-43Z), 1 day ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [imroc/req](https://github.com/imroc/req) ([v3.46.1](https://github.com/imroc/req/releases/tag/v3.46.1), 3 days ago) - Simple Go HTTP client with Black Magic
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.77](https://github.com/minio/minio-go/releases/tag/v7.0.77), 1 day ago) - MinIO Go client SDK for S3 compatible object storage
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.0.0-alpha1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.0.0-alpha1), 1 day ago) - Cloudflare Terraform Provider
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2024-09-22T00-33-43Z](https://github.com/minio/minio/releases/tag/RELEASE.2024-09-22T00-33-43Z), 2 days ago) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [imroc/req](https://github.com/imroc/req) ([v3.46.1](https://github.com/imroc/req/releases/tag/v3.46.1), 4 days ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 1 month ago) - 🚨 slog: Sentry handler
 
 #### 🔨 Latest Pull Requests I published
@@ -58,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (1 day ago)
+- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (2 days ago)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (3 weeks ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [web-fragments/web-fragments](https://github.com/web-fragments/web-fragments) - A radically different microfrontend solution that actually works and is easy to incrementally adopt. (1 month ago)
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (1 month ago)
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
