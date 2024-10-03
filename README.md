@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (2 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (4 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (4 months ago)
@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.43.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.43.0), 2 days ago) - Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.43.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.43.0), 3 days ago) - Cloudflare Terraform Provider
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.77](https://github.com/minio/minio-go/releases/tag/v7.0.77), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [imroc/req](https://github.com/imroc/req) ([v3.46.1](https://github.com/imroc/req/releases/tag/v3.46.1), 1 week ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 1 month ago) - 🚨 slog: Sentry handler
@@ -58,7 +58,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (2 days ago)
+- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (3 days ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (1 week ago)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
