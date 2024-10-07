@@ -18,8 +18,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
-- [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (2 months ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (3 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (4 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (4 months ago)
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (6 months ago)
@@ -37,7 +37,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.77](https://github.com/minio/minio-go/releases/tag/v7.0.77), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 - [imroc/req](https://github.com/imroc/req) ([v3.46.1](https://github.com/imroc/req/releases/tag/v3.46.1), 2 weeks ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 2 months ago) - 🚨 slog: Sentry handler
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 2 months ago) - Common toolchain for slog
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 3 months ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
@@ -57,8 +57,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (6 days ago)
-- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (1 week ago)
+- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (1 week ago)
+- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (2 weeks ago)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (1 month ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [web-fragments/web-fragments](https://github.com/web-fragments/web-fragments) - A radically different microfrontend solution that actually works and is easy to incrementally adopt. (1 month ago)
