@@ -34,8 +34,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.78](https://github.com/minio/minio-go/releases/tag/v7.0.78), today) - MinIO Go client SDK for S3 compatible object storage
 - [imroc/req](https://github.com/imroc/req) ([v3.47.0](https://github.com/imroc/req/releases/tag/v3.47.0), 2 days ago) - Simple Go HTTP client with Black Magic
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.77](https://github.com/minio/minio-go/releases/tag/v7.0.77), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-sentry](https://github.com/samber/slog-sentry) ([v2.8.0](https://github.com/samber/slog-sentry/releases/tag/v2.8.0), 2 months ago) - 🚨 slog: Sentry handler
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 3 months ago) - Common toolchain for slog
 
