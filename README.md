@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.79](https://github.com/minio/minio-go/releases/tag/v7.0.79), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.80](https://github.com/minio/minio-go/releases/tag/v7.0.80), 1 day ago) - MinIO Go client SDK for S3 compatible object storage
 - [imroc/req](https://github.com/imroc/req) ([v3.48.0](https://github.com/imroc/req/releases/tag/v3.48.0), 2 weeks ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 3 months ago) - Common toolchain for slog
 
@@ -57,7 +57,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### ⭐ Recent Stars
 
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (1 week ago)
-- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (4 weeks ago)
+- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (1 month ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (1 month ago)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (2 months ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 months ago)
