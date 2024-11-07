@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (4 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (5 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (5 months ago)
@@ -50,14 +50,14 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (3 months ago)
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (6 months ago)
-- [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (10 months ago)
+- [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (11 months ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (1 year ago)
 - [Why to write?](https://ferhatelmas.com/why-to-write) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 day ago)
-- [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (2 weeks ago)
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (2 days ago)
+- [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (3 weeks ago)
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (1 month ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (1 month ago)
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (2 months ago)
