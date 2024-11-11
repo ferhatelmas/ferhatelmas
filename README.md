@@ -56,8 +56,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
+- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (today)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (6 days ago)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (3 weeks ago)
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (1 month ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (1 month ago)
-- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT (2 months ago)
