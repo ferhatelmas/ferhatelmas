@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (today)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (4 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (5 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (5 months ago)
@@ -35,12 +35,12 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 🚀 Latest releases I've contributed to
 
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.80](https://github.com/minio/minio-go/releases/tag/v7.0.80), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
-- [imroc/req](https://github.com/imroc/req) ([v3.48.0](https://github.com/imroc/req/releases/tag/v3.48.0), 4 weeks ago) - Simple Go HTTP client with Black Magic
+- [imroc/req](https://github.com/imroc/req) ([v3.48.0](https://github.com/imroc/req/releases/tag/v3.48.0), 1 month ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 4 months ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (2 months ago)
+- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (3 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (4 months ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (5 months ago)
 - [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (7 months ago)
@@ -56,7 +56,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (1 day ago)
+- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (2 days ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 week ago)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (3 weeks ago)
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, and toolchain. (1 month ago)
