@@ -34,8 +34,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [imroc/req](https://github.com/imroc/req) ([v3.49.0](https://github.com/imroc/req/releases/tag/v3.49.0), today) - Simple Go HTTP client with Black Magic
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.82](https://github.com/minio/minio-go/releases/tag/v7.0.82), 3 days ago) - MinIO Go client SDK for S3 compatible object storage
-- [imroc/req](https://github.com/imroc/req) ([v3.48.0](https://github.com/imroc/req/releases/tag/v3.48.0), 2 months ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.17.1](https://github.com/samber/slog-common/releases/tag/v0.17.1), 5 months ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
