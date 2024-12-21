@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (5 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (7 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (7 months ago)
@@ -34,9 +34,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.0](https://github.com/samber/slog-common/releases/tag/v0.18.0), 2 days ago) - Common toolchain for slog
-- [imroc/req](https://github.com/imroc/req) ([v3.49.0](https://github.com/imroc/req/releases/tag/v3.49.0), 3 days ago) - Simple Go HTTP client with Black Magic
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.82](https://github.com/minio/minio-go/releases/tag/v7.0.82), 6 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.0](https://github.com/samber/slog-common/releases/tag/v0.18.0), 3 days ago) - Common toolchain for slog
+- [imroc/req](https://github.com/imroc/req) ([v3.49.0](https://github.com/imroc/req/releases/tag/v3.49.0), 4 days ago) - Simple Go HTTP client with Black Magic
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.82](https://github.com/minio/minio-go/releases/tag/v7.0.82), 1 week ago) - MinIO Go client SDK for S3 compatible object storage
 
 #### 🔨 Latest Pull Requests I published
 
