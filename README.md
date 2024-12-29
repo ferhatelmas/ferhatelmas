@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (5 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (7 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (7 months ago)
@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 3 days ago) - Simple Go HTTP client with Black Magic
+- [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 4 days ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.0](https://github.com/samber/slog-common/releases/tag/v0.18.0), 1 week ago) - Common toolchain for slog
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.82](https://github.com/minio/minio-go/releases/tag/v7.0.82), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 
@@ -59,5 +59,5 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (1 month ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 month ago)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (2 months ago)
-- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. (2 months ago)
+- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. (3 months ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (3 months ago)
