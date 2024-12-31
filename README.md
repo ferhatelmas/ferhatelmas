@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 week ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (5 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (7 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (7 months ago)
@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 5 days ago) - Simple Go HTTP client with Black Magic
+- [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 6 days ago) - Simple Go HTTP client with Black Magic
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.0](https://github.com/samber/slog-common/releases/tag/v0.18.0), 1 week ago) - Common toolchain for slog
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.82](https://github.com/minio/minio-go/releases/tag/v7.0.82), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 
@@ -44,7 +44,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (4 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (5 months ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (7 months ago)
-- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (8 months ago)
+- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (9 months ago)
 
 #### 📚 Latest Blog posts
 
