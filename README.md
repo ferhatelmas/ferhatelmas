@@ -34,13 +34,13 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 6 days ago) - Simple Go HTTP client with Black Magic
-- [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.0](https://github.com/samber/slog-common/releases/tag/v0.18.0), 1 week ago) - Common toolchain for slog
+- [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 1 week ago) - Simple Go HTTP client with Black Magic
+- [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.0](https://github.com/samber/slog-common/releases/tag/v0.18.0), 2 weeks ago) - Common toolchain for slog
 - [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.82](https://github.com/minio/minio-go/releases/tag/v7.0.82), 2 weeks ago) - MinIO Go client SDK for S3 compatible object storage
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (3 weeks ago)
+- [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (4 weeks ago)
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (4 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (5 months ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (7 months ago)
