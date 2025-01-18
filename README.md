@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (6 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (7 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (8 months ago)
