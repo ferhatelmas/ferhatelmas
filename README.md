@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (today)
 - [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (1 month ago)
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (5 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (6 months ago)
 - [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (8 months ago)
-- [fix: use correct context for dial](https://github.com/imroc/req/pull/341) on [imroc/req](https://github.com/imroc/req) (9 months ago)
 
 #### 📚 Latest Blog posts
 
