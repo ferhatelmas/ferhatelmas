@@ -18,11 +18,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 week ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 weeks ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (6 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (8 months ago)
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (8 months ago)
-- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (9 months ago)
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (2 days ago)
+- [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (3 days ago)
 - [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (1 month ago)
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (5 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (6 months ago)
