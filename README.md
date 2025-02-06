@@ -48,11 +48,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/code-review-behaviors-the-critical-problem-of-cherry-picking) (1 day ago)
 - [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (6 months ago)
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (9 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (1 year ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (1 year ago)
-- [Why to write?](https://ferhatelmas.com/why-to-write) (1 year ago)
 
 #### ⭐ Recent Stars
 
