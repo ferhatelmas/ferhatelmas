@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 week ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (7 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (8 months ago)
@@ -48,7 +48,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
-- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/code-review-behaviors-the-critical-problem-of-cherry-picking) (2 days ago)
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/code-review-behaviors-the-critical-problem-of-cherry-picking) (3 days ago)
 - [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (6 months ago)
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (9 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (1 year ago)
