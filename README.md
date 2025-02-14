@@ -18,8 +18,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (1 day ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
+- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (2 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (2 weeks ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (7 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (8 months ago)
@@ -34,13 +34,13 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.85](https://github.com/minio/minio-go/releases/tag/v7.0.85), 4 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.85](https://github.com/minio/minio-go/releases/tag/v7.0.85), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.1](https://github.com/samber/slog-common/releases/tag/v0.18.1), 1 month ago) - Common toolchain for slog
 - [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 1 month ago) - Simple Go HTTP client with Black Magic
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (2 weeks ago)
+- [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (3 weeks ago)
 - [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (2 months ago)
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (6 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (7 months ago)
@@ -58,6 +58,6 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes (3 months ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (3 months ago)
-- [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (3 months ago)
+- [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (4 months ago)
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. (4 months ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (4 months ago)
