@@ -18,8 +18,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (2 days ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 days ago)
+- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (3 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (2 weeks ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (7 months ago)
 - [ferhatelmas/resume](https://github.com/ferhatelmas/resume) - My humble resume (8 months ago)
@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.86](https://github.com/minio/minio-go/releases/tag/v7.0.86), today) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.86](https://github.com/minio/minio-go/releases/tag/v7.0.86), 1 day ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.1](https://github.com/samber/slog-common/releases/tag/v0.18.1), 1 month ago) - Common toolchain for slog
 - [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 1 month ago) - Simple Go HTTP client with Black Magic
 
@@ -44,7 +44,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (2 months ago)
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (6 months ago)
 - [refactor: use std instead of util](https://github.com/samber/slog-common/pull/7) on [samber/slog-common](https://github.com/samber/slog-common) (7 months ago)
-- [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (8 months ago)
+- [fix: header cleanup](https://github.com/imroc/req/pull/355) on [imroc/req](https://github.com/imroc/req) (9 months ago)
 
 #### 📚 Latest Blog posts
 
