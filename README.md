@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 weeks ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (7 months ago)
@@ -34,7 +34,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.86](https://github.com/minio/minio-go/releases/tag/v7.0.86), 5 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.86](https://github.com/minio/minio-go/releases/tag/v7.0.86), 6 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.1](https://github.com/samber/slog-common/releases/tag/v0.18.1), 1 month ago) - Common toolchain for slog
 - [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 1 month ago) - Simple Go HTTP client with Black Magic
 
@@ -60,4 +60,4 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (3 months ago)
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (4 months ago)
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. (4 months ago)
-- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (4 months ago)
+- [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (5 months ago)
