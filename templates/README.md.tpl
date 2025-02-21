@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Twitter](https://img.shields.io/twitter/follow/ferhatelmas_?label=Twitter&style=social)](https://twitter.com/ferhatelmas_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ferhatelmas/)
 [![Goodreads](https://img.shields.io/badge/goodreads--_.svg?style=social&logo=goodreads)](https://www.goodreads.com/user/show/24238914-ferhat-elmas/)
 [![Website](https://img.shields.io/badge/website--_.svg?style=social&logo=rss)](https://ferhatelmas.com/)
@@ -45,3 +44,5 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+
+![Profile Views](https://komarev.com/ghpvc/?username=ferhatelmas&label=PROFILE+VIEWS&abbreviated=true)
