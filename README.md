@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Twitter](https://img.shields.io/twitter/follow/ferhatelmas_?label=Twitter&style=social)](https://twitter.com/ferhatelmas_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ferhatelmas/)
 [![Goodreads](https://img.shields.io/badge/goodreads--_.svg?style=social&logo=goodreads)](https://www.goodreads.com/user/show/24238914-ferhat-elmas/)
 [![Website](https://img.shields.io/badge/website--_.svg?style=social&logo=rss)](https://ferhatelmas.com/)
@@ -61,3 +60,5 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare (4 months ago)
 - [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer. (4 months ago)
 - [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions (5 months ago)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ferhatelmas&label=PROFILE+VIEWS&abbreviated=true)
