@@ -17,7 +17,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 day ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 days ago)
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (1 week ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 weeks ago)
 - [samber/slog-common](https://github.com/samber/slog-common) - Common toolchain for slog (7 months ago)
@@ -33,7 +33,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.87](https://github.com/minio/minio-go/releases/tag/v7.0.87), 3 days ago) - MinIO Go client SDK for S3 compatible object storage
+- [minio/minio-go](https://github.com/minio/minio-go) ([v7.0.87](https://github.com/minio/minio-go/releases/tag/v7.0.87), 4 days ago) - MinIO Go client SDK for S3 compatible object storage
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.18.1](https://github.com/samber/slog-common/releases/tag/v0.18.1), 1 month ago) - Common toolchain for slog
 - [imroc/req](https://github.com/imroc/req) ([v3.49.1](https://github.com/imroc/req/releases/tag/v3.49.1), 2 months ago) - Simple Go HTTP client with Black Magic
 
@@ -48,7 +48,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 📚 Latest Blog posts
 
 - [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/code-review-behaviors-the-critical-problem-of-cherry-picking) (2 weeks ago)
-- [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (6 months ago)
+- [Candlelight Concert Review: A Disappointing Tribute to Adele](https://ferhatelmas.com/candlelight-concert-review-a-disappointing-tribute-to-adele) (7 months ago)
 - [Why to see Three Billboards Outside Ebbing, Missouri ? (2017)](https://ferhatelmas.com/why-to-see-three-billboards-outside-ebbing-missouri-2017) (10 months ago)
 - [Highlights of Orwell Socialism](https://ferhatelmas.com/highlights-of-orwell-socialism) (1 year ago)
 - [Ongoing (practical) problems of ML development](https://ferhatelmas.com/ongoing-practical-problems-of-ml-development) (1 year ago)
