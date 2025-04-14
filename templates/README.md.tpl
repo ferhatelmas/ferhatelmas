@@ -1,11 +1,10 @@
-### Hi there 👋
+### 👋 &nbsp; Ciao, I'm Ferhat! <img align="right" src="https://komarev.com/ghpvc/?username=ferhatelmas" />
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/ferhatelmas/)
 [![Goodreads](https://img.shields.io/badge/goodreads--_.svg?style=social&logo=goodreads)](https://www.goodreads.com/user/show/24238914-ferhat-elmas/)
 [![Website](https://img.shields.io/badge/website--_.svg?style=social&logo=rss)](https://ferhatelmas.com/)
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:elmas.ferhat@gmail.com)
 -----------
 
-I am ferhat, a curious mind.
 Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Workers Storage (KV, R2, D1, DO, etc.)](https://developers.cloudflare.com/products/?product-group=Storage).
 
 <!-- The open source projects that I'm currently focusing on are: -->
@@ -44,5 +43,3 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
-
-![Profile Views](https://komarev.com/ghpvc/?username=ferhatelmas&label=PROFILE+VIEWS&abbreviated=true)
