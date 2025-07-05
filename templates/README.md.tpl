@@ -35,7 +35,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 {{- end}}
 
 #### 📚 Latest Blog posts
-{{range rss "https://ferhatelmas.com/rss.xml" 5}}
+{{range rss "https://ferhatelmas.com/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
