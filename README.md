@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (today)
+- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (1 day ago)
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (1 month ago)
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (3 months ago)
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (4 months ago)
@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/pages-shared@0.13.52](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.52), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/pages-shared@0.13.52](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.52), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.19.0](https://github.com/samber/slog-common/releases/tag/v0.19.0), 2 weeks ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
