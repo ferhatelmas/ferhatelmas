@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@4.20250705.0](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%404.20250705.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@3.114.11](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%403.114.11), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [samber/slog-common](https://github.com/samber/slog-common) ([v0.19.0](https://github.com/samber/slog-common/releases/tag/v0.19.0), 2 weeks ago) - Common toolchain for slog
 
 #### 🔨 Latest Pull Requests I published
