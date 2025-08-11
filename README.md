@@ -19,7 +19,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (1 month ago)
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (2 months ago)
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (4 months ago)
-- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (5 months ago)
+- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (6 months ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (6 months ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.1](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.1), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.1](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.1), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
