@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.1](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.1), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.1](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.1), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
