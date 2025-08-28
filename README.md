@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([turbo-r2-archive@0.0.4](https://github.com/cloudflare/workers-sdk/releases/tag/turbo-r2-archive%400.0.4), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.33.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.33.1), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
