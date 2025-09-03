@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.33.2](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.33.2), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.33.2](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.33.2), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,7 +44,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 📚 Latest Blog posts
 
-- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (6 months ago)
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (7 months ago)
 - [How to control date in a git commit properly](https://ferhatelmas.com/blog/how-to-commit-in-the-past) (2 years ago)
 
 #### ⭐ Recent Stars
