@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.12.3](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.12.3), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.12.3](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.12.3), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
