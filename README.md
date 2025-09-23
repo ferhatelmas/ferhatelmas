@@ -18,7 +18,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (1 month ago)
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 months ago)
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (5 months ago)
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (6 months ago)
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (7 months ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (7 months ago)
 
@@ -32,11 +32,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.38.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.38.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.38.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.38.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix Workers KV ownership](https://github.com/cloudflare/workers-sdk/pull/8693) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (5 months ago)
+- [Fix Workers KV ownership](https://github.com/cloudflare/workers-sdk/pull/8693) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (6 months ago)
 - [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (8 months ago)
 - [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (9 months ago)
 - [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (1 year ago)
