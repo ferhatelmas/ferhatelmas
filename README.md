@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (today)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (3 days ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (1 month ago)
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (4 months ago)
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (6 months ago)
-- [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,14 +34,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 4 days ago) - Thread-safe file locking library in Go
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.42.2](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.42.2), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.5.0](https://github.com/golangci/golangci-lint/releases/tag/v2.5.0), 3 weeks ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [dev: no semaphore if canceled](https://github.com/golangci/golangci-lint/pull/6128) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (today)
 - [feat: add Stat method](https://github.com/gofrs/flock/pull/127) on [gofrs/flock](https://github.com/gofrs/flock) (4 days ago)
 - [Fix Workers KV ownership](https://github.com/cloudflare/workers-sdk/pull/8693) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (6 months ago)
 - [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (8 months ago)
 - [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (10 months ago)
-- [refactor: move oidc package to jwsig](https://github.com/openpubkey/openpubkey/pull/211) on [openpubkey/openpubkey](https://github.com/openpubkey/openpubkey) (1 year ago)
 
 #### 📚 Latest Blog posts
 
