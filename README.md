@@ -32,8 +32,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.13.13](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.13.13), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 5 days ago) - Thread-safe file locking library in Go
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.42.2](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.42.2), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.5.0](https://github.com/golangci/golangci-lint/releases/tag/v2.5.0), 3 weeks ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
