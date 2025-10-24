@@ -17,7 +17,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 👷 Check out what I'm currently working on
 
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 week ago)
-- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 week ago)
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (2 weeks ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (2 months ago)
 - [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 months ago)
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers® (7 months ago)
@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.54.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.54.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 2 weeks ago) - Thread-safe file locking library in Go
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.5.0](https://github.com/golangci/golangci-lint/releases/tag/v2.5.0), 1 month ago) - Fast linters runner for Go
 
