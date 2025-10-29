@@ -32,17 +32,17 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.10.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.10.1), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.10.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.10.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 2 weeks ago) - Thread-safe file locking library in Go
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.5.0](https://github.com/golangci/golangci-lint/releases/tag/v2.5.0), 1 month ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (1 day ago)
+- [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (1 day ago)
 - [dev: no semaphore if canceled](https://github.com/golangci/golangci-lint/pull/6128) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (2 weeks ago)
 - [feat: add Stat method](https://github.com/gofrs/flock/pull/127) on [gofrs/flock](https://github.com/gofrs/flock) (2 weeks ago)
 - [Fix Workers KV ownership](https://github.com/cloudflare/workers-sdk/pull/8693) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (7 months ago)
-- [Update limits of KV namespaces to 1000](https://github.com/cloudflare/cloudflare-docs/pull/19404) on [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) (9 months ago)
-- [ci: disable testifylint since pkg is not used](https://github.com/NVIDIA/aistore/pull/193) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (10 months ago)
 
 #### 📚 Latest Blog posts
 
