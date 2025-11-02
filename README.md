@@ -32,21 +32,21 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.54.1](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.54.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.0](https://github.com/golangci/golangci-lint/releases/tag/v2.6.0), 3 days ago) - Fast linters runner for Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.54.1](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.54.1), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.0](https://github.com/golangci/golangci-lint/releases/tag/v2.6.0), 4 days ago) - Fast linters runner for Go
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 3 weeks ago) - Thread-safe file locking library in Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (4 days ago)
-- [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (4 days ago)
+- [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (5 days ago)
+- [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (5 days ago)
 - [dev: no semaphore if canceled](https://github.com/golangci/golangci-lint/pull/6128) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (2 weeks ago)
 - [feat: add Stat method](https://github.com/gofrs/flock/pull/127) on [gofrs/flock](https://github.com/gofrs/flock) (3 weeks ago)
 - [Fix Workers KV ownership](https://github.com/cloudflare/workers-sdk/pull/8693) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (7 months ago)
 
 #### 📚 Latest Blog posts
 
-- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (8 months ago)
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (9 months ago)
 - [How to control date in a git commit properly](https://ferhatelmas.com/blog/how-to-commit-in-the-past) (2 years ago)
 
 #### ⭐ Recent Stars
