@@ -38,11 +38,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: typo in user facing error message](https://github.com/supabase/storage/pull/795) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (1 week ago)
 - [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (1 week ago)
 - [dev: no semaphore if canceled](https://github.com/golangci/golangci-lint/pull/6128) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (3 weeks ago)
 - [feat: add Stat method](https://github.com/gofrs/flock/pull/127) on [gofrs/flock](https://github.com/gofrs/flock) (4 weeks ago)
-- [Fix Workers KV ownership](https://github.com/cloudflare/workers-sdk/pull/8693) on [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) (7 months ago)
 
 #### 📚 Latest Blog posts
 
