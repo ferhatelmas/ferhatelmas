@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.48.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.48.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.48.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.48.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.1](https://github.com/golangci/golangci-lint/releases/tag/v2.6.1), 1 week ago) - Fast linters runner for Go
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 1 month ago) - Thread-safe file locking library in Go
 
