@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
@@ -39,11 +39,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [internal: use clear built-in](https://github.com/go-git/go-git/pull/1726) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [internal: drop custom min/max funcs for built-ins](https://github.com/go-git/go-git/pull/1725) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [fix: typo in user facing error message](https://github.com/supabase/storage/pull/795) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 - [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (2 weeks ago)
 - [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (2 weeks ago)
-- [dev: no semaphore if canceled](https://github.com/golangci/golangci-lint/pull/6128) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (1 month ago)
 
 #### 📚 Latest Blog posts
 
