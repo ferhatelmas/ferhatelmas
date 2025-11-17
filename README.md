@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
-- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (2 months ago)
-- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (5 months ago)
+- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
+- [ferhatelmas/algo](https://github.com/ferhatelmas/algo) - :books: My solutions to algorithm problems on various websites (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,14 +32,14 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.2](https://github.com/golangci/golangci-lint/releases/tag/v2.6.2), 2 days ago) - Fast linters runner for Go
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.48.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.48.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.2](https://github.com/golangci/golangci-lint/releases/tag/v2.6.2), 3 days ago) - Fast linters runner for Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.48.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.48.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 1 month ago) - Thread-safe file locking library in Go
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.3](https://github.com/go-git/go-git/releases/tag/v5.16.3), 1 month ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [internal: drop custom min/max funcs for built-ins](https://github.com/go-git/go-git/pull/1725) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [internal: drop custom min/max funcs for built-ins](https://github.com/go-git/go-git/pull/1725) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [fix: typo in user facing error message](https://github.com/supabase/storage/pull/795) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 - [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (2 weeks ago)
 - [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (2 weeks ago)
