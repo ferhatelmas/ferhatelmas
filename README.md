@@ -39,11 +39,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor(internal): compile regex once while clearing text](https://github.com/apache/answer/pull/1430) on [apache/answer](https://github.com/apache/answer) (today)
 - [internal: use clear built-in](https://github.com/go-git/go-git/pull/1726) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [internal: drop custom min/max funcs for built-ins](https://github.com/go-git/go-git/pull/1725) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [fix: typo in user facing error message](https://github.com/supabase/storage/pull/795) on [supabase/storage](https://github.com/supabase/storage) (2 weeks ago)
 - [dev: prealloc intermediate slice in max same issues](https://github.com/golangci/golangci-lint/pull/6156) on [golangci/golangci-lint](https://github.com/golangci/golangci-lint) (3 weeks ago)
-- [Fixes in docs](https://github.com/acoustid/acoustid-server/pull/212) on [acoustid/acoustid-server](https://github.com/acoustid/acoustid-server) (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
