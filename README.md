@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
@@ -32,18 +32,18 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 days ago) - A highly extensible Git implementation in pure Go.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.50.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.50.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 3 days ago) - A highly extensible Git implementation in pure Go.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.50.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.50.0), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.2](https://github.com/golangci/golangci-lint/releases/tag/v2.6.2), 1 week ago) - Fast linters runner for Go
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 1 month ago) - Thread-safe file locking library in Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: multi byte run boundary for cut long title](https://github.com/apache/answer/pull/1431) on [apache/answer](https://github.com/apache/answer) (1 day ago)
-- [refactor(internal): compile regex once while clearing text](https://github.com/apache/answer/pull/1430) on [apache/answer](https://github.com/apache/answer) (3 days ago)
-- [internal: use clear built-in](https://github.com/go-git/go-git/pull/1726) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [internal: drop custom min/max funcs for built-ins](https://github.com/go-git/go-git/pull/1725) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
-- [fix: typo in user facing error message](https://github.com/supabase/storage/pull/795) on [supabase/storage](https://github.com/supabase/storage) (2 weeks ago)
+- [*: enable formatters in golangci-lint](https://github.com/go-git/go-git/pull/1754) on [go-git/go-git](https://github.com/go-git/go-git) (today)
+- [git: fix flaky remote timeout test](https://github.com/go-git/go-git/pull/1752) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [refactor(plumbing): improve revfile encode/decode](https://github.com/go-git/go-git/pull/1750) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [fix: multi byte run boundary for cut long title](https://github.com/apache/answer/pull/1431) on [apache/answer](https://github.com/apache/answer) (2 days ago)
+- [refactor(internal): compile regex once while clearing text](https://github.com/apache/answer/pull/1430) on [apache/answer](https://github.com/apache/answer) (4 days ago)
 
 #### 📚 Latest Blog posts
 
