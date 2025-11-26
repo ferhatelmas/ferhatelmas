@@ -39,11 +39,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(ui): null pointer access if get branding fails](https://github.com/apache/answer/pull/1433) on [apache/answer](https://github.com/apache/answer) (today)
 - [*: enable formatters in golangci-lint](https://github.com/go-git/go-git/pull/1754) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [git: fix flaky remote timeout test](https://github.com/go-git/go-git/pull/1752) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [refactor(plumbing): improve revfile encode/decode](https://github.com/go-git/go-git/pull/1750) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [fix: multi byte run boundary for cut long title](https://github.com/apache/answer/pull/1431) on [apache/answer](https://github.com/apache/answer) (2 days ago)
-- [refactor(internal): compile regex once while clearing text](https://github.com/apache/answer/pull/1430) on [apache/answer](https://github.com/apache/answer) (4 days ago)
 
 #### 📚 Latest Blog posts
 
