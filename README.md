@@ -39,11 +39,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [Enable whitespace and prealloc linters](https://github.com/go-git/go-git/pull/1761) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [chore(deps): bump mockgen to 0.6.0 for go1.25 support](https://github.com/apache/answer/pull/1434) on [apache/answer](https://github.com/apache/answer) (1 day ago)
 - [Enable unused and modernize linters](https://github.com/go-git/go-git/pull/1757) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [Enable ineffassign &amp; staticcheck linters](https://github.com/go-git/go-git/pull/1756) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [fix(ui): null pointer access if get branding fails](https://github.com/apache/answer/pull/1433) on [apache/answer](https://github.com/apache/answer) (2 days ago)
 
 #### 📚 Latest Blog posts
 
