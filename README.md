@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
@@ -32,18 +32,18 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.51.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.51.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 5 days ago) - A highly extensible Git implementation in pure Go.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.51.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.51.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.2](https://github.com/golangci/golangci-lint/releases/tag/v2.6.2), 2 weeks ago) - Fast linters runner for Go
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 1 month ago) - Thread-safe file locking library in Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (today)
-- [Enable whitespace and prealloc linters](https://github.com/go-git/go-git/pull/1761) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
-- [chore(deps): bump mockgen to 0.6.0 for go1.25 support](https://github.com/apache/answer/pull/1434) on [apache/answer](https://github.com/apache/answer) (1 day ago)
-- [Enable unused and modernize linters](https://github.com/go-git/go-git/pull/1757) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [Enable ineffassign &amp; staticcheck linters](https://github.com/go-git/go-git/pull/1756) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (1 day ago)
+- [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [Enable whitespace and prealloc linters](https://github.com/go-git/go-git/pull/1761) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
+- [chore(deps): bump mockgen to 0.6.0 for go1.25 support](https://github.com/apache/answer/pull/1434) on [apache/answer](https://github.com/apache/answer) (2 days ago)
+- [Enable unused and modernize linters](https://github.com/go-git/go-git/pull/1757) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 
 #### 📚 Latest Blog posts
 
