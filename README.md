@@ -39,11 +39,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor: drop multierror in favor of std](https://github.com/cli/cli/pull/12234) on [cli/cli](https://github.com/cli/cli) (today)
 - [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (2 days ago)
 - [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [Enable whitespace and prealloc linters](https://github.com/go-git/go-git/pull/1761) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
 - [chore(deps): bump mockgen to 0.6.0 for go1.25 support](https://github.com/apache/answer/pull/1434) on [apache/answer](https://github.com/apache/answer) (3 days ago)
-- [Enable unused and modernize linters](https://github.com/go-git/go-git/pull/1757) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📚 Latest Blog posts
 
