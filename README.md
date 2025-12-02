@@ -32,22 +32,22 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.51.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.51.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.51.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.51.0), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.2](https://github.com/golangci/golangci-lint/releases/tag/v2.6.2), 2 weeks ago) - Fast linters runner for Go
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 1 month ago) - Thread-safe file locking library in Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: drop multierror in favor of std](https://github.com/cli/cli/pull/12234) on [cli/cli](https://github.com/cli/cli) (1 day ago)
-- [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (3 days ago)
-- [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Enable whitespace and prealloc linters](https://github.com/go-git/go-git/pull/1761) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [chore(deps): bump mockgen to 0.6.0 for go1.25 support](https://github.com/apache/answer/pull/1434) on [apache/answer](https://github.com/apache/answer) (4 days ago)
+- [refactor(lint): add new linters and fix their issues](https://github.com/apache/answer/pull/1445) on [apache/answer](https://github.com/apache/answer) (1 day ago)
+- [consensus: fix error message formatting](https://github.com/ethereum/go-ethereum/pull/33341) on [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) (1 day ago)
+- [refactor: drop multierror in favor of std](https://github.com/cli/cli/pull/12234) on [cli/cli](https://github.com/cli/cli) (2 days ago)
+- [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (4 days ago)
+- [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 
 #### 📚 Latest Blog posts
 
-- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (9 months ago)
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (10 months ago)
 - [How to control date in a git commit properly](https://ferhatelmas.com/blog/how-to-commit-in-the-past) (2 years ago)
 
 #### ⭐ Recent Stars
