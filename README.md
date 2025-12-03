@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 day ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/workflows-shared@0.3.9](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/workflows-shared%400.3.9), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/workflows-shared@0.3.9](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/workflows-shared%400.3.9), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.6.2](https://github.com/golangci/golangci-lint/releases/tag/v2.6.2), 2 weeks ago) - Fast linters runner for Go
 - [cli/cli](https://github.com/cli/cli) ([v2.83.1](https://github.com/cli/cli/releases/tag/v2.83.1), 2 weeks ago) - GitHub’s official command line tool
@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(lint): add new linters and fix their issues](https://github.com/apache/answer/pull/1445) on [apache/answer](https://github.com/apache/answer) (1 day ago)
-- [consensus: fix error message formatting](https://github.com/ethereum/go-ethereum/pull/33341) on [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) (1 day ago)
-- [refactor: drop multierror in favor of std](https://github.com/cli/cli/pull/12234) on [cli/cli](https://github.com/cli/cli) (2 days ago)
-- [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (4 days ago)
-- [Enable misspell &amp; dupl linters](https://github.com/go-git/go-git/pull/1764) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [*: enable revive linter](https://github.com/go-git/go-git/pull/1771) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [refactor(lint): add new linters and fix their issues](https://github.com/apache/answer/pull/1445) on [apache/answer](https://github.com/apache/answer) (2 days ago)
+- [consensus: fix error message formatting](https://github.com/ethereum/go-ethereum/pull/33341) on [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) (2 days ago)
+- [refactor: drop multierror in favor of std](https://github.com/cli/cli/pull/12234) on [cli/cli](https://github.com/cli/cli) (3 days ago)
+- [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (5 days ago)
 
 #### 📚 Latest Blog posts
 
