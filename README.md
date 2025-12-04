@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.0](https://github.com/golangci/golangci-lint/releases/tag/v2.7.0), 1 day ago) - Fast linters runner for Go
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.1](https://github.com/golangci/golangci-lint/releases/tag/v2.7.1), today) - Fast linters runner for Go
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.57.1](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.57.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.1](https://github.com/cli/cli/releases/tag/v2.83.1), 3 weeks ago) - GitHub’s official command line tool
