@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (3 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
