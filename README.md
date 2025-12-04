@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [git: prevent panic when tree entry has zero hash](https://github.com/go-git/go-git/pull/1778) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [*: enable revive linter](https://github.com/go-git/go-git/pull/1771) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [refactor(lint): add new linters and fix their issues](https://github.com/apache/answer/pull/1445) on [apache/answer](https://github.com/apache/answer) (3 days ago)
 - [consensus: fix error message formatting](https://github.com/ethereum/go-ethereum/pull/33341) on [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) (3 days ago)
 - [refactor: drop multierror in favor of std](https://github.com/cli/cli/pull/12234) on [cli/cli](https://github.com/cli/cli) (4 days ago)
-- [feat: add golangci-lint to lint target](https://github.com/apache/answer/pull/1437) on [apache/answer](https://github.com/apache/answer) (6 days ago)
 
 #### 📚 Latest Blog posts
 
