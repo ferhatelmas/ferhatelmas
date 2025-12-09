@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (today)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (2 months ago)
-- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +36,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.53.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.53.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.1](https://github.com/cli/cli/releases/tag/v2.83.1), 3 weeks ago) - GitHub’s official command line tool
-- [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 2 months ago) - Thread-safe file locking library in Go
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.4.0](https://github.com/apache/iceberg-go/releases/tag/v0.4.0), 1 month ago) - Apache Iceberg - Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(catalog/sql): handle error for metadata location while dropping view](https://github.com/apache/iceberg-go/pull/648) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [refactor: improve queues](https://github.com/apache/answer/pull/1453) on [apache/answer](https://github.com/apache/answer) (today)
 - [fix(table): handle error in unmarshal of snapshot ref](https://github.com/apache/iceberg-go/pull/646) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [*: enable errcheck linter](https://github.com/go-git/go-git/pull/1786) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [Enable gocritic and nolintlint linters](https://github.com/go-git/go-git/pull/1781) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [git: prevent panic when tree entry has zero hash](https://github.com/go-git/go-git/pull/1778) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 
 #### 📚 Latest Blog posts
 
