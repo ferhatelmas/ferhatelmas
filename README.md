@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor: improve queues](https://github.com/apache/answer/pull/1453) on [apache/answer](https://github.com/apache/answer) (today)
 - [fix(table): handle error in unmarshal of snapshot ref](https://github.com/apache/iceberg-go/pull/646) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [*: enable errcheck linter](https://github.com/go-git/go-git/pull/1786) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [Enable gocritic and nolintlint linters](https://github.com/go-git/go-git/pull/1781) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [git: prevent panic when tree entry has zero hash](https://github.com/go-git/go-git/pull/1778) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
-- [*: enable revive linter](https://github.com/go-git/go-git/pull/1771) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📚 Latest Blog posts
 
