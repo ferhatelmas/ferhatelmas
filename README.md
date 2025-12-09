@@ -16,10 +16,10 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
-- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (1 month ago)
+- [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (2 months ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (3 months ago)
 
 #### 🌱 My latest projects
@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 1 day ago) - Fast linters runner for Go
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.53.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.53.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 2 days ago) - Fast linters runner for Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.53.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.53.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.1](https://github.com/cli/cli/releases/tag/v2.83.1), 3 weeks ago) - GitHub’s official command line tool
 - [gofrs/flock](https://github.com/gofrs/flock) ([v0.13.0](https://github.com/gofrs/flock/releases/tag/v0.13.0), 2 months ago) - Thread-safe file locking library in Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [*: enable errcheck linter](https://github.com/go-git/go-git/pull/1786) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Enable gocritic and nolintlint linters](https://github.com/go-git/go-git/pull/1781) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [git: prevent panic when tree entry has zero hash](https://github.com/go-git/go-git/pull/1778) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
-- [*: enable revive linter](https://github.com/go-git/go-git/pull/1771) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
-- [refactor(lint): add new linters and fix their issues](https://github.com/apache/answer/pull/1445) on [apache/answer](https://github.com/apache/answer) (1 week ago)
+- [fix(table): handle error in unmarshal of snapshot ref](https://github.com/apache/iceberg-go/pull/646) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [*: enable errcheck linter](https://github.com/go-git/go-git/pull/1786) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [Enable gocritic and nolintlint linters](https://github.com/go-git/go-git/pull/1781) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [git: prevent panic when tree entry has zero hash](https://github.com/go-git/go-git/pull/1778) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
+- [*: enable revive linter](https://github.com/go-git/go-git/pull/1771) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 
 #### 📚 Latest Blog posts
 
