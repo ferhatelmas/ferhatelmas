@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: correct updateTable return type in readme](https://github.com/supabase/iceberg-js/pull/31) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (today)
+- [fix: use kebab-case to align with spec](https://github.com/supabase/iceberg-js/pull/30) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (today)
 - [chore(ci): drop backup golangci configuration](https://github.com/apache/iceberg-go/pull/649) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [fix(catalog/sql): handle error for metadata location while dropping view](https://github.com/apache/iceberg-go/pull/648) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [refactor: improve queues](https://github.com/apache/answer/pull/1453) on [apache/answer](https://github.com/apache/answer) (1 day ago)
-- [fix(table): handle error in unmarshal of snapshot ref](https://github.com/apache/iceberg-go/pull/646) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
-- [*: enable errcheck linter](https://github.com/go-git/go-git/pull/1786) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 
 #### 📚 Latest Blog posts
 
