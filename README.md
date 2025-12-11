@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
 - [gofrs/flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go (2 months ago)
@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), today) - GitHub’s official command line tool
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 3 days ago) - Fast linters runner for Go
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.53.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.53.0), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 1 day ago) - GitHub’s official command line tool
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 4 days ago) - Fast linters runner for Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.53.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.53.0), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.4.0](https://github.com/apache/iceberg-go/releases/tag/v0.4.0), 1 month ago) - Apache Iceberg - Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: correct updateTable return type in readme](https://github.com/supabase/iceberg-js/pull/31) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (today)
-- [fix: use kebab-case to align with spec](https://github.com/supabase/iceberg-js/pull/30) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (today)
-- [chore(ci): drop backup golangci configuration](https://github.com/apache/iceberg-go/pull/649) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [fix(catalog/sql): handle error for metadata location while dropping view](https://github.com/apache/iceberg-go/pull/648) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [refactor: improve queues](https://github.com/apache/answer/pull/1453) on [apache/answer](https://github.com/apache/answer) (1 day ago)
+- [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (1 day ago)
+- [docs: correct updateTable return type in readme](https://github.com/supabase/iceberg-js/pull/31) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (1 day ago)
+- [fix: use kebab-case to align with spec](https://github.com/supabase/iceberg-js/pull/30) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (1 day ago)
+- [chore(ci): drop backup golangci configuration](https://github.com/apache/iceberg-go/pull/649) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
+- [fix(catalog/sql): handle error for metadata location while dropping view](https://github.com/apache/iceberg-go/pull/648) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 
 #### 📚 Latest Blog posts
 
