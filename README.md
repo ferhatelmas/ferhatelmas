@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
 - [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (2 days ago)
 - [docs: correct updateTable return type in readme](https://github.com/supabase/iceberg-js/pull/31) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (2 days ago)
-- [fix: use kebab-case to align with spec](https://github.com/supabase/iceberg-js/pull/30) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (2 days ago)
 
 #### 📚 Latest Blog posts
 
