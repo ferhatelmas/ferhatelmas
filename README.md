@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 day ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.54.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/answer](https://github.com/apache/answer) ([v1.7.1-RC1](https://github.com/apache/answer/releases/tag/v1.7.1-RC1), today) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 1 day ago) - GitHub’s official command line tool
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 4 days ago) - Fast linters runner for Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.54.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/answer](https://github.com/apache/answer) ([v1.7.1-RC1](https://github.com/apache/answer/releases/tag/v1.7.1-RC1), 1 day ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 2 days ago) - GitHub’s official command line tool
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 5 days ago) - Fast linters runner for Go
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (today)
-- [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (1 day ago)
-- [docs: correct updateTable return type in readme](https://github.com/supabase/iceberg-js/pull/31) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (1 day ago)
-- [fix: use kebab-case to align with spec](https://github.com/supabase/iceberg-js/pull/30) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (1 day ago)
-- [chore(ci): drop backup golangci configuration](https://github.com/apache/iceberg-go/pull/649) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
+- [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
+- [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
+- [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (2 days ago)
+- [docs: correct updateTable return type in readme](https://github.com/supabase/iceberg-js/pull/31) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (2 days ago)
+- [fix: use kebab-case to align with spec](https://github.com/supabase/iceberg-js/pull/30) on [supabase/iceberg-js](https://github.com/supabase/iceberg-js) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -53,8 +53,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
-- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. (3 months ago)
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (3 months ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 months ago)
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. (4 months ago)
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (4 months ago)
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage. (9 months ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (9 months ago)
