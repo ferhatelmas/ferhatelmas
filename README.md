@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (1 day ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 days ago)
-- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
+- [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (2 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (3 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (4 days ago)
+- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (2 weeks ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.54.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/answer](https://github.com/apache/answer) ([v1.7.1-RC1](https://github.com/apache/answer/releases/tag/v1.7.1-RC1), 3 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 4 days ago) - GitHub’s official command line tool
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.54.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/answer](https://github.com/apache/answer) ([v1.7.1-RC1](https://github.com/apache/answer/releases/tag/v1.7.1-RC1), 4 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 5 days ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 1 week ago) - Fast linters runner for Go
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.4](https://github.com/go-git/go-git/releases/tag/v5.16.4), 3 weeks ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
-- [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
-- [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (3 days ago)
-- [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (4 days ago)
+- [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
+- [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (4 days ago)
+- [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (5 days ago)
 
 #### 📚 Latest Blog posts
 
