@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.55.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.55.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/answer](https://github.com/apache/answer) ([v1.7.1-RC2](https://github.com/apache/answer/releases/tag/v1.7.1-RC2), today) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.54.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.54.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 6 days ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 1 week ago) - Fast linters runner for Go
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v0.8.1](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v0.8.1), 1 week ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
 
 #### 🔨 Latest Pull Requests I published
 
+- [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (today)
 - [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 - [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
 - [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (5 days ago)
-- [fix: some typos in docs](https://github.com/multigres/site/pull/33) on [multigres/site](https://github.com/multigres/site) (6 days ago)
 
 #### 📚 Latest Blog posts
 
