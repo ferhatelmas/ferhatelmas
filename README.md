@@ -16,19 +16,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) -  (today)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 days ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (4 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (6 days ago)
-- [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - 
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes
 - [ferhatelmas/murmurtest](https://github.com/ferhatelmas/murmurtest) - A test to compare murmur3 implementations
 - [ferhatelmas/zero](https://github.com/ferhatelmas/zero) - Remove zero space characters
-- [ferhatelmas/pi](https://github.com/ferhatelmas/pi) - Generate digits of PI with Taylor series
 
 #### 🚀 Latest releases I've contributed to
 
@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(kv): handle special characters correctly](https://github.com/cloudflare/terraform-provider-cloudflare/pull/6549) on [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) (today)
 - [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (1 day ago)
 - [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
 - [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (5 days ago)
 - [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (6 days ago)
-- [fix(s3store): correct label for delete part](https://github.com/tus/tusd/pull/1331) on [tus/tusd](https://github.com/tus/tusd) (6 days ago)
 
 #### 📚 Latest Blog posts
 
