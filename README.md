@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) -  (1 day ago)
+- [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - Repro for an issue (1 day ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (3 days ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (5 days ago)
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (6 days ago)
@@ -24,7 +24,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🌱 My latest projects
 
-- [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - 
+- [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - Repro for an issue
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website
 - [ferhatelmas/til](https://github.com/ferhatelmas/til) - TIL: Today I Learned Notes
 - [ferhatelmas/murmurtest](https://github.com/ferhatelmas/murmurtest) - A test to compare murmur3 implementations
