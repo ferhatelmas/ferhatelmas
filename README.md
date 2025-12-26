@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 days ago)
 - [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - Repro for an issue (1 week ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 week ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (1 week ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (1 week ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -32,18 +32,18 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.3](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.3), 6 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 6 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.3](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.3), 1 week ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 1 week ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 2 weeks ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 2 weeks ago) - Fast linters runner for Go
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v0.8.1](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v0.8.1), 2 weeks ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v0.8.1](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v0.8.1), 3 weeks ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
 
 #### 🔨 Latest Pull Requests I published
 
 - [fix(kv): handle special characters correctly](https://github.com/cloudflare/terraform-provider-cloudflare/pull/6549) on [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) (1 week ago)
 - [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
 - [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
-- [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
+- [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 
 #### 📚 Latest Blog posts
