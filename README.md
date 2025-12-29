@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (5 days ago)
+- [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (today)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (6 days ago)
 - [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (1 week ago)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 week ago)
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 weeks ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (2 weeks ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (2 weeks ago)
 
 #### 🌱 My latest projects
 
