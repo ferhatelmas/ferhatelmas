@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (today)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (6 days ago)
+- [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (1 day ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [ferhatelmas/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (1 week ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 weeks ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (2 weeks ago)
@@ -41,7 +41,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 🔨 Latest Pull Requests I published
 
 - [fix(kv): handle special characters correctly](https://github.com/cloudflare/terraform-provider-cloudflare/pull/6549) on [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) (1 week ago)
-- [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (1 week ago)
+- [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 weeks ago)
 - [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
