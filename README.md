@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas-archive/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas-archive/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (1 day ago)
-- [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (2 days ago)
+- [ferhatelmas-archive/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas-archive/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (2 days ago)
+- [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (3 days ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 weeks ago)
 - [ferhatelmas/ferhatelmas.com](https://github.com/ferhatelmas/ferhatelmas.com) - My personal website (2 weeks ago)
@@ -44,11 +44,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
 - [fix(catalog/rest): do not leak response bodies](https://github.com/apache/iceberg-go/pull/655) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 weeks ago)
 - [*: drop goproxy dependency](https://github.com/go-git/go-git/pull/1799) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
-- [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (2 weeks ago)
+- [*: enable paralleltest linter](https://github.com/go-git/go-git/pull/1798) on [go-git/go-git](https://github.com/go-git/go-git) (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
-- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (10 months ago)
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (11 months ago)
 - [How to control date in a git commit properly](https://ferhatelmas.com/blog/how-to-commit-in-the-past) (2 years ago)
 
 #### ⭐ Recent Stars
