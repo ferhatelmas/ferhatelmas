@@ -40,6 +40,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(table): close writers on error for every exit path](https://github.com/apache/iceberg-go/pull/667) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 
 #### 📚 Latest Blog posts
 
