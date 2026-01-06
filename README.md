@@ -40,8 +40,6 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(kv): handle special characters correctly](https://github.com/cloudflare/terraform-provider-cloudflare/pull/6549) on [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) (2 weeks ago)
-- [*: enable gosec linter](https://github.com/go-git/go-git/pull/1804) on [go-git/go-git](https://github.com/go-git/go-git) (3 weeks ago)
 
 #### 📚 Latest Blog posts
 
