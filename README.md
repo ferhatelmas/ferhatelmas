@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.3](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.3), 2 weeks ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/workers-utils@0.6.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/workers-utils%400.6.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 2 weeks ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 4 weeks ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 1 month ago) - Fast linters runner for Go
