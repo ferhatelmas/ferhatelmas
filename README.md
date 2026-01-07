@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (3 days ago)
+- [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
 - [ferhatelmas-archive/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas-archive/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (1 week ago)
 - [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 weeks ago)
@@ -34,13 +34,13 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@3.20250718.3](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%403.20250718.3), 2 weeks ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 2 weeks ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 3 weeks ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 4 weeks ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.7.2](https://github.com/golangci/golangci-lint/releases/tag/v2.7.2), 1 month ago) - Fast linters runner for Go
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v0.8.1](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v0.8.1), 1 month ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(table): close writers on error for every exit path](https://github.com/apache/iceberg-go/pull/667) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
+- [fix(table): close writers on error for every exit path](https://github.com/apache/iceberg-go/pull/667) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 
 #### 📚 Latest Blog posts
 
@@ -49,8 +49,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (4 days ago)
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (5 days ago)
+- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (5 days ago)
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (6 days ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 months ago)
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. (4 months ago)
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (4 months ago)
