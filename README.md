@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (today)
 - [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (4 days ago)
 - [ferhatelmas-archive/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas-archive/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (1 week ago)
 - [ferhatelmas-archive/scaling-communication-2](https://github.com/ferhatelmas-archive/scaling-communication-2) - A talk given @agflow (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 weeks ago)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (3 weeks ago)
 
 #### 🌱 My latest projects
 
