@@ -50,8 +50,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) -  (today)
 - [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (1 week ago)
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 months ago)
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. (5 months ago)
-- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers (5 months ago)
