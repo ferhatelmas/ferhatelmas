@@ -40,6 +40,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [handler: fix race for progress hook](https://github.com/tus/tusd/pull/1337) on [tus/tusd](https://github.com/tus/tusd) (today)
 - [fix(catalog): handle content-type header correctly for fetchToken](https://github.com/apache/iceberg-go/pull/673) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 - [fix(catalog,manifest): handle some ignored errors](https://github.com/apache/iceberg-go/pull/670) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (6 days ago)
 
