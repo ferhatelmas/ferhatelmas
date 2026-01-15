@@ -32,8 +32,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.4](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.4), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.85.0](https://github.com/cli/cli/releases/tag/v2.85.0), 1 day ago) - GitHub’s official command line tool
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.59.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.59.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.8.0](https://github.com/golangci/golangci-lint/releases/tag/v2.8.0), 1 week ago) - Fast linters runner for Go
 - [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 3 weeks ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v0.8.1](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v0.8.1), 1 month ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
