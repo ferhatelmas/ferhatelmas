@@ -16,9 +16,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (today)
 - [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (4 days ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (5 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (6 days ago)
 - [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (2 weeks ago)
 - [ferhatelmas-archive/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas-archive/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (2 weeks ago)
 
@@ -40,6 +40,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(table): no panic in duplicate schema keys](https://github.com/apache/iceberg-go/pull/684) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
+- [fix(table): close underlying counter in manifest creation](https://github.com/apache/iceberg-go/pull/683) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [handler: fix panic in hook emitting logic](https://github.com/tus/tusd/pull/1337) on [tus/tusd](https://github.com/tus/tusd) (5 days ago)
 - [fix(catalog): handle content-type header correctly for fetchToken](https://github.com/apache/iceberg-go/pull/673) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
 - [fix(catalog,manifest): handle some ignored errors](https://github.com/apache/iceberg-go/pull/670) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
