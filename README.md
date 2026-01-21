@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), today) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), today) - Cloudflare Terraform Provider
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.59.3](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.59.3), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cli/cli](https://github.com/cli/cli) ([v2.85.0](https://github.com/cli/cli/releases/tag/v2.85.0), 1 week ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.8.0](https://github.com/golangci/golangci-lint/releases/tag/v2.8.0), 2 weeks ago) - Fast linters runner for Go
 - [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 1 month ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(ci): add simplify into formatters](https://github.com/apache/iceberg-go/pull/689) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [fix(io): handle leak for error cases of open blob](https://github.com/apache/iceberg-go/pull/688) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [fix(table): handle early return for commit](https://github.com/apache/iceberg-go/pull/687) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [refactor(table): wrap manifest writing into closures](https://github.com/apache/iceberg-go/pull/685) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 - [fix(table): no panic in duplicate schema keys](https://github.com/apache/iceberg-go/pull/684) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
-- [fix(table): close underlying counter in manifest creation](https://github.com/apache/iceberg-go/pull/683) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 
 #### 📚 Latest Blog posts
 
