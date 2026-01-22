@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (today)
 - [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (2 weeks ago)
@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(table): find min seq correctly from manifest list](https://github.com/apache/iceberg-go/pull/693) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [refactor(iceberg): replace max util with std equivalent](https://github.com/apache/iceberg-go/pull/690) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [chore(ci): add simplify into formatters](https://github.com/apache/iceberg-go/pull/689) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [fix(io): handle leak for error cases of open blob](https://github.com/apache/iceberg-go/pull/688) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [fix(table): handle early return for commit](https://github.com/apache/iceberg-go/pull/687) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
-- [refactor(table): wrap manifest writing into closures](https://github.com/apache/iceberg-go/pull/685) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
 
 #### 📚 Latest Blog posts
 
