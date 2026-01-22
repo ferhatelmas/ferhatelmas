@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (today)
-- [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (6 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
+- [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (2 weeks ago)
 - [ferhatelmas-archive/terraform-provider-cloudflare-6542](https://github.com/ferhatelmas-archive/terraform-provider-cloudflare-6542) - Repro for the issue #6542 in cloudflare terraform provider v5.x (3 weeks ago)
@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), today) - GitHub’s official command line tool
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), today) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.59.3](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.59.3), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 1 day ago) - GitHub’s official command line tool
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), 1 day ago) - Cloudflare Terraform Provider
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.59.3](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.59.3), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.8.0](https://github.com/golangci/golangci-lint/releases/tag/v2.8.0), 2 weeks ago) - Fast linters runner for Go
 - [apache/answer](https://github.com/apache/answer) ([v1.7.1](https://github.com/apache/answer/releases/tag/v1.7.1), 1 month ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(ci): add simplify into formatters](https://github.com/apache/iceberg-go/pull/689) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
-- [fix(io): handle leak for error cases of open blob](https://github.com/apache/iceberg-go/pull/688) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
-- [fix(table): handle early return for commit](https://github.com/apache/iceberg-go/pull/687) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [refactor(table): wrap manifest writing into closures](https://github.com/apache/iceberg-go/pull/685) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
-- [fix(table): no panic in duplicate schema keys](https://github.com/apache/iceberg-go/pull/684) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
+- [refactor(iceberg): replace max util with std equivalent](https://github.com/apache/iceberg-go/pull/690) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [chore(ci): add simplify into formatters](https://github.com/apache/iceberg-go/pull/689) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [fix(io): handle leak for error cases of open blob](https://github.com/apache/iceberg-go/pull/688) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [fix(table): handle early return for commit](https://github.com/apache/iceberg-go/pull/687) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
+- [refactor(table): wrap manifest writing into closures](https://github.com/apache/iceberg-go/pull/685) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -55,6 +55,6 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) -  (1 week ago)
 - [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (2 weeks ago)
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (2 weeks ago)
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (3 weeks ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 months ago)
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in. (5 months ago)
