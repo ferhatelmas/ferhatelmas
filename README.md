@@ -16,7 +16,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (today)
 - [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [ferhatelmas-archive/algo](https://github.com/ferhatelmas-archive/algo) - :books: My solutions to algorithm problems on various websites (2 weeks ago)
