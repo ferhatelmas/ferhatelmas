@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.60.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.60.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.61.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.61.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 6 days ago) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), 6 days ago) - Cloudflare Terraform Provider
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.8.0](https://github.com/golangci/golangci-lint/releases/tag/v2.8.0), 2 weeks ago) - Fast linters runner for Go
