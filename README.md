@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix various godoc comments](https://github.com/jackc/pgx/pull/2493) on [jackc/pgx](https://github.com/jackc/pgx) (today)
 - [feat(ci): enable govet for lint](https://github.com/apache/iceberg-go/pull/706) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 - [refactor(ci): use staticcheck from golangci-lint](https://github.com/apache/iceberg-go/pull/700) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 - [fix(table): handle race for key map getter](https://github.com/apache/iceberg-go/pull/699) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 - [feat(ci): add lint action](https://github.com/apache/answer/pull/1478) on [apache/answer](https://github.com/apache/answer) (1 week ago)
-- [fix(table): find min seq correctly from manifest list](https://github.com/apache/iceberg-go/pull/693) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
 
 #### 📚 Latest Blog posts
 
