@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (3 days ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (5 days ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
 - [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (2 weeks ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +36,15 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [apache/answer](https://github.com/apache/answer) ([v2.0.0-RC2](https://github.com/apache/answer/releases/tag/v2.0.0-RC2), 4 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 1 week ago) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), 1 week ago) - Cloudflare Terraform Provider
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.8.0](https://github.com/golangci/golangci-lint/releases/tag/v2.8.0), 3 weeks ago) - Fast linters runner for Go
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.01](https://github.com/supabase/supabase/releases/tag/v1.26.01), 3 weeks ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: return content-type if missing](https://github.com/supabase/storage/pull/838) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: add @ferhatelmas into humans](https://github.com/supabase/supabase/pull/42392) on [supabase/supabase](https://github.com/supabase/supabase) (today)
 - [Fix various godoc comments](https://github.com/jackc/pgx/pull/2493) on [jackc/pgx](https://github.com/jackc/pgx) (3 days ago)
 - [feat(ci): enable govet for lint](https://github.com/apache/iceberg-go/pull/706) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 - [refactor(ci): use staticcheck from golangci-lint](https://github.com/apache/iceberg-go/pull/700) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
-- [fix(table): handle race for key map getter](https://github.com/apache/iceberg-go/pull/699) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
-- [feat(ci): add lint action](https://github.com/apache/answer/pull/1478) on [apache/answer](https://github.com/apache/answer) (1 week ago)
 
 #### 📚 Latest Blog posts
 
