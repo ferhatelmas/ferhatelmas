@@ -16,8 +16,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (4 days ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (3 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (5 days ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
 - [ferhatelmas-archive/scaling-communication](https://github.com/ferhatelmas-archive/scaling-communication) - A talk given @agflow (2 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 weeks ago)
@@ -32,16 +32,16 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@4.20260128.0](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%404.20260128.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/answer](https://github.com/apache/answer) ([v2.0.0-RC2](https://github.com/apache/answer/releases/tag/v2.0.0-RC2), 3 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@4.20260128.0](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%404.20260128.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/answer](https://github.com/apache/answer) ([v2.0.0-RC2](https://github.com/apache/answer/releases/tag/v2.0.0-RC2), 4 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 1 week ago) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), 1 week ago) - Cloudflare Terraform Provider
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.8.0](https://github.com/golangci/golangci-lint/releases/tag/v2.8.0), 3 weeks ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix various godoc comments](https://github.com/jackc/pgx/pull/2493) on [jackc/pgx](https://github.com/jackc/pgx) (2 days ago)
-- [feat(ci): enable govet for lint](https://github.com/apache/iceberg-go/pull/706) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (4 days ago)
+- [Fix various godoc comments](https://github.com/jackc/pgx/pull/2493) on [jackc/pgx](https://github.com/jackc/pgx) (3 days ago)
+- [feat(ci): enable govet for lint](https://github.com/apache/iceberg-go/pull/706) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 - [refactor(ci): use staticcheck from golangci-lint](https://github.com/apache/iceberg-go/pull/700) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
 - [fix(table): handle race for key map getter](https://github.com/apache/iceberg-go/pull/699) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 week ago)
 - [feat(ci): add lint action](https://github.com/apache/answer/pull/1478) on [apache/answer](https://github.com/apache/answer) (1 week ago)
