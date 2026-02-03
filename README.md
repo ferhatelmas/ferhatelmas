@@ -32,8 +32,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [apache/answer](https://github.com/apache/answer) ([v2.0.0](https://github.com/apache/answer/releases/tag/v2.0.0), today) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([miniflare@4.20260128.0](https://github.com/cloudflare/workers-sdk/releases/tag/miniflare%404.20260128.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/answer](https://github.com/apache/answer) ([v2.0.0-RC2](https://github.com/apache/answer/releases/tag/v2.0.0-RC2), 5 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 1 week ago) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.16.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.16.0), 1 week ago) - Cloudflare Terraform Provider
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.01](https://github.com/supabase/supabase/releases/tag/v1.26.01), 3 weeks ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
