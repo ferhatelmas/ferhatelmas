@@ -32,7 +32,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.0](https://github.com/supabase/storage/releases/tag/v1.37.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.1](https://github.com/supabase/storage/releases/tag/v1.37.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/eslint-config-shared@1.2.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/eslint-config-shared%401.2.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/answer](https://github.com/apache/answer) ([v2.0.0](https://github.com/apache/answer/releases/tag/v2.0.0), 2 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 2 weeks ago) - GitHub’s official command line tool
