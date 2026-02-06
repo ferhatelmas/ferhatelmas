@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (today)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 days ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (6 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (1 day ago)
+- [multigres/site](https://github.com/multigres/site) - Content for multigres.com (1 day ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (4 days ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,19 +32,19 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.2-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.95.2-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.4](https://github.com/supabase/storage/releases/tag/v1.37.4), today) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.10](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.10), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/answer](https://github.com/apache/answer) ([v2.0.0](https://github.com/apache/answer/releases/tag/v2.0.0), 2 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [cli/cli](https://github.com/cli/cli) ([v2.86.0](https://github.com/cli/cli/releases/tag/v2.86.0), 2 weeks ago) - GitHub’s official command line tool
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.02](https://github.com/supabase/supabase/releases/tag/v1.26.02), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.2](https://github.com/supabase/supabase-js/releases/tag/v2.95.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.5](https://github.com/supabase/storage/releases/tag/v1.37.5), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.10](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.10), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/answer](https://github.com/apache/answer) ([v2.0.0](https://github.com/apache/answer/releases/tag/v2.0.0), 3 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: distinct xattr for etag in linux file backend](https://github.com/supabase/storage/pull/842) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: return content-type if missing](https://github.com/supabase/storage/pull/840) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: return content-type if missing](https://github.com/supabase/storage/pull/838) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: add @ferhatelmas into humans](https://github.com/supabase/supabase/pull/42392) on [supabase/supabase](https://github.com/supabase/supabase) (3 days ago)
-- [Fix various godoc comments](https://github.com/jackc/pgx/pull/2493) on [jackc/pgx](https://github.com/jackc/pgx) (6 days ago)
+- [fix: distinct xattr for etag in linux file backend](https://github.com/supabase/storage/pull/842) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: return content-type if missing](https://github.com/supabase/storage/pull/840) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: return content-type if missing](https://github.com/supabase/storage/pull/838) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [chore: add @ferhatelmas into humans](https://github.com/supabase/supabase/pull/42392) on [supabase/supabase](https://github.com/supabase/supabase) (4 days ago)
+- [Fix various godoc comments](https://github.com/jackc/pgx/pull/2493) on [jackc/pgx](https://github.com/jackc/pgx) (1 week ago)
 
 #### 📚 Latest Blog posts
 
@@ -53,7 +53,7 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL (2 days ago)
+- [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL (3 days ago)
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) -  (3 weeks ago)
 - [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (1 month ago)
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (1 month ago)
