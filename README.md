@@ -32,9 +32,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.3](https://github.com/supabase/supabase-js/releases/tag/v2.95.3), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.6](https://github.com/supabase/storage/releases/tag/v1.37.6), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.02](https://github.com/supabase/supabase/releases/tag/v1.26.02), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.2](https://github.com/supabase/supabase-js/releases/tag/v2.95.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.5](https://github.com/supabase/storage/releases/tag/v1.37.5), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.10](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.10), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/answer](https://github.com/apache/answer) ([v2.0.0](https://github.com/apache/answer/releases/tag/v2.0.0), 3 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
