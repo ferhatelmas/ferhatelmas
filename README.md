@@ -32,8 +32,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.7](https://github.com/supabase/storage/releases/tag/v1.37.7), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.3](https://github.com/supabase/supabase-js/releases/tag/v2.95.3), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.6](https://github.com/supabase/storage/releases/tag/v1.37.6), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.02](https://github.com/supabase/supabase/releases/tag/v1.26.02), 2 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.10](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.10), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/answer](https://github.com/apache/answer) ([v2.0.0](https://github.com/apache/answer/releases/tag/v2.0.0), 4 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
