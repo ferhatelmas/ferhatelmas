@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: feature enablement in admin api](https://github.com/supabase/storage/pull/853) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [build(deps): use std or local helper to simplify deps](https://github.com/tus/tusd/pull/1343) on [tus/tusd](https://github.com/tus/tusd) (2 days ago)
 - [fix: distinct xattr for etag in linux file backend](https://github.com/supabase/storage/pull/842) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 - [fix: return content-type if missing](https://github.com/supabase/storage/pull/840) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 - [fix: return content-type if missing](https://github.com/supabase/storage/pull/838) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
-- [chore: add @ferhatelmas into humans](https://github.com/supabase/supabase/pull/42392) on [supabase/supabase](https://github.com/supabase/supabase) (1 week ago)
 
 #### 📚 Latest Blog posts
 
@@ -53,8 +53,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
+- [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (today)
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (today)
+- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (today)
 - [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL (6 days ago)
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) -  (4 weeks ago)
-- [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (1 month ago)
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent (1 month ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 months ago)
