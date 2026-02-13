@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (4 days ago)
 - [multigres/site](https://github.com/multigres/site) - Content for multigres.com (1 week ago)
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (1 week ago)
+- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -32,18 +32,18 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.64.1](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.64.1), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.4-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.95.4-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.17.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.17.0), today) - Cloudflare Terraform Provider
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.9.0](https://github.com/golangci/golangci-lint/releases/tag/v2.9.0), 2 days ago) - Fast linters runner for Go
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.5](https://github.com/go-git/go-git/releases/tag/v5.16.5), 3 days ago) - A highly extensible Git implementation in pure Go.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.64.1](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.64.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.4-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.95.4-canary.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.17.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.17.0), 1 day ago) - Cloudflare Terraform Provider
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.9.0](https://github.com/golangci/golangci-lint/releases/tag/v2.9.0), 3 days ago) - Fast linters runner for Go
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.16.5](https://github.com/go-git/go-git/releases/tag/v5.16.5), 4 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: use node24 for semantic release](https://github.com/supabase/storage/pull/856) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: add codeowners](https://github.com/supabase/storage/pull/855) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: feature enablement in admin api](https://github.com/supabase/storage/pull/853) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [build(deps): use std or local helper to simplify deps](https://github.com/tus/tusd/pull/1343) on [tus/tusd](https://github.com/tus/tusd) (5 days ago)
+- [chore: use node24 for semantic release](https://github.com/supabase/storage/pull/856) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [chore: add codeowners](https://github.com/supabase/storage/pull/855) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: feature enablement in admin api](https://github.com/supabase/storage/pull/853) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [build(deps): use std or local helper to simplify deps](https://github.com/tus/tusd/pull/1343) on [tus/tusd](https://github.com/tus/tusd) (6 days ago)
 - [fix: distinct xattr for etag in linux file backend](https://github.com/supabase/storage/pull/842) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 
 #### 📚 Latest Blog posts
@@ -53,8 +53,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (3 days ago)
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (3 days ago)
-- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (3 days ago)
+- [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (4 days ago)
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (4 days ago)
+- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (4 days ago)
 - [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL (1 week ago)
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) -  (1 month ago)
