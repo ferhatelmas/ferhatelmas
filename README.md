@@ -17,8 +17,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 #### 👷 Check out what I'm currently working on
 
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (4 days ago)
-- [multigres/site](https://github.com/multigres/site) - Content for multigres.com (1 week ago)
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (1 week ago)
+- [multigres/site](https://github.com/multigres/site) - Content for multigres.com (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go (2 weeks ago)
 
@@ -43,8 +43,6 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 - [chore: remove duplicated checks in TUS routes](https://github.com/supabase/storage/pull/859) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: use node24 for semantic release](https://github.com/supabase/storage/pull/856) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [chore: add codeowners](https://github.com/supabase/storage/pull/855) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: feature enablement in admin api](https://github.com/supabase/storage/pull/853) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [build(deps): use std or local helper to simplify deps](https://github.com/tus/tusd/pull/1343) on [tus/tusd](https://github.com/tus/tusd) (6 days ago)
 
 #### 📚 Latest Blog posts
 
