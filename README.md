@@ -40,11 +40,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: remove duplicated checks in TUS routes](https://github.com/supabase/storage/pull/859) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: use node24 for semantic release](https://github.com/supabase/storage/pull/856) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [chore: add codeowners](https://github.com/supabase/storage/pull/855) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [fix: feature enablement in admin api](https://github.com/supabase/storage/pull/853) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [build(deps): use std or local helper to simplify deps](https://github.com/tus/tusd/pull/1343) on [tus/tusd](https://github.com/tus/tusd) (6 days ago)
-- [fix: distinct xattr for etag in linux file backend](https://github.com/supabase/storage/pull/842) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 
 #### 📚 Latest Blog posts
 
