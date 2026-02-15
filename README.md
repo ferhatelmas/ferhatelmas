@@ -40,9 +40,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(io): handle new writer exists error](https://github.com/apache/iceberg-go/pull/726) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [chore: remove duplicated checks in TUS routes](https://github.com/supabase/storage/pull/859) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [chore: use node24 for semantic release](https://github.com/supabase/storage/pull/856) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
-- [chore: add codeowners](https://github.com/supabase/storage/pull/855) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 
 #### 📚 Latest Blog posts
 
