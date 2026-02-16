@@ -40,8 +40,9 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: drop old/leftover fly config](https://github.com/supabase/storage/pull/862) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix(file-backend): return correct last modified in head object](https://github.com/supabase/storage/pull/861) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix(io): handle new writer exists error](https://github.com/apache/iceberg-go/pull/726) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [chore: remove duplicated checks in TUS routes](https://github.com/supabase/storage/pull/859) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
