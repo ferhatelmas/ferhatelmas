@@ -16,11 +16,11 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (4 days ago)
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (4 days ago)
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (1 week ago)
 - [multigres/site](https://github.com/multigres/site) - Content for multigres.com (1 week ago)
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,17 +32,17 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### 🚀 Latest releases I've contributed to
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.10.1](https://github.com/golangci/golangci-lint/releases/tag/v2.10.1), today) - Fast linters runner for Go
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.96.0](https://github.com/supabase/supabase-js/releases/tag/v2.96.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.9](https://github.com/supabase/storage/releases/tag/v1.37.9), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/unenv-preset@2.13.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/unenv-preset%402.13.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.8](https://github.com/supabase/storage/releases/tag/v1.37.8), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.95.4-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.95.4-canary.2), 5 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.17.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.17.0), 5 days ago) - Cloudflare Terraform Provider
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.9.0](https://github.com/golangci/golangci-lint/releases/tag/v2.9.0), 1 week ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: drop old/leftover fly config](https://github.com/supabase/storage/pull/862) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix(file-backend): return correct last modified in head object](https://github.com/supabase/storage/pull/861) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix(io): handle new writer exists error](https://github.com/apache/iceberg-go/pull/726) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 
 #### 📚 Latest Blog posts
 
