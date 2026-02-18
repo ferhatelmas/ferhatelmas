@@ -5,7 +5,14 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:elmas.ferhat@gmail.com)
 -----------
 
-Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Workers Storage (KV, R2, D1, DO, etc.)](https://developers.cloudflare.com/products/?product-group=Storage).
+I am interested in distributed systems, databases and storage. I am currently working at @supabase, focusing on systems adjacent to storage.
+
+Previously:
+* @cloudflare, working on Workers storage (KV, R2, etc.) related systems and infrastructure.
+* @getstream, working on performance sensitive Feed and Chat APIs.
+* @agflow, working on bringing unstructured agricultural market data and analytics to the digital world.
+* @unit9, working on data pipelines and machine learning infrastructure.
+* @cern, working on modernizing critical internal systems (conference management, knowledge base, etc.) and also leveraging open source (PostgreSQL) for these systems.
 
 <!-- The open source projects that I'm currently focusing on are: -->
 
