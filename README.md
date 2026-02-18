@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v2.87.0](https://github.com/cli/cli/releases/tag/v2.87.0), today) - GitHub’s official command line tool
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.0](https://github.com/supabase/supabase-js/releases/tag/v2.97.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.10.1](https://github.com/golangci/golangci-lint/releases/tag/v2.10.1), 1 day ago) - Fast linters runner for Go
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.96.0](https://github.com/supabase/supabase-js/releases/tag/v2.96.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.37.9](https://github.com/supabase/storage/releases/tag/v1.37.9), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/unenv-preset@2.13.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/unenv-preset%402.13.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.17.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.17.0), 6 days ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
