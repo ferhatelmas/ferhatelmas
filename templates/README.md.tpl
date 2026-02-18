@@ -5,14 +5,14 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:elmas.ferhat@gmail.com)
 -----------
 
-I am interested in distributed systems, databases and storage. I am currently working at @supabase, focusing on systems adjacent to storage.
+I am interested in distributed systems, databases and storage. I am currently working at [@supabase](https://github.com/supabase), focusing on systems adjacent to storage.
 
 Previously:
-* @cloudflare, working on Workers storage (KV, R2, etc.) related systems and infrastructure.
-* @getstream, working on performance sensitive Feed and Chat APIs.
-* @agflow, working on bringing unstructured agricultural market data and analytics to the digital world.
-* @unit9, working on data pipelines and machine learning infrastructure.
-* @cern, working on modernizing critical internal systems (conference management, knowledge base, etc.) and also leveraging open source (PostgreSQL) for these systems.
+* [@cloudflare](https://github.com/cloudflare), working on Workers storage (KV, R2, etc.) related systems and infrastructure.
+* [@getstream](https://github.com/getstream), working on performance sensitive Feed and Chat APIs.
+* [@agflow](https://github.com/agflow), working on bringing unstructured agricultural market data and analytics to the digital world.
+* [@unit9](https://github.com/unit9), working on data pipelines and machine learning infrastructure.
+* [@cern](https://github.com/cern), working on modernizing critical internal systems (conference management, knowledge base, etc.) and also leveraging open source ([PostgreSQL](https://github.com/postgres)) for these systems.
 
 <!-- The open source projects that I'm currently focusing on are: -->
 
