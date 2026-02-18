@@ -5,7 +5,14 @@
 [![Email](https://img.shields.io/badge/email--_.svg?logo=Gmail&style=social)](mailto:elmas.ferhat@gmail.com)
 -----------
 
-Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Workers Storage (KV, R2, D1, DO, etc.)](https://developers.cloudflare.com/products/?product-group=Storage).
+I am interested in distributed systems, databases and storage. I am currently working at @supabase, focusing on systems adjacent to storage.
+
+Previously:
+* @cloudflare, working on Workers storage (KV, R2, etc.) related systems and infrastructure.
+* @getstream, working on performance sensitive Feed and Chat APIs.
+* @agflow, working on bringing unstructured agricultural market data and analytics to the digital world.
+* @unit9, working on data pipelines and machine learning infrastructure.
+* @cern, working on modernizing critical internal systems (conference management, knowledge base, etc.) and also leveraging open source (PostgreSQL) for these systems.
 
 
 
@@ -51,8 +58,8 @@ Currently, I am working at [@cloudflare](https://github.com/cloudflare) on [Work
 
 #### ⭐ Recent Stars
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (today)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (1 week ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (1 week ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (1 week ago)
 - [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL (2 weeks ago)
-- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) -  (1 month ago)
