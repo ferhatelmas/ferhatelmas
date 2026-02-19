@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 days ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (6 days ago)
-- [multigres/site](https://github.com/multigres/site) - Content for multigres.com (2 weeks ago)
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (2 weeks ago)
+- [multigres/site](https://github.com/multigres/site) - Content for multigres.com (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.11](https://github.com/supabase/storage/releases/tag/v1.37.11), today) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.87.0](https://github.com/cli/cli/releases/tag/v2.87.0), 1 day ago) - GitHub’s official command line tool
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.0](https://github.com/supabase/supabase-js/releases/tag/v2.97.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.10.1](https://github.com/golangci/golangci-lint/releases/tag/v2.10.1), 2 days ago) - Fast linters runner for Go
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.9](https://github.com/supabase/storage/releases/tag/v1.37.9), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/unenv-preset@2.13.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/unenv-preset%402.13.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
