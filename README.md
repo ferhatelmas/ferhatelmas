@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.38.0](https://github.com/supabase/storage/releases/tag/v1.38.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.11](https://github.com/supabase/storage/releases/tag/v1.37.11), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.87.0](https://github.com/cli/cli/releases/tag/v2.87.0), 2 days ago) - GitHub’s official command line tool
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.10.1](https://github.com/golangci/golangci-lint/releases/tag/v2.10.1), 3 days ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (today)
 - [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 - [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 - [chore: drop old/leftover fly config](https://github.com/supabase/storage/pull/862) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix(file-backend): return correct last modified in head object](https://github.com/supabase/storage/pull/861) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
