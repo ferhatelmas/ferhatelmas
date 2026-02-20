@@ -23,9 +23,9 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 days ago)
-- [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (6 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 week ago)
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (2 weeks ago)
 - [multigres/site](https://github.com/multigres/site) - Content for multigres.com (2 weeks ago)
 
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.37.11](https://github.com/supabase/storage/releases/tag/v1.37.11), today) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cli/cli](https://github.com/cli/cli) ([v2.87.0](https://github.com/cli/cli/releases/tag/v2.87.0), 1 day ago) - GitHub’s official command line tool
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.10.1](https://github.com/golangci/golangci-lint/releases/tag/v2.10.1), 2 days ago) - Fast linters runner for Go
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.37.11](https://github.com/supabase/storage/releases/tag/v1.37.11), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cli/cli](https://github.com/cli/cli) ([v2.87.0](https://github.com/cli/cli/releases/tag/v2.87.0), 2 days ago) - GitHub’s official command line tool
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.10.1](https://github.com/golangci/golangci-lint/releases/tag/v2.10.1), 3 days ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [chore: drop old/leftover fly config](https://github.com/supabase/storage/pull/862) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix(file-backend): return correct last modified in head object](https://github.com/supabase/storage/pull/861) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
+- [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [chore: drop old/leftover fly config](https://github.com/supabase/storage/pull/862) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix(file-backend): return correct last modified in head object](https://github.com/supabase/storage/pull/861) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,7 +59,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 day ago)
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (2 days ago)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (1 week ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (1 week ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (1 week ago)
