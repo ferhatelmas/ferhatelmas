@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 week ago)
 - [multigres/site](https://github.com/multigres/site) - Content for multigres.com (2 weeks ago)
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(s3store): handle race in terminate](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
+- [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
 - [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
 - [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
