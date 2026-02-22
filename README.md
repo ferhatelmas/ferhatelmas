@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (today)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 day ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 week ago)
-- [multigres/site](https://github.com/multigres/site) - Content for multigres.com (2 weeks ago)
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -39,18 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [tus/tusd](https://github.com/tus/tusd) ([v2.9.1](https://github.com/tus/tusd/releases/tag/v2.9.1), today) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
-- [cli/cli](https://github.com/cli/cli) ([v2.87.2](https://github.com/cli/cli/releases/tag/v2.87.2), 1 day ago) - GitHub’s official command line tool
-- [supabase/storage](https://github.com/supabase/storage) ([v1.38.0](https://github.com/supabase/storage/releases/tag/v1.38.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [tus/tusd](https://github.com/tus/tusd) ([v2.9.1](https://github.com/tus/tusd/releases/tag/v2.9.1), 1 day ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [cli/cli](https://github.com/cli/cli) ([v2.87.2](https://github.com/cli/cli/releases/tag/v2.87.2), 2 days ago) - GitHub’s official command line tool
+- [supabase/storage](https://github.com/supabase/storage) ([v1.38.0](https://github.com/supabase/storage/releases/tag/v1.38.0), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
-- [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
-- [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
-- [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fs: fix LPI test parse failure and wire randomized page size](https://github.com/NVIDIA/aistore/pull/261) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (1 day ago)
+- [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (2 days ago)
+- [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
+- [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (4 days ago)
+- [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,7 +60,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (3 days ago)
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (4 days ago)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (1 week ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (1 week ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (1 week ago)
