@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: add deepwiki readme reference](https://github.com/supabase/storage/pull/867) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fs: fix LPI test parse failure and wire randomized page size](https://github.com/NVIDIA/aistore/pull/261) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (2 days ago)
 - [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (3 days ago)
 - [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
 - [fix(manifest): correct v3 manifest-list first row id assigment for row-lineage](https://github.com/apache/iceberg-go/pull/741) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
-- [fix(move-object): cleanup destination on failure](https://github.com/supabase/storage/pull/863) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 
 #### 📚 Latest Blog posts
 
