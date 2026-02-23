@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([create-cloudflare@2.64.3](https://github.com/cloudflare/workers-sdk/releases/tag/create-cloudflare%402.64.3), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [tus/tusd](https://github.com/tus/tusd) ([v2.9.1](https://github.com/tus/tusd/releases/tag/v2.9.1), 2 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [cli/cli](https://github.com/cli/cli) ([v2.87.2](https://github.com/cli/cli/releases/tag/v2.87.2), 3 days ago) - GitHub’s official command line tool
 - [supabase/storage](https://github.com/supabase/storage) ([v1.38.0](https://github.com/supabase/storage/releases/tag/v1.38.0), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.1), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.67.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.67.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
