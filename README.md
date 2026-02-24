@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.39.0](https://github.com/supabase/storage/releases/tag/v1.39.0), today) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.1), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/storage](https://github.com/supabase/storage) ([v1.39.1](https://github.com/supabase/storage/releases/tag/v1.39.1), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.3](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.3), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 1 day ago) - GitHub’s official command line tool
 - [tus/tusd](https://github.com/tus/tusd) ([v2.9.1](https://github.com/tus/tusd/releases/tag/v2.9.1), 3 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
