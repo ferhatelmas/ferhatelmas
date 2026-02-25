@@ -23,10 +23,10 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 days ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (3 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (4 days ago)
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (5 days ago)
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (3 days ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (4 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (5 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (6 days ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 week ago)
 
 #### 🌱 My latest projects
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.1), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/storage](https://github.com/supabase/storage) ([v1.39.1](https://github.com/supabase/storage/releases/tag/v1.39.1), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.3](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.3), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 1 day ago) - GitHub’s official command line tool
-- [tus/tusd](https://github.com/tus/tusd) ([v2.9.1](https://github.com/tus/tusd/releases/tag/v2.9.1), 3 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/storage](https://github.com/supabase/storage) ([v1.39.1](https://github.com/supabase/storage/releases/tag/v1.39.1), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.3](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.3), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 2 days ago) - GitHub’s official command line tool
+- [tus/tusd](https://github.com/tus/tusd) ([v2.9.1](https://github.com/tus/tusd/releases/tag/v2.9.1), 4 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: add deepwiki readme reference](https://github.com/supabase/storage/pull/867) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fs: fix LPI test parse failure and wire randomized page size](https://github.com/NVIDIA/aistore/pull/261) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (3 days ago)
-- [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (4 days ago)
-- [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (4 days ago)
+- [docs: add deepwiki readme reference](https://github.com/supabase/storage/pull/867) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fs: fix LPI test parse failure and wire randomized page size](https://github.com/NVIDIA/aistore/pull/261) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (4 days ago)
+- [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (5 days ago)
+- [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,7 +59,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (6 days ago)
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 week ago)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (2 weeks ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (2 weeks ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (2 weeks ago)
