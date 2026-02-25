@@ -47,10 +47,10 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(ci): mark test coverage optional in workflow](https://github.com/supabase/storage/pull/871) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: add explicit metric shutdown for clean exit](https://github.com/supabase/storage/pull/870) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [docs: add deepwiki readme reference](https://github.com/supabase/storage/pull/867) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fs: fix LPI test parse failure and wire randomized page size](https://github.com/NVIDIA/aistore/pull/261) on [NVIDIA/aistore](https://github.com/NVIDIA/aistore) (4 days ago)
-- [s3store: Fix data race when terminating upload](https://github.com/tus/tusd/pull/1350) on [tus/tusd](https://github.com/tus/tusd) (5 days ago)
-- [fix(table): error formatting](https://github.com/apache/iceberg-go/pull/747) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 
 #### 📚 Latest Blog posts
 
