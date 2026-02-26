@@ -23,10 +23,10 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (3 days ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (4 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (5 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (4 days ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (5 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (6 days ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 week ago)
 
 #### 🌱 My latest projects
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), today) - A highly extensible Git implementation in pure Go.
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.4), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/storage](https://github.com/supabase/storage) ([v1.39.1](https://github.com/supabase/storage/releases/tag/v1.39.1), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 2 days ago) - GitHub’s official command line tool
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.4), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/storage](https://github.com/supabase/storage) ([v1.39.1](https://github.com/supabase/storage/releases/tag/v1.39.1), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 3 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: use biome for format](https://github.com/supabase/storage/pull/872) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore(ci): mark test coverage optional in workflow](https://github.com/supabase/storage/pull/871) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: add explicit metric shutdown for clean exit](https://github.com/supabase/storage/pull/870) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [docs: add deepwiki readme reference](https://github.com/supabase/storage/pull/867) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: webhook bucket for copy/move cross buckets](https://github.com/supabase/storage/pull/873) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: use biome for format](https://github.com/supabase/storage/pull/872) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore(ci): mark test coverage optional in workflow](https://github.com/supabase/storage/pull/871) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: add explicit metric shutdown for clean exit](https://github.com/supabase/storage/pull/870) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
