@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.39.2](https://github.com/supabase/storage/releases/tag/v1.39.2), today) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.97.1-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.97.1-canary.4), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.68.1](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.68.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 3 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: switch into biome and format all md/yml via prettier](https://github.com/supabase/storage/pull/877) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: add delta temporality into local otel setup](https://github.com/supabase/storage/pull/876) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: support utf8 in object names](https://github.com/supabase/storage/pull/875) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: webhook bucket for copy/move cross buckets](https://github.com/supabase/storage/pull/873) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: use biome for format](https://github.com/supabase/storage/pull/872) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore(ci): mark test coverage optional in workflow](https://github.com/supabase/storage/pull/871) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: add explicit metric shutdown for clean exit](https://github.com/supabase/storage/pull/870) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
