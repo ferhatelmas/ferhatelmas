@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.39.3](https://github.com/supabase/storage/releases/tag/v1.39.3), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.39.2](https://github.com/supabase/storage/releases/tag/v1.39.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 2 days ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 4 days ago) - GitHub’s official command line tool
 
