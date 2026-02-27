@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (5 days ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (6 days ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.39.3](https://github.com/supabase/storage/releases/tag/v1.39.3), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.40.0](https://github.com/supabase/storage/releases/tag/v1.40.0), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 2 days ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 4 days ago) - GitHub’s official command line tool
 
