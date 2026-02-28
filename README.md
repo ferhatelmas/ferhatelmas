@@ -23,9 +23,9 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (5 days ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (6 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (6 days ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (2 weeks ago)
 
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.40.0](https://github.com/supabase/storage/releases/tag/v1.40.0), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 2 days ago) - A highly extensible Git implementation in pure Go.
-- [cli/cli](https://github.com/cli/cli) ([v2.87.3](https://github.com/cli/cli/releases/tag/v2.87.3), 4 days ago) - GitHub’s official command line tool
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 1 day ago) - Apache Iceberg - Go
+- [supabase/storage](https://github.com/supabase/storage) ([v1.40.0](https://github.com/supabase/storage/releases/tag/v1.40.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.0](https://github.com/go-git/go-git/releases/tag/v5.17.0), 3 days ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: organizeImports automatically with biome](https://github.com/supabase/storage/pull/880) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: enable consistent object definition rule in lint](https://github.com/supabase/storage/pull/879) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: use biome for linting](https://github.com/supabase/storage/pull/878) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: switch into biome and format all md/yml via prettier](https://github.com/supabase/storage/pull/877) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: add delta temporality into local otel setup](https://github.com/supabase/storage/pull/876) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: organizeImports automatically with biome](https://github.com/supabase/storage/pull/880) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [chore: enable consistent object definition rule in lint](https://github.com/supabase/storage/pull/879) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [chore: use biome for linting](https://github.com/supabase/storage/pull/878) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [chore: switch into biome and format all md/yml via prettier](https://github.com/supabase/storage/pull/877) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [chore: add delta temporality into local otel setup](https://github.com/supabase/storage/pull/876) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
+- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (today)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 week ago)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (2 weeks ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (2 weeks ago)
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (2 weeks ago)
-- [DataDog/pg_tracing](https://github.com/DataDog/pg_tracing) - Distributed Tracing for PostgreSQL (3 weeks ago)
