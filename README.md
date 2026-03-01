@@ -23,9 +23,9 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (today)
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (2 weeks ago)
 
@@ -47,7 +47,7 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: use slices from std](https://github.com/tus/tusd/pull/1353) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
+- [*: Use `slices` package from standard library](https://github.com/tus/tusd/pull/1353) on [tus/tusd](https://github.com/tus/tusd) (1 day ago)
 - [chore: organizeImports automatically with biome](https://github.com/supabase/storage/pull/880) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 - [chore: enable consistent object definition rule in lint](https://github.com/supabase/storage/pull/879) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 - [chore: use biome for linting](https://github.com/supabase/storage/pull/878) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
