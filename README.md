@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 day ago)
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (2 weeks ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.40.1](https://github.com/supabase/storage/releases/tag/v1.40.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.18.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.18.0), 1 day ago) - Cloudflare Terraform Provider
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 3 days ago) - Apache Iceberg - Go
-- [supabase/storage](https://github.com/supabase/storage) ([v1.40.0](https://github.com/supabase/storage/releases/tag/v1.40.0), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: escape wildcard characters for list](https://github.com/supabase/storage/pull/882) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [*: Use `slices` package from standard library](https://github.com/tus/tusd/pull/1353) on [tus/tusd](https://github.com/tus/tusd) (2 days ago)
 - [chore: organizeImports automatically with biome](https://github.com/supabase/storage/pull/880) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [chore: enable consistent object definition rule in lint](https://github.com/supabase/storage/pull/879) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [chore: use biome for linting](https://github.com/supabase/storage/pull/878) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [chore: switch into biome and format all md/yml via prettier](https://github.com/supabase/storage/pull/877) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
