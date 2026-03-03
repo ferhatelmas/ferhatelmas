@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.41.2](https://github.com/supabase/storage/releases/tag/v1.41.2), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.41.3](https://github.com/supabase/storage/releases/tag/v1.41.3), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.18.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.18.0), 2 days ago) - Cloudflare Terraform Provider
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 4 days ago) - Apache Iceberg - Go
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: drop crypto-js in favor of hardcoded vectors](https://github.com/supabase/storage/pull/885) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: start tracing only if enabled and endpoint exists](https://github.com/supabase/storage/pull/884) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: path traversal in file backend](https://github.com/supabase/storage/pull/883) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix(table): ensure partition path is deterministic](https://github.com/apache/iceberg-go/pull/767) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [fix(manifest): handle lifecycle of the decoder in reader](https://github.com/apache/iceberg-go/pull/766) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
-- [fix: escape wildcard characters for list](https://github.com/supabase/storage/pull/882) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [*: Use `slices` package from standard library](https://github.com/tus/tusd/pull/1353) on [tus/tusd](https://github.com/tus/tusd) (3 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
+- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (today)
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (1 day ago)
 - [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (3 days ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 week ago)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (3 weeks ago)
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (3 weeks ago)
