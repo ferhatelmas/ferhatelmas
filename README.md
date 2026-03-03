@@ -23,10 +23,10 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 day ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.40.1](https://github.com/supabase/storage/releases/tag/v1.40.1), today) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.18.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.18.0), 1 day ago) - Cloudflare Terraform Provider
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 3 days ago) - Apache Iceberg - Go
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/storage](https://github.com/supabase/storage) ([v1.41.0](https://github.com/supabase/storage/releases/tag/v1.41.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.18.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.18.0), 2 days ago) - Cloudflare Terraform Provider
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 4 days ago) - Apache Iceberg - Go
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.69.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.69.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: escape wildcard characters for list](https://github.com/supabase/storage/pull/882) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [*: Use `slices` package from standard library](https://github.com/tus/tusd/pull/1353) on [tus/tusd](https://github.com/tus/tusd) (2 days ago)
-- [chore: organizeImports automatically with biome](https://github.com/supabase/storage/pull/880) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [chore: enable consistent object definition rule in lint](https://github.com/supabase/storage/pull/879) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [chore: use biome for linting](https://github.com/supabase/storage/pull/878) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix(table): ensure partition path is deterministic](https://github.com/apache/iceberg-go/pull/767) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [fix(manifest): handle lifecycle of the decoder in reader](https://github.com/apache/iceberg-go/pull/766) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [fix: escape wildcard characters for list](https://github.com/supabase/storage/pull/882) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [*: Use `slices` package from standard library](https://github.com/tus/tusd/pull/1353) on [tus/tusd](https://github.com/tus/tusd) (3 days ago)
+- [chore: organizeImports automatically with biome](https://github.com/supabase/storage/pull/880) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (2 days ago)
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (1 day ago)
+- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (3 days ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 week ago)
 - [ClickHouse/pg_clickhouse](https://github.com/ClickHouse/pg_clickhouse) - Interfaces to query ClickHouse databases from PostgreSQL (3 weeks ago)
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. (3 weeks ago)
-- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage (3 weeks ago)
