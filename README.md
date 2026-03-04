@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (3 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.41.4](https://github.com/supabase/storage/releases/tag/v1.41.4), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.1), today) - Cloudflare Terraform Provider
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.19](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.19), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/storage](https://github.com/supabase/storage) ([v1.41.3](https://github.com/supabase/storage/releases/tag/v1.41.3), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 5 days ago) - Apache Iceberg - Go
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.0), 5 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: refactor use natives to drop md5-file and multistream](https://github.com/supabase/storage/pull/888) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: refactor migration types to drop glob dependency](https://github.com/supabase/storage/pull/886) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: drop crypto-js in favor of hardcoded vectors](https://github.com/supabase/storage/pull/885) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: start tracing only if enabled and endpoint exists](https://github.com/supabase/storage/pull/884) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: path traversal in file backend](https://github.com/supabase/storage/pull/883) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix(table): ensure partition path is deterministic](https://github.com/apache/iceberg-go/pull/767) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
 
 #### 📚 Latest Blog posts
 
