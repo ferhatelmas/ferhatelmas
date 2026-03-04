@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.41.4](https://github.com/supabase/storage/releases/tag/v1.41.4), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.41.6](https://github.com/supabase/storage/releases/tag/v1.41.6), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.1), today) - Cloudflare Terraform Provider
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.19](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.19), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 5 days ago) - Apache Iceberg - Go
@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: drop unused connection-string dependency](https://github.com/supabase/storage/pull/889) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: refactor use natives to drop md5-file and multistream](https://github.com/supabase/storage/pull/888) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: refactor migration types to drop glob dependency](https://github.com/supabase/storage/pull/886) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: drop crypto-js in favor of hardcoded vectors](https://github.com/supabase/storage/pull/885) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: start tracing only if enabled and endpoint exists](https://github.com/supabase/storage/pull/884) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: path traversal in file backend](https://github.com/supabase/storage/pull/883) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
