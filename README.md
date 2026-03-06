@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 days ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (4 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (5 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
-- [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (2 weeks ago)
+- [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.41.8](https://github.com/supabase/storage/releases/tag/v1.41.8), today) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.1), 1 day ago) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vitest-pool-workers@0.12.19](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vitest-pool-workers%400.12.19), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0-rc0), 6 days ago) - Apache Iceberg - Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 1 day ago) - Apache Iceberg - Go
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.41.8](https://github.com/supabase/storage/releases/tag/v1.41.8), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: run orioledb tests in ci](https://github.com/supabase/storage/pull/895) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: vector list wildcards and pagination](https://github.com/supabase/storage/pull/894) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [feat: upgrade fastify to v5](https://github.com/supabase/storage/pull/893) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: improve biome lint configuration](https://github.com/supabase/storage/pull/892) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: drop unused connection-string dependency](https://github.com/supabase/storage/pull/889) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [refactor: make partition spec and sort order fields range friendly](https://github.com/apache/iceberg-go/pull/772) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
+- [fix: run orioledb tests in ci](https://github.com/supabase/storage/pull/895) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: vector list wildcards and pagination](https://github.com/supabase/storage/pull/894) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [feat: upgrade fastify to v5](https://github.com/supabase/storage/pull/893) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: improve biome lint configuration](https://github.com/supabase/storage/pull/892) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [YuweiXiao/pg_duckpipe](https://github.com/YuweiXiao/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (1 day ago)
-- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (2 days ago)
-- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (3 days ago)
-- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (5 days ago)
+- [YuweiXiao/pg_duckpipe](https://github.com/YuweiXiao/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 days ago)
+- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (3 days ago)
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (4 days ago)
+- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (6 days ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (2 weeks ago)
