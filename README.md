@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.42.0](https://github.com/supabase/storage/releases/tag/v1.42.0), today) - S3 compatible object storage service that stores metadata in Postgres
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.1](https://github.com/golangci/golangci-lint/releases/tag/v2.11.1), today) - Fast linters runner for Go
+- [supabase/storage](https://github.com/supabase/storage) ([v1.42.2](https://github.com/supabase/storage/releases/tag/v1.42.2), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 1 day ago) - Apache Iceberg - Go
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add orioledb support for vector buckets](https://github.com/supabase/storage/pull/897) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: remanining security advisory](https://github.com/supabase/storage/pull/896) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [refactor: make partition spec and sort order fields range friendly](https://github.com/apache/iceberg-go/pull/772) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (1 day ago)
 - [fix: run orioledb tests in ci](https://github.com/supabase/storage/pull/895) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: vector list wildcards and pagination](https://github.com/supabase/storage/pull/894) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [feat: upgrade fastify to v5](https://github.com/supabase/storage/pull/893) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: improve biome lint configuration](https://github.com/supabase/storage/pull/892) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
