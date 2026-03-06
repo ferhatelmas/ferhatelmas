@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 day ago)
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (5 days ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (3 weeks ago)
@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.42.0](https://github.com/supabase/storage/releases/tag/v1.42.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 1 day ago) - Apache Iceberg - Go
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.98.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.98.1-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.41.8](https://github.com/supabase/storage/releases/tag/v1.41.8), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 
 #### 🔨 Latest Pull Requests I published
 
@@ -60,7 +60,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [YuweiXiao/pg_duckpipe](https://github.com/YuweiXiao/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 days ago)
+- [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 days ago)
 - [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (3 days ago)
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (4 days ago)
 - [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (6 days ago)
