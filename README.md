@@ -23,10 +23,10 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
-- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (6 days ago)
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 week ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 days ago)
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 weeks ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.1](https://github.com/golangci/golangci-lint/releases/tag/v2.11.1), 1 day ago) - Fast linters runner for Go
-- [supabase/storage](https://github.com/supabase/storage) ([v1.42.2](https://github.com/supabase/storage/releases/tag/v1.42.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 2 days ago) - Apache Iceberg - Go
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 2 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.2](https://github.com/golangci/golangci-lint/releases/tag/v2.11.2), 1 day ago) - Fast linters runner for Go
+- [supabase/storage](https://github.com/supabase/storage) ([v1.42.2](https://github.com/supabase/storage/releases/tag/v1.42.2), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 3 days ago) - Apache Iceberg - Go
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 3 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add orioledb support for vector buckets](https://github.com/supabase/storage/pull/897) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: remanining security advisory](https://github.com/supabase/storage/pull/896) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [refactor: make partition spec and sort order fields range friendly](https://github.com/apache/iceberg-go/pull/772) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (2 days ago)
-- [fix: run orioledb tests in ci](https://github.com/supabase/storage/pull/895) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: vector list wildcards and pagination](https://github.com/supabase/storage/pull/894) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [feat: add orioledb support for vector buckets](https://github.com/supabase/storage/pull/897) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: remanining security advisory](https://github.com/supabase/storage/pull/896) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [refactor: make partition spec and sort order fields range friendly](https://github.com/apache/iceberg-go/pull/772) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (3 days ago)
+- [fix: run orioledb tests in ci](https://github.com/supabase/storage/pull/895) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: vector list wildcards and pagination](https://github.com/supabase/storage/pull/894) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (3 days ago)
-- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (4 days ago)
-- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (5 days ago)
+- [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (4 days ago)
+- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (5 days ago)
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (6 days ago)
 - [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (1 week ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (2 weeks ago)
