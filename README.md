@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.99.0](https://github.com/supabase/supabase-js/releases/tag/v2.99.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.43.0](https://github.com/supabase/storage/releases/tag/v1.43.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.2](https://github.com/golangci/golangci-lint/releases/tag/v2.11.2), 2 days ago) - Fast linters runner for Go
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 4 days ago) - Apache Iceberg - Go
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 4 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 #### 🔨 Latest Pull Requests I published
 
