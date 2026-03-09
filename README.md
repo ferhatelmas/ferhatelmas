@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (4 days ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 weeks ago)
@@ -39,8 +39,8 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.43.0](https://github.com/supabase/storage/releases/tag/v1.43.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.2](https://github.com/golangci/golangci-lint/releases/tag/v2.11.2), 2 days ago) - Fast linters runner for Go
-- [supabase/storage](https://github.com/supabase/storage) ([v1.42.2](https://github.com/supabase/storage/releases/tag/v1.42.2), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 4 days ago) - Apache Iceberg - Go
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.03](https://github.com/supabase/supabase/releases/tag/v1.26.03), 4 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
