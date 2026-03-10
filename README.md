@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.3](https://github.com/golangci/golangci-lint/releases/tag/v2.11.3), today) - Fast linters runner for Go
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.99.0](https://github.com/supabase/supabase-js/releases/tag/v2.99.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.43.0](https://github.com/supabase/storage/releases/tag/v1.43.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.2](https://github.com/golangci/golangci-lint/releases/tag/v2.11.2), 3 days ago) - Fast linters runner for Go
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.71.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.71.0), 5 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.5.0](https://github.com/apache/iceberg-go/releases/tag/v0.5.0), 5 days ago) - Apache Iceberg - Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: drop content-type hook covered by fastify v5](https://github.com/supabase/storage/pull/901) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: add orioledb support for vector buckets](https://github.com/supabase/storage/pull/897) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [fix: remanining security advisory](https://github.com/supabase/storage/pull/896) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [refactor: make partition spec and sort order fields range friendly](https://github.com/apache/iceberg-go/pull/772) on [apache/iceberg-go](https://github.com/apache/iceberg-go) (5 days ago)
 - [fix: run orioledb tests in ci](https://github.com/supabase/storage/pull/895) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
-- [fix: vector list wildcards and pagination](https://github.com/supabase/storage/pull/894) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
