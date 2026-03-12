@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: s3 stream pipeline ordering](https://github.com/supabase/storage/pull/906) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: otel dashboard top panels](https://github.com/supabase/storage/pull/904) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [feat: add RLS operation ergonomics](https://github.com/supabase/storage/pull/903) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: drop content-type hook covered by fastify v5](https://github.com/supabase/storage/pull/901) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [feat: add orioledb support for vector buckets](https://github.com/supabase/storage/pull/897) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
-- [fix: remanining security advisory](https://github.com/supabase/storage/pull/896) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 
 #### 📚 Latest Blog posts
 
