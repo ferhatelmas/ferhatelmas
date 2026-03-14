@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 week ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 weeks ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.73.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.73.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/storage](https://github.com/supabase/storage) ([v1.43.5](https://github.com/supabase/storage/releases/tag/v1.43.5), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.99.2-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.99.2-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 1 day ago) - GitHub’s official command line tool
-- [tus/tusd](https://github.com/tus/tusd) ([v2.9.2](https://github.com/tus/tusd/releases/tag/v2.9.2), 2 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.73.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.73.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/storage](https://github.com/supabase/storage) ([v1.43.5](https://github.com/supabase/storage/releases/tag/v1.43.5), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.99.2-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.99.2-canary.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 2 days ago) - GitHub’s official command line tool
+- [tus/tusd](https://github.com/tus/tusd) ([v2.9.2](https://github.com/tus/tusd/releases/tag/v2.9.2), 3 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: prevent decoded content length spoofing](https://github.com/supabase/storage/pull/907) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: s3 stream pipeline ordering](https://github.com/supabase/storage/pull/906) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: otel dashboard top panels](https://github.com/supabase/storage/pull/904) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [feat: add RLS operation ergonomics](https://github.com/supabase/storage/pull/903) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: drop content-type hook covered by fastify v5](https://github.com/supabase/storage/pull/901) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: prevent decoded content length spoofing](https://github.com/supabase/storage/pull/907) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: s3 stream pipeline ordering](https://github.com/supabase/storage/pull/906) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: otel dashboard top panels](https://github.com/supabase/storage/pull/904) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [feat: add RLS operation ergonomics](https://github.com/supabase/storage/pull/903) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: drop content-type hook covered by fastify v5](https://github.com/supabase/storage/pull/901) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -63,5 +63,5 @@ Previously:
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (1 week ago)
 - [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (1 week ago)
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (1 week ago)
-- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (1 week ago)
+- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (2 weeks ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (3 weeks ago)
