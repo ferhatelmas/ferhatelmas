@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (today)
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 weeks ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (3 weeks ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 month ago)
