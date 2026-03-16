@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-rc.0](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-rc.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.2](https://github.com/supabase/storage/releases/tag/v1.44.2), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.74.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.74.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.99.2](https://github.com/supabase/supabase-js/releases/tag/v2.99.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.1](https://github.com/supabase/storage/releases/tag/v1.44.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 4 days ago) - GitHub’s official command line tool
 - [tus/tusd](https://github.com/tus/tusd) ([v2.9.2](https://github.com/tus/tusd/releases/tag/v2.9.2), 5 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: enable no unnecessary conditions rule](https://github.com/supabase/storage/pull/911) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: enable no unused variable rule](https://github.com/supabase/storage/pull/910) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: prevent decoded content length spoofing](https://github.com/supabase/storage/pull/907) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 - [fix: s3 stream pipeline ordering](https://github.com/supabase/storage/pull/906) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [fix: otel dashboard top panels](https://github.com/supabase/storage/pull/904) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
-- [feat: add RLS operation ergonomics](https://github.com/supabase/storage/pull/903) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
