@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.2), today) - Cloudflare Terraform Provider
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-rc.0](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-rc.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.44.2](https://github.com/supabase/storage/releases/tag/v1.44.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.74.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.74.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 5 days ago) - GitHub’s official command line tool
-- [tus/tusd](https://github.com/tus/tusd) ([v2.9.2](https://github.com/tus/tusd/releases/tag/v2.9.2), 6 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
