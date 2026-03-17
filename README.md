@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 days ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 weeks ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (3 weeks ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.4](https://github.com/supabase/storage/releases/tag/v1.44.4), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.2), today) - Cloudflare Terraform Provider
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-rc.0](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-rc.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.2](https://github.com/supabase/storage/releases/tag/v1.44.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([wrangler@4.74.0](https://github.com/cloudflare/workers-sdk/releases/tag/wrangler%404.74.0), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 5 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add lru cache for jwks and tenants](https://github.com/supabase/storage/pull/915) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: bump lru-cache](https://github.com/supabase/storage/pull/913) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: enable throw error and no common js rules](https://github.com/supabase/storage/pull/912) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: enable no unnecessary conditions rule](https://github.com/supabase/storage/pull/911) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: enable no unused variable rule](https://github.com/supabase/storage/pull/910) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: prevent decoded content length spoofing](https://github.com/supabase/storage/pull/907) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
