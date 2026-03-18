@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: mark completed till validation for migration reset](https://github.com/supabase/storage/pull/916) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat(docs): add storage operation RLS helpers](https://github.com/supabase/supabase/pull/43859) on [supabase/supabase](https://github.com/supabase/supabase) (1 day ago)
 - [feat: add lru cache for jwks and tenants](https://github.com/supabase/storage/pull/915) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: bump lru-cache](https://github.com/supabase/storage/pull/913) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: enable throw error and no common js rules](https://github.com/supabase/storage/pull/912) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: enable no unnecessary conditions rule](https://github.com/supabase/storage/pull/911) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
