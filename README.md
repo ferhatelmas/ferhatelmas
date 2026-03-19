@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), today) - Cloudflare Terraform Provider
 - [supabase/storage](https://github.com/supabase/storage) ([v1.44.7](https://github.com/supabase/storage/releases/tag/v1.44.7), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/pages-shared@0.13.116](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.116), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.0), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.2](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.2), 2 days ago) - Cloudflare Terraform Provider
 - [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: flaky abort tests](https://github.com/supabase/storage/pull/920) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: progressive migrations](https://github.com/supabase/storage/pull/919) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: add fast-xml-parser override](https://github.com/supabase/storage/pull/918) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: mark completed till validation for migration reset](https://github.com/supabase/storage/pull/916) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [feat(docs): add storage operation RLS helpers](https://github.com/supabase/supabase/pull/43859) on [supabase/supabase](https://github.com/supabase/supabase) (2 days ago)
 
 #### 📚 Latest Blog posts
 
