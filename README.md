@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.8](https://github.com/supabase/storage/releases/tag/v1.44.8), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 1 day ago) - Cloudflare Terraform Provider
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.7](https://github.com/supabase/storage/releases/tag/v1.44.7), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/pages-shared@0.13.116](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.116), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 1 week ago) - GitHub’s official command line tool
 
