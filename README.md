@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/local-explorer-ui@0.9.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/local-explorer-ui%400.9.0), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [supabase/storage](https://github.com/supabase/storage) ([v1.44.8](https://github.com/supabase/storage/releases/tag/v1.44.8), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 1 day ago) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/pages-shared@0.13.116](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/pages-shared%400.13.116), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: flaky abort tests](https://github.com/supabase/storage/pull/920) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: progressive migrations](https://github.com/supabase/storage/pull/919) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: add fast-xml-parser override](https://github.com/supabase/storage/pull/918) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: mark completed till validation for migration reset](https://github.com/supabase/storage/pull/916) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
