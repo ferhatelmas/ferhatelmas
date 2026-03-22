@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.4](https://github.com/golangci/golangci-lint/releases/tag/v2.11.4), today) - Fast linters runner for Go
 - [supabase/storage](https://github.com/supabase/storage) ([v1.44.9](https://github.com/supabase/storage/releases/tag/v1.44.9), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.3](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.3), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/local-explorer-ui@0.9.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/local-explorer-ui%400.9.0), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 3 days ago) - Cloudflare Terraform Provider
-- [cli/cli](https://github.com/cli/cli) ([v2.88.1](https://github.com/cli/cli/releases/tag/v2.88.1), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
