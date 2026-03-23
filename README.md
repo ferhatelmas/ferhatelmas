@@ -39,8 +39,8 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0](https://github.com/supabase/supabase-js/releases/tag/v2.100.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.10](https://github.com/supabase/storage/releases/tag/v1.44.10), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.11](https://github.com/supabase/storage/releases/tag/v1.44.11), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.4), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.4](https://github.com/golangci/golangci-lint/releases/tag/v2.11.4), 1 day ago) - Fast linters runner for Go
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/local-explorer-ui@0.9.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/local-explorer-ui%400.9.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 4 days ago) - Cloudflare Terraform Provider
