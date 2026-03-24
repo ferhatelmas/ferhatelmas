@@ -23,10 +23,10 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (3 weeks ago)
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (4 weeks ago)
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
 - [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 month ago)
 
 #### 🌱 My latest projects
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.11](https://github.com/supabase/storage/releases/tag/v1.44.11), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.4), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.4](https://github.com/golangci/golangci-lint/releases/tag/v2.11.4), 1 day ago) - Fast linters runner for Go
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/local-explorer-ui@0.9.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/local-explorer-ui%400.9.0), 3 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 4 days ago) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.11](https://github.com/supabase/storage/releases/tag/v1.44.11), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.4), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.4](https://github.com/golangci/golangci-lint/releases/tag/v2.11.4), 2 days ago) - Fast linters runner for Go
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/local-explorer-ui@0.9.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/local-explorer-ui%400.9.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 5 days ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: flaky abort tests](https://github.com/supabase/storage/pull/920) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
-- [fix: progressive migrations](https://github.com/supabase/storage/pull/919) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
-- [fix: add fast-xml-parser override](https://github.com/supabase/storage/pull/918) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
+- [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
+- [fix: flaky abort tests](https://github.com/supabase/storage/pull/920) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
+- [fix: progressive migrations](https://github.com/supabase/storage/pull/919) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
+- [fix: add fast-xml-parser override](https://github.com/supabase/storage/pull/918) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -61,7 +61,7 @@ Previously:
 #### ⭐ Recent Stars
 
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 weeks ago)
-- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (2 weeks ago)
+- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (3 weeks ago)
 - [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (3 weeks ago)
 - [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (3 weeks ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 month ago)
