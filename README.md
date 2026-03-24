@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.30.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.30.1), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [supabase/storage](https://github.com/supabase/storage) ([v1.44.11](https://github.com/supabase/storage/releases/tag/v1.44.11), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.4), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.4](https://github.com/golangci/golangci-lint/releases/tag/v2.11.4), 2 days ago) - Fast linters runner for Go
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/local-explorer-ui@0.9.0](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/local-explorer-ui%400.9.0), 4 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.6](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.6), 5 days ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: tracing hidden metric pipeline](https://github.com/supabase/storage/pull/924) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 - [fix: flaky abort tests](https://github.com/supabase/storage/pull/920) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 - [fix: progressive migrations](https://github.com/supabase/storage/pull/919) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
-- [fix: add fast-xml-parser override](https://github.com/supabase/storage/pull/918) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
 
 #### 📚 Latest Blog posts
 
