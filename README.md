@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (3 weeks ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: admin handlers for migrations](https://github.com/supabase/storage/pull/929) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: xml bump for sec](https://github.com/supabase/storage/pull/927) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: tracing hidden metric pipeline](https://github.com/supabase/storage/pull/924) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 - [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
-- [fix: flaky abort tests](https://github.com/supabase/storage/pull/920) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
-- [fix: progressive migrations](https://github.com/supabase/storage/pull/919) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 
 #### 📚 Latest Blog posts
 
