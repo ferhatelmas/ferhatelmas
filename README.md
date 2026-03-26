@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (3 weeks ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.7](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.7), 1 day ago) - Cloudflare Terraform Provider
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.30.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.30.1), 1 day ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.11](https://github.com/supabase/storage/releases/tag/v1.44.11), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.4), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.11.4](https://github.com/golangci/golangci-lint/releases/tag/v2.11.4), 3 days ago) - Fast linters runner for Go
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.3](https://github.com/NVIDIA/aistore/releases/tag/v1.4.3), 1 day ago) - AIStore: scalable storage for AI applications
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.12](https://github.com/supabase/storage/releases/tag/v1.44.12), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.7](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.7), 2 days ago) - Cloudflare Terraform Provider
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.30.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.30.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.4](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.4), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: admin handlers for migrations](https://github.com/supabase/storage/pull/929) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: xml bump for sec](https://github.com/supabase/storage/pull/927) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: tracing hidden metric pipeline](https://github.com/supabase/storage/pull/924) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
-- [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
+- [fix: admin handlers for migrations](https://github.com/supabase/storage/pull/929) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: xml bump for sec](https://github.com/supabase/storage/pull/927) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: tracing hidden metric pipeline](https://github.com/supabase/storage/pull/924) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: drop mustache dependency](https://github.com/supabase/storage/pull/923) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
+- [fix: no any rule](https://github.com/supabase/storage/pull/922) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 
 #### 📚 Latest Blog posts
 
