@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.44.16](https://github.com/supabase/storage/releases/tag/v1.44.16), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.5](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.5), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.44.15](https://github.com/supabase/storage/releases/tag/v1.44.15), today) - S3 compatible object storage service that stores metadata in Postgres
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.3](https://github.com/NVIDIA/aistore/releases/tag/v1.4.3), 1 day ago) - AIStore: scalable storage for AI applications
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.7](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.7), 2 days ago) - Cloudflare Terraform Provider
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.30.1](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.30.1), 2 days ago) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: bump ts/jest](https://github.com/supabase/storage/pull/935) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: enable prom exporter only if config set](https://github.com/supabase/storage/pull/934) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: duplication in async abort controller](https://github.com/supabase/storage/pull/933) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: admin handlers for migrations](https://github.com/supabase/storage/pull/929) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: xml bump for sec](https://github.com/supabase/storage/pull/927) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: tracing hidden metric pipeline](https://github.com/supabase/storage/pull/924) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
