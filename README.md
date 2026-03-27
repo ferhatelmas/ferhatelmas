@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.48.0](https://github.com/supabase/storage/releases/tag/v1.48.0), today) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) ([@cloudflare/vite-plugin@1.30.2](https://github.com/cloudflare/workers-sdk/releases/tag/%40cloudflare/vite-plugin%401.30.2), today) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.3](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.3), today) - Cloudflare Terraform Provider
-- [supabase/storage](https://github.com/supabase/storage) ([v1.46.1](https://github.com/supabase/storage/releases/tag/v1.46.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 1 day ago) - GitHub’s official command line tool
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.1](https://github.com/supabase/supabase-js/releases/tag/v2.100.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.3](https://github.com/NVIDIA/aistore/releases/tag/v1.4.3), 2 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: make build required step and run jest transpile only](https://github.com/supabase/storage/pull/943) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: try blacksmith](https://github.com/supabase/storage/pull/941) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: manual admin tenant migration state recording](https://github.com/supabase/storage/pull/939) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: bump build target](https://github.com/supabase/storage/pull/937) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: drop ts-node-dev dep](https://github.com/supabase/storage/pull/936) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: bump ts/jest](https://github.com/supabase/storage/pull/935) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: enable prom exporter only if config set](https://github.com/supabase/storage/pull/934) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
