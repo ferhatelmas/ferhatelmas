@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 week ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (3 weeks ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.45.1](https://github.com/supabase/storage/releases/tag/v1.45.1), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.3](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.3), today) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.46.1](https://github.com/supabase/storage/releases/tag/v1.46.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 1 day ago) - GitHub’s official command line tool
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.1](https://github.com/supabase/supabase-js/releases/tag/v2.100.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.3](https://github.com/NVIDIA/aistore/releases/tag/v1.4.3), 2 days ago) - AIStore: scalable storage for AI applications
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v4.52.7](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v4.52.7), 3 days ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: manual admin tenant migration state recording](https://github.com/supabase/storage/pull/939) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: bump build target](https://github.com/supabase/storage/pull/937) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: drop ts-node-dev dep](https://github.com/supabase/storage/pull/936) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: bump ts/jest](https://github.com/supabase/storage/pull/935) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: enable prom exporter only if config set](https://github.com/supabase/storage/pull/934) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: duplication in async abort controller](https://github.com/supabase/storage/pull/933) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
