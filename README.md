@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (4 weeks ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.0-canary.8](https://github.com/supabase/supabase-js/releases/tag/v2.100.0-canary.8), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.48.4](https://github.com/supabase/storage/releases/tag/v1.48.4), today) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.1](https://github.com/go-git/go-git/releases/tag/v5.17.1), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.48.1](https://github.com/supabase/storage/releases/tag/v1.48.1), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.3](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.3), 3 days ago) - Cloudflare Terraform Provider
 - [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 4 days ago) - GitHub’s official command line tool
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.100.1](https://github.com/supabase/supabase-js/releases/tag/v2.100.1), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: harden coverage detection](https://github.com/supabase/storage/pull/949) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: harden jwk cache test wait](https://github.com/supabase/storage/pull/948) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: include docs into release not to mutate](https://github.com/supabase/storage/pull/944) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 - [chore: make build required step and run jest transpile only](https://github.com/supabase/storage/pull/943) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 - [chore: try blacksmith](https://github.com/supabase/storage/pull/941) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: manual admin tenant migration state recording](https://github.com/supabase/storage/pull/939) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: bump build target](https://github.com/supabase/storage/pull/937) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
