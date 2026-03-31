@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.48.7](https://github.com/supabase/storage/releases/tag/v1.48.7), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.4](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.4), 1 day ago) - Cloudflare Terraform Provider
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.101.0](https://github.com/supabase/supabase-js/releases/tag/v2.101.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.48.5](https://github.com/supabase/storage/releases/tag/v1.48.5), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.1](https://github.com/go-git/go-git/releases/tag/v5.17.1), 2 days ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 5 days ago) - GitHub’s official command line tool
 
