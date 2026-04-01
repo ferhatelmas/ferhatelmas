@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.102.0-beta.0](https://github.com/supabase/supabase-js/releases/tag/v2.102.0-beta.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.48.9](https://github.com/supabase/storage/releases/tag/v1.48.9), today) - S3 compatible object storage service that stores metadata in Postgres
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.2](https://github.com/go-git/go-git/releases/tag/v5.17.2), today) - A highly extensible Git implementation in pure Go.
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.4](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.4), 1 day ago) - Cloudflare Terraform Provider
-- [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 5 days ago) - GitHub’s official command line tool
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.102.0-beta.0](https://github.com/supabase/supabase-js/releases/tag/v2.102.0-beta.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.48.9](https://github.com/supabase/storage/releases/tag/v1.48.9), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.17.2](https://github.com/go-git/go-git/releases/tag/v5.17.2), 1 day ago) - A highly extensible Git implementation in pure Go.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.3](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.3), 5 days ago) - Cloudflare Terraform Provider
+- [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 6 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: handle json content type in delete tenant](https://github.com/supabase/storage/pull/956) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: add dependabot config](https://github.com/supabase/storage/pull/955) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: allow empty json for multipart](https://github.com/supabase/storage/pull/953) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: scanner pagination to follow token](https://github.com/supabase/storage/pull/951) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: drop fs-extra for native fs/promises](https://github.com/supabase/storage/pull/950) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: handle json content type in delete tenant](https://github.com/supabase/storage/pull/956) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: add dependabot config](https://github.com/supabase/storage/pull/955) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: allow empty json for multipart](https://github.com/supabase/storage/pull/953) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: scanner pagination to follow token](https://github.com/supabase/storage/pull/951) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: drop fs-extra for native fs/promises](https://github.com/supabase/storage/pull/950) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (today)
-- [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (3 weeks ago)
+- [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (1 day ago)
+- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (1 day ago)
+- [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (4 weeks ago)
 - [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (4 weeks ago)
-- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (4 weeks ago)
-- [jasnell/new-streams](https://github.com/jasnell/new-streams) - A proposal for a new streams API (1 month ago)
+- [VirusTotal/yara](https://github.com/VirusTotal/yara) - The pattern matching swiss knife (1 month ago)
