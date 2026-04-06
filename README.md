@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: use sample env files for tests](https://github.com/supabase/storage/pull/981) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: allow empty json body for delete/empty bucket](https://github.com/supabase/storage/pull/974) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: allocate less in interim](https://github.com/supabase/storage/pull/973) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: add admin post for disableEvents/imageTransformation](https://github.com/supabase/storage/pull/972) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: add tests for admin tenant config handler](https://github.com/supabase/storage/pull/971) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: report errors in orphan and test entity expansion](https://github.com/supabase/storage/pull/965) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
