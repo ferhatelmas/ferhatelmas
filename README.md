@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.48.27](https://github.com/supabase/storage/releases/tag/v1.48.27), today) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.5), today) - Cloudflare Terraform Provider
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.102.1](https://github.com/supabase/supabase-js/releases/tag/v2.102.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.1](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.1), 6 days ago) - A highly extensible Git implementation in pure Go.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.48.27](https://github.com/supabase/storage/releases/tag/v1.48.27), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.5), 1 day ago) - Cloudflare Terraform Provider
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.102.1](https://github.com/supabase/supabase-js/releases/tag/v2.102.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.1](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.89.0](https://github.com/cli/cli/releases/tag/v2.89.0), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: add regression tests for admin tenant tx usage](https://github.com/supabase/storage/pull/991) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: add regression tests for error codes](https://github.com/supabase/storage/pull/990) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: add regression tests for checksums](https://github.com/supabase/storage/pull/988) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: use sample env files for tests](https://github.com/supabase/storage/pull/981) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: allow empty json body for delete/empty bucket](https://github.com/supabase/storage/pull/974) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: add regression tests for admin tenant tx usage](https://github.com/supabase/storage/pull/991) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: add regression tests for error codes](https://github.com/supabase/storage/pull/990) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: add regression tests for checksums](https://github.com/supabase/storage/pull/988) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: use sample env files for tests](https://github.com/supabase/storage/pull/981) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: allow empty json body for delete/empty bucket](https://github.com/supabase/storage/pull/974) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
