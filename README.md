@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
-- [ferhatelmas/goodies](https://github.com/ferhatelmas/goodies) - A small collection of reusable agent skills (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.48.30](https://github.com/supabase/storage/releases/tag/v1.48.30), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), today) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.1-beta.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.1-beta.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.4](https://github.com/NVIDIA/aistore/releases/tag/v1.4.4), 1 day ago) - AIStore: scalable storage for AI applications
-- [supabase/storage](https://github.com/supabase/storage) ([v1.48.28](https://github.com/supabase/storage/releases/tag/v1.48.28), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.5), 2 days ago) - Cloudflare Terraform Provider
-- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.1](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: drop any in abort controller](https://github.com/supabase/storage/pull/997) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: no mutation for caller owned payloads](https://github.com/supabase/storage/pull/996) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: mime validation for multipart](https://github.com/supabase/storage/pull/995) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: empty segment listing](https://github.com/supabase/storage/pull/994) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: improve sigv4 stream upload performance](https://github.com/supabase/storage/pull/993) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: stats for single shard](https://github.com/supabase/storage/pull/992) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
