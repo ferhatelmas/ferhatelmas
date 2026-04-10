@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 weeks ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.48.30](https://github.com/supabase/storage/releases/tag/v1.48.30), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.49.0](https://github.com/supabase/storage/releases/tag/v1.49.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.1-beta.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.1-beta.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.4](https://github.com/NVIDIA/aistore/releases/tag/v1.4.4), 2 days ago) - AIStore: scalable storage for AI applications
@@ -47,11 +47,10 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add hit ratio tenant pool cache](https://github.com/supabase/storage/pull/1002) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: intro vitest &amp; split units](https://github.com/supabase/storage/pull/1000) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: drop any in abort controller](https://github.com/supabase/storage/pull/997) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: no mutation for caller owned payloads](https://github.com/supabase/storage/pull/996) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: mime validation for multipart](https://github.com/supabase/storage/pull/995) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: empty segment listing](https://github.com/supabase/storage/pull/994) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
