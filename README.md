@@ -47,10 +47,9 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: add cool down for dependabot](https://github.com/supabase/storage/pull/1013) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [feat: add tenant pool metrics for evictions and per req hit ratio](https://github.com/supabase/storage/pull/1012) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: use max for cache size/entries in dash](https://github.com/supabase/storage/pull/1008) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [feat: add hit ratio tenant pool cache](https://github.com/supabase/storage/pull/1002) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [feat: intro vitest &amp; split units](https://github.com/supabase/storage/pull/1000) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: drop any in abort controller](https://github.com/supabase/storage/pull/997) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
