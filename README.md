@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.51.1](https://github.com/supabase/storage/releases/tag/v1.51.1), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.53.0](https://github.com/supabase/storage/releases/tag/v1.53.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 5 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.1-beta.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.1-beta.0), 5 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.4](https://github.com/NVIDIA/aistore/releases/tag/v1.4.4), 6 days ago) - AIStore: scalable storage for AI applications
