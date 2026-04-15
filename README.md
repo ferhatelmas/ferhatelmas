@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.2-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.103.2-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.53.0](https://github.com/supabase/storage/releases/tag/v1.53.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 6 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.1-beta.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.1-beta.0), 6 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.4](https://github.com/NVIDIA/aistore/releases/tag/v1.4.4), 1 week ago) - AIStore: scalable storage for AI applications
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.5), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: cap expires in and return bad request](https://github.com/supabase/storage/pull/1020) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: pin npm](https://github.com/supabase/storage/pull/1019) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [feat: add outcome logging for tenant pools](https://github.com/supabase/storage/pull/1018) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [feat: add tenant config per request hit ratio](https://github.com/supabase/storage/pull/1017) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [chore: improve s3 delete objects result construction](https://github.com/supabase/storage/pull/1014) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
