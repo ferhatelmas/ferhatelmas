@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.53.4](https://github.com/supabase/storage/releases/tag/v1.53.4), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.3-canary.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.90.0](https://github.com/cli/cli/releases/tag/v2.90.0), today) - GitHub’s official command line tool
+- [supabase/storage](https://github.com/supabase/storage) ([v1.53.6](https://github.com/supabase/storage/releases/tag/v1.53.6), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.3](https://github.com/supabase/supabase-js/releases/tag/v2.103.3), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 1 week ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.4](https://github.com/NVIDIA/aistore/releases/tag/v1.4.4), 1 week ago) - AIStore: scalable storage for AI applications
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.5), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: fastify synthetic shutdown reply in logger](https://github.com/supabase/storage/pull/1028) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: drop jest and its dependencies](https://github.com/supabase/storage/pull/1027) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: do not start monitoring stack for tests](https://github.com/supabase/storage/pull/1026) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: more test extraction to vitest &amp; handle any](https://github.com/supabase/storage/pull/1025) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: simplify migration memoize](https://github.com/supabase/storage/pull/1022) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
