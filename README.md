@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
@@ -47,10 +47,10 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: drop jest and its dependencies](https://github.com/supabase/storage/pull/1027) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: do not start monitoring stack for tests](https://github.com/supabase/storage/pull/1026) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: more test extraction to vitest &amp; handle any](https://github.com/supabase/storage/pull/1025) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: simplify migration memoize](https://github.com/supabase/storage/pull/1022) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: move jwt to vitest and handle any](https://github.com/supabase/storage/pull/1021) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: cap expires in and return bad request](https://github.com/supabase/storage/pull/1020) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
