@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (6 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (1 month ago)
@@ -39,19 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.3-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.53.2](https://github.com/supabase/storage/releases/tag/v1.53.2), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 6 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.53.4](https://github.com/supabase/storage/releases/tag/v1.53.4), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.103.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.103.3-canary.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 1 week ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.4](https://github.com/NVIDIA/aistore/releases/tag/v1.4.4), 1 week ago) - AIStore: scalable storage for AI applications
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0-beta.5), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: simplify migration memoize](https://github.com/supabase/storage/pull/1022) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: move jwt to vitest and handle any](https://github.com/supabase/storage/pull/1021) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: cap expires in and return bad request](https://github.com/supabase/storage/pull/1020) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: pin npm](https://github.com/supabase/storage/pull/1019) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [feat: add outcome logging for tenant pools](https://github.com/supabase/storage/pull/1018) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: more test extraction to vitest &amp; handle any](https://github.com/supabase/storage/pull/1025) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: simplify migration memoize](https://github.com/supabase/storage/pull/1022) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: move jwt to vitest and handle any](https://github.com/supabase/storage/pull/1021) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: cap expires in and return bad request](https://github.com/supabase/storage/pull/1020) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
