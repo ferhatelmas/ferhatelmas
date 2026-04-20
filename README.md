@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.104.0-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.104.0-canary.2), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.53.9](https://github.com/supabase/storage/releases/tag/v1.53.9), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 3 days ago) - A highly extensible Git implementation in pure Go.
-- [cli/cli](https://github.com/cli/cli) ([v2.90.0](https://github.com/cli/cli/releases/tag/v2.90.0), 3 days ago) - GitHub’s official command line tool
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.104.0-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.104.0-canary.2), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.53.9](https://github.com/supabase/storage/releases/tag/v1.53.9), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 4 days ago) - A highly extensible Git implementation in pure Go.
+- [cli/cli](https://github.com/cli/cli) ([v2.90.0](https://github.com/cli/cli/releases/tag/v2.90.0), 4 days ago) - GitHub’s official command line tool
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.04](https://github.com/supabase/supabase/releases/tag/v1.26.04), 1 week ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add admin pprof and its client](https://github.com/supabase/storage/pull/1037) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [chore: handle any in tests](https://github.com/supabase/storage/pull/1033) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: fastify synthetic shutdown reply in logger](https://github.com/supabase/storage/pull/1028) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: drop jest and its dependencies](https://github.com/supabase/storage/pull/1027) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: do not start monitoring stack for tests](https://github.com/supabase/storage/pull/1026) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [feat: add admin pprof and its client](https://github.com/supabase/storage/pull/1037) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [chore: handle any in tests](https://github.com/supabase/storage/pull/1033) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: fastify synthetic shutdown reply in logger](https://github.com/supabase/storage/pull/1028) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: drop jest and its dependencies](https://github.com/supabase/storage/pull/1027) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [chore: do not start monitoring stack for tests](https://github.com/supabase/storage/pull/1026) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
