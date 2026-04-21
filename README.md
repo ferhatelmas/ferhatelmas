@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.104.0](https://github.com/supabase/supabase-js/releases/tag/v2.104.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.0](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.54.0](https://github.com/supabase/storage/releases/tag/v1.54.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 5 days ago) - A highly extensible Git implementation in pure Go.
 - [cli/cli](https://github.com/cli/cli) ([v2.90.0](https://github.com/cli/cli/releases/tag/v2.90.0), 5 days ago) - GitHub’s official command line tool
@@ -47,6 +47,7 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: path traversal for tus](https://github.com/supabase/storage/pull/1039) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: drop axios from orphan script](https://github.com/supabase/storage/pull/1038) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [feat: add admin pprof and its client](https://github.com/supabase/storage/pull/1037) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [chore: handle any in tests](https://github.com/supabase/storage/pull/1033) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
