@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.5](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.5), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.7](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.7), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.55.0](https://github.com/supabase/storage/releases/tag/v1.55.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cli/cli](https://github.com/cli/cli) ([v2.91.0](https://github.com/cli/cli/releases/tag/v2.91.0), 2 days ago) - GitHub’s official command line tool
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 1 week ago) - A highly extensible Git implementation in pure Go.
@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: drop creating a child logger per req](https://github.com/supabase/storage/pull/1050) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [refactor: drop axios from cluster discovery](https://github.com/supabase/storage/pull/1049) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [refactor: drop axios from tests and webhooks](https://github.com/supabase/storage/pull/1046) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [feat: add queue management handlers](https://github.com/supabase/storage/pull/1043) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [refactor: drop axios from iceberg rest catalog client](https://github.com/supabase/storage/pull/1042) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [feat: add sb-request-id logging](https://github.com/supabase/storage/pull/1041) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
