@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0), 1 day ago) - Cloudflare Terraform Provider
-- [supabase/storage](https://github.com/supabase/storage) ([v1.55.3](https://github.com/supabase/storage/releases/tag/v1.55.3), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.7](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.7), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cli/cli](https://github.com/cli/cli) ([v2.91.0](https://github.com/cli/cli/releases/tag/v2.91.0), 4 days ago) - GitHub’s official command line tool
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0), 2 days ago) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.55.3](https://github.com/supabase/storage/releases/tag/v1.55.3), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.7](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.7), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.91.0](https://github.com/cli/cli/releases/tag/v2.91.0), 5 days ago) - GitHub’s official command line tool
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop axios from image renderer](https://github.com/supabase/storage/pull/1056) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: drop axios from cdn cache manager](https://github.com/supabase/storage/pull/1051) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: drop creating a child logger per req](https://github.com/supabase/storage/pull/1050) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [refactor: drop axios from cluster discovery](https://github.com/supabase/storage/pull/1049) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [refactor: drop axios from tests and webhooks](https://github.com/supabase/storage/pull/1046) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: drop axios from image renderer](https://github.com/supabase/storage/pull/1056) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: drop axios from cdn cache manager](https://github.com/supabase/storage/pull/1051) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: drop creating a child logger per req](https://github.com/supabase/storage/pull/1050) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [refactor: drop axios from cluster discovery](https://github.com/supabase/storage/pull/1049) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [refactor: drop axios from tests and webhooks](https://github.com/supabase/storage/pull/1046) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,7 +60,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (3 days ago)
+- [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (4 days ago)
 - [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (3 weeks ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (3 weeks ago)
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (1 month ago)
