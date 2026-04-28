@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
@@ -39,19 +39,17 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.1](https://github.com/supabase/supabase-js/releases/tag/v2.105.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.57.1](https://github.com/supabase/storage/releases/tag/v1.57.1), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.2-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.105.2-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), today) - GitHub’s official command line tool
-- [supabase/storage](https://github.com/supabase/storage) ([v1.56.0](https://github.com/supabase/storage/releases/tag/v1.56.0), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0), 3 days ago) - Cloudflare Terraform Provider
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: make tenant pool ttl configurable](https://github.com/supabase/storage/pull/1066) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: cache text encoder for jwt](https://github.com/supabase/storage/pull/1065) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: prevent double serialization for req](https://github.com/supabase/storage/pull/1063) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: add matrix into acceptance tests](https://github.com/supabase/storage/pull/1062) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [feat: add acceptance test suite setup](https://github.com/supabase/storage/pull/1060) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: drop axios from image renderer](https://github.com/supabase/storage/pull/1056) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: drop axios from cdn cache manager](https://github.com/supabase/storage/pull/1051) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
