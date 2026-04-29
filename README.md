@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (1 month ago)
@@ -39,8 +39,8 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.57.2](https://github.com/supabase/storage/releases/tag/v1.57.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.2-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.105.2-canary.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.1](https://github.com/supabase/storage/releases/tag/v1.58.1), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.17](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.17), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 1 day ago) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0), 4 days ago) - Cloudflare Terraform Provider
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 1 week ago) - A highly extensible Git implementation in pure Go.
@@ -49,7 +49,6 @@ Previously:
 
 - [feat: make tenant pool ttl configurable](https://github.com/supabase/storage/pull/1066) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: cache text encoder for jwt](https://github.com/supabase/storage/pull/1065) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: prevent double serialization for req](https://github.com/supabase/storage/pull/1063) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
