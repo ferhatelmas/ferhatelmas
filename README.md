@@ -39,16 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.18](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.18), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.58.2](https://github.com/supabase/storage/releases/tag/v1.58.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.17](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.17), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 2 days ago) - GitHub’s official command line tool
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.0), 5 days ago) - Cloudflare Terraform Provider
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.18.0](https://github.com/go-git/go-git/releases/tag/v5.18.0), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: share s3 client for tus s3 locker](https://github.com/supabase/storage/pull/1073) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: bump tus-js-client for wrong types](https://github.com/supabase/storage/pull/1072) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: iceberg container and acceptance tests](https://github.com/supabase/storage/pull/1071) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: make tenant pool ttl configurable](https://github.com/supabase/storage/pull/1066) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [chore: cache text encoder for jwt](https://github.com/supabase/storage/pull/1065) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
