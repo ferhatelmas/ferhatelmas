@@ -39,10 +39,10 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.20](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.20), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.1](https://github.com/golangci/golangci-lint/releases/tag/v2.12.1), 2 days ago) - Fast linters runner for Go
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.1), 3 days ago) - Cloudflare Terraform Provider
 - [supabase/storage](https://github.com/supabase/storage) ([v1.58.4](https://github.com/supabase/storage/releases/tag/v1.58.4), 4 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.18](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.18), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 6 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
