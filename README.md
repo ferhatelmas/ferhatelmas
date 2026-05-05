@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 months ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.3](https://github.com/supabase/supabase-js/releases/tag/v2.105.3), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.5](https://github.com/supabase/storage/releases/tag/v1.58.5), today) - S3 compatible object storage service that stores metadata in Postgres
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.1](https://github.com/golangci/golangci-lint/releases/tag/v2.12.1), 2 days ago) - Fast linters runner for Go
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.1), 3 days ago) - Cloudflare Terraform Provider
-- [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 6 days ago) - GitHub’s official command line tool
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.7](https://github.com/supabase/storage/releases/tag/v1.58.7), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.3](https://github.com/supabase/supabase-js/releases/tag/v2.105.3), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.1](https://github.com/golangci/golangci-lint/releases/tag/v2.12.1), 3 days ago) - Fast linters runner for Go
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.1), 4 days ago) - Cloudflare Terraform Provider
+- [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: enable render acceptance](https://github.com/supabase/storage/pull/1079) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: fake urls in json schema for bare ids](https://github.com/supabase/storage/pull/1078) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: share s3 client for tus s3 locker](https://github.com/supabase/storage/pull/1073) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [chore: bump tus-js-client for wrong types](https://github.com/supabase/storage/pull/1072) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: iceberg container and acceptance tests](https://github.com/supabase/storage/pull/1071) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [chore: sync biome ignore via git](https://github.com/supabase/storage/pull/1081) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: defs and recursion for query vectors docs](https://github.com/supabase/storage/pull/1080) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: enable render acceptance](https://github.com/supabase/storage/pull/1079) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: fake urls in json schema for bare ids](https://github.com/supabase/storage/pull/1078) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: share s3 client for tus s3 locker](https://github.com/supabase/storage/pull/1073) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
