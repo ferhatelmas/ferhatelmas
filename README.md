@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), today) - Fast linters runner for Go
 - [supabase/storage](https://github.com/supabase/storage) ([v1.58.10](https://github.com/supabase/storage/releases/tag/v1.58.10), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.3](https://github.com/supabase/supabase-js/releases/tag/v2.105.3), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.1](https://github.com/golangci/golangci-lint/releases/tag/v2.12.1), 4 days ago) - Fast linters runner for Go
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.1), 5 days ago) - Cloudflare Terraform Provider
 - [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 1 week ago) - GitHub’s official command line tool
 
@@ -51,7 +51,6 @@ Previously:
 - [chore: sync biome ignore via git](https://github.com/supabase/storage/pull/1081) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: defs and recursion for query vectors docs](https://github.com/supabase/storage/pull/1080) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: enable render acceptance](https://github.com/supabase/storage/pull/1079) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: fake urls in json schema for bare ids](https://github.com/supabase/storage/pull/1078) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
