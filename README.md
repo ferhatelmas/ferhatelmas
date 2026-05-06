@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 months ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 months ago)
@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), today) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), today) - Fast linters runner for Go
 - [supabase/storage](https://github.com/supabase/storage) ([v1.58.10](https://github.com/supabase/storage/releases/tag/v1.58.10), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.3](https://github.com/supabase/supabase-js/releases/tag/v2.105.3), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.19.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.19.1), 5 days ago) - Cloudflare Terraform Provider
-- [cli/cli](https://github.com/cli/cli) ([v2.92.0](https://github.com/cli/cli/releases/tag/v2.92.0), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
@@ -59,8 +59,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (today)
 - [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (1 week ago)
 - [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (1 month ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (1 month ago)
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 months ago)
-- [ceph/s3-tests](https://github.com/ceph/s3-tests) - Compatibility tests for S3 clones (2 months ago)
