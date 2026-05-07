@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.25](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.25), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.26](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.26), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 1 day ago) - Fast linters runner for Go
 - [supabase/storage](https://github.com/supabase/storage) ([v1.58.10](https://github.com/supabase/storage/releases/tag/v1.58.10), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
