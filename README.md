@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 days ago)
 - [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 days ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 months ago)
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore: scalable storage for AI applications (2 months ago)
