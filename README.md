@@ -23,9 +23,9 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 day ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (4 days ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 months ago)
 
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.4](https://github.com/supabase/supabase-js/releases/tag/v2.105.4), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.11](https://github.com/supabase/storage/releases/tag/v1.58.11), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 2 days ago) - A highly extensible Git implementation in pure Go.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 2 days ago) - Fast linters runner for Go
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.4](https://github.com/supabase/supabase-js/releases/tag/v2.105.4), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.11](https://github.com/supabase/storage/releases/tag/v1.58.11), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 2 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 3 days ago) - A highly extensible Git implementation in pure Go.
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 3 days ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: drop @types/cloneable-readable dev dep](https://github.com/supabase/storage/pull/1091) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: range reads for file backend](https://github.com/supabase/storage/pull/1087) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: drop busboy types](https://github.com/supabase/storage/pull/1084) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: sync biome ignore via git](https://github.com/supabase/storage/pull/1081) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: s3 delete object idempotent](https://github.com/supabase/storage/pull/1092) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: drop @types/cloneable-readable dev dep](https://github.com/supabase/storage/pull/1091) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: range reads for file backend](https://github.com/supabase/storage/pull/1087) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: drop busboy types](https://github.com/supabase/storage/pull/1084) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,7 +59,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (2 days ago)
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (3 days ago)
 - [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (2 weeks ago)
 - [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (1 month ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (1 month ago)
