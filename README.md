@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.12](https://github.com/supabase/storage/releases/tag/v1.58.12), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.105.4](https://github.com/supabase/supabase-js/releases/tag/v2.105.4), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.29](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.29), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.13](https://github.com/supabase/storage/releases/tag/v1.58.13), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 4 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 5 days ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 5 days ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: on tenant config change](https://github.com/supabase/storage/pull/1100) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: make progressive batch send cleanup unconditional](https://github.com/supabase/storage/pull/1099) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: persist iceberg namespace metadata updates](https://github.com/supabase/storage/pull/1098) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: replace knex with pg directly](https://github.com/supabase/storage/pull/1096) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: s3 delete object idempotent](https://github.com/supabase/storage/pull/1092) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: drop @types/cloneable-readable dev dep](https://github.com/supabase/storage/pull/1091) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: range reads for file backend](https://github.com/supabase/storage/pull/1087) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
