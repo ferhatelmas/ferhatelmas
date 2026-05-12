@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: s3 get object conditional status code](https://github.com/supabase/storage/pull/1103) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: add more acceptance test coverage](https://github.com/supabase/storage/pull/1102) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: drop stream-buffers in favor of a generator](https://github.com/supabase/storage/pull/1101) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: on tenant config change](https://github.com/supabase/storage/pull/1100) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: make progressive batch send cleanup unconditional](https://github.com/supabase/storage/pull/1099) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: persist iceberg namespace metadata updates](https://github.com/supabase/storage/pull/1098) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: replace knex with pg directly](https://github.com/supabase/storage/pull/1096) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
