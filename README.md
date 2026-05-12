@@ -23,9 +23,9 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (4 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (6 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (5 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 months ago)
 
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.29](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.29), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.13](https://github.com/supabase/storage/releases/tag/v1.58.13), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 4 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 5 days ago) - A highly extensible Git implementation in pure Go.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 5 days ago) - Fast linters runner for Go
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v3.0.0-next.29](https://github.com/supabase/supabase-js/releases/tag/v3.0.0-next.29), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.13](https://github.com/supabase/storage/releases/tag/v1.58.13), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 5 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 6 days ago) - A highly extensible Git implementation in pure Go.
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 6 days ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: on tenant config change](https://github.com/supabase/storage/pull/1100) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: make progressive batch send cleanup unconditional](https://github.com/supabase/storage/pull/1099) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: persist iceberg namespace metadata updates](https://github.com/supabase/storage/pull/1098) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: replace knex with pg directly](https://github.com/supabase/storage/pull/1096) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: on tenant config change](https://github.com/supabase/storage/pull/1100) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: make progressive batch send cleanup unconditional](https://github.com/supabase/storage/pull/1099) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: persist iceberg namespace metadata updates](https://github.com/supabase/storage/pull/1098) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: replace knex with pg directly](https://github.com/supabase/storage/pull/1096) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,7 +59,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (5 days ago)
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (6 days ago)
 - [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (2 weeks ago)
 - [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (1 month ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (1 month ago)
