@@ -23,10 +23,10 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (6 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (1 month ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (2 months ago)
 
 #### 🌱 My latest projects
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.18](https://github.com/supabase/storage/releases/tag/v1.58.18), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.0-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.106.0-canary.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 6 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 1 day ago) - AIStore: scalable storage for AI applications
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.19](https://github.com/supabase/storage/releases/tag/v1.58.19), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.0-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.106.0-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 1 week ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 1 week ago) - A highly extensible Git implementation in pure Go.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 1 week ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop head after complete in multipart uploads](https://github.com/supabase/storage/pull/1105) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: s3 get object conditional status code](https://github.com/supabase/storage/pull/1103) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: add more acceptance test coverage](https://github.com/supabase/storage/pull/1102) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: drop stream-buffers in favor of a generator](https://github.com/supabase/storage/pull/1101) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: on tenant config change](https://github.com/supabase/storage/pull/1100) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: drop head after complete in multipart uploads](https://github.com/supabase/storage/pull/1105) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: s3 get object conditional status code](https://github.com/supabase/storage/pull/1103) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: add more acceptance test coverage](https://github.com/supabase/storage/pull/1102) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [chore: drop stream-buffers in favor of a generator](https://github.com/supabase/storage/pull/1101) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: on tenant config change](https://github.com/supabase/storage/pull/1100) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -61,7 +61,7 @@ Previously:
 #### ⭐ Recent Stars
 
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (1 week ago)
-- [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (2 weeks ago)
+- [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (3 weeks ago)
 - [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (1 month ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (1 month ago)
 - [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 months ago)
