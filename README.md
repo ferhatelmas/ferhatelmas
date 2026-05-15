@@ -39,8 +39,8 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.20](https://github.com/supabase/storage/releases/tag/v1.58.20), today) - S3 compatible object storage service that stores metadata in Postgres
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 2 days ago) - AIStore: scalable storage for AI applications
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.19](https://github.com/supabase/storage/releases/tag/v1.58.19), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 1 week ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 1 week ago) - Fast linters runner for Go
