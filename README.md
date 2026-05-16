@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.20](https://github.com/supabase/storage/releases/tag/v1.58.20), today) - S3 compatible object storage service that stores metadata in Postgres
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 2 days ago) - AIStore: scalable storage for AI applications
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.20](https://github.com/supabase/storage/releases/tag/v1.58.20), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 3 days ago) - AIStore: scalable storage for AI applications
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.05](https://github.com/supabase/supabase/releases/tag/v1.26.05), 1 week ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v6.0.0-alpha.3](https://github.com/go-git/go-git/releases/tag/v6.0.0-alpha.3), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ([v2.12.2](https://github.com/golangci/golangci-lint/releases/tag/v2.12.2), 1 week ago) - Fast linters runner for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop head after complete in multipart uploads](https://github.com/supabase/storage/pull/1105) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: s3 get object conditional status code](https://github.com/supabase/storage/pull/1103) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: add more acceptance test coverage](https://github.com/supabase/storage/pull/1102) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: drop stream-buffers in favor of a generator](https://github.com/supabase/storage/pull/1101) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [feat: add on-demand signature generation](https://github.com/supabase/storage/pull/1108) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: drop head after complete in multipart uploads](https://github.com/supabase/storage/pull/1105) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: s3 get object conditional status code](https://github.com/supabase/storage/pull/1103) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: add more acceptance test coverage](https://github.com/supabase/storage/pull/1102) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
