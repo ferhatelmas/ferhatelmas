@@ -39,10 +39,10 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.1-beta.1](https://github.com/supabase/supabase-js/releases/tag/v2.106.1-beta.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.58.22](https://github.com/supabase/storage/releases/tag/v1.58.22), today) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.1](https://github.com/go-git/go-git/releases/tag/v5.19.1), 1 day ago) - A highly extensible Git implementation in pure Go.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0-rc0), 1 day ago) - Apache Iceberg - Go
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.0](https://github.com/supabase/supabase-js/releases/tag/v2.106.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 6 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
