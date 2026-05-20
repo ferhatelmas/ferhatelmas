@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 week ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
@@ -39,17 +39,17 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.1-beta.1](https://github.com/supabase/supabase-js/releases/tag/v2.106.1-beta.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.22](https://github.com/supabase/storage/releases/tag/v1.58.22), today) - S3 compatible object storage service that stores metadata in Postgres
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.1](https://github.com/go-git/go-git/releases/tag/v5.19.1), 1 day ago) - A highly extensible Git implementation in pure Go.
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0-rc0), 1 day ago) - Apache Iceberg - Go
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 6 days ago) - AIStore: scalable storage for AI applications
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.1-beta.1](https://github.com/supabase/supabase-js/releases/tag/v2.106.1-beta.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.22](https://github.com/supabase/storage/releases/tag/v1.58.22), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.1](https://github.com/go-git/go-git/releases/tag/v5.19.1), 2 days ago) - A highly extensible Git implementation in pure Go.
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0-rc0), 2 days ago) - Apache Iceberg - Go
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.5](https://github.com/NVIDIA/aistore/releases/tag/v1.4.5), 1 week ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: Revert &#34;fix: drop head after complete in multipart uploads (#1105)&#34;](https://github.com/supabase/storage/pull/1113) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: copy metadata upstream](https://github.com/supabase/storage/pull/1111) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [feat: add on-demand signature generation](https://github.com/supabase/storage/pull/1108) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: Revert &#34;fix: drop head after complete in multipart uploads (#1105)&#34;](https://github.com/supabase/storage/pull/1113) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: copy metadata upstream](https://github.com/supabase/storage/pull/1111) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [feat: add on-demand signature generation](https://github.com/supabase/storage/pull/1108) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -58,7 +58,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (1 week ago)
+- [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (2 weeks ago)
 - [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (3 weeks ago)
 - [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (1 month ago)
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (1 month ago)
