@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
@@ -39,17 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.58.27](https://github.com/supabase/storage/releases/tag/v1.58.27), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.1](https://github.com/supabase/supabase-js/releases/tag/v2.106.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1-RC1](https://github.com/apache/answer/releases/tag/v2.0.1-RC1), 1 day ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.58.22](https://github.com/supabase/storage/releases/tag/v1.58.22), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.1](https://github.com/go-git/go-git/releases/tag/v5.19.1), 3 days ago) - A highly extensible Git implementation in pure Go.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0-rc0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0-rc0), 3 days ago) - Apache Iceberg - Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: Revert &#34;fix: drop head after complete in multipart uploads (#1105)&#34;](https://github.com/supabase/storage/pull/1113) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: copy metadata upstream](https://github.com/supabase/storage/pull/1111) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [feat: add on-demand signature generation](https://github.com/supabase/storage/pull/1108) on [supabase/storage](https://github.com/supabase/storage) (6 days ago)
+- [fix: leak in iceberg upload part](https://github.com/supabase/storage/pull/1123) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: database slowdown error message check](https://github.com/supabase/storage/pull/1122) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: drop tenant id from metrics to reduce allocations](https://github.com/supabase/storage/pull/1121) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: single callback for memory/handle collector](https://github.com/supabase/storage/pull/1118) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: configurable part size](https://github.com/supabase/storage/pull/1116) on [supabase/storage](https://github.com/supabase/storage) (today)
 
 #### 📚 Latest Blog posts
 
