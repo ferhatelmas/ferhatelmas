@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v2.93.0](https://github.com/cli/cli/releases/tag/v2.93.0), today) - GitHub’s official command line tool
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.0](https://github.com/supabase/storage/releases/tag/v1.60.0), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.107.0-beta.1](https://github.com/supabase/supabase-js/releases/tag/v2.107.0-beta.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.59.1](https://github.com/supabase/storage/releases/tag/v1.59.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1-RC2](https://github.com/apache/answer/releases/tag/v2.0.1-RC2), 2 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0-rc2](https://github.com/apache/iceberg-go/releases/tag/v0.6.0-rc2), 6 days ago) - Apache Iceberg - Go
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.19.1](https://github.com/go-git/go-git/releases/tag/v5.19.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 
 #### 🔨 Latest Pull Requests I published
 
