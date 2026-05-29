@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (3 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (3 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), today) - Apache Iceberg - Go
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.106.3-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.2](https://github.com/supabase/storage/releases/tag/v1.60.2), today) - S3 compatible object storage service that stores metadata in Postgres
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.6](https://github.com/NVIDIA/aistore/releases/tag/v1.4.6), today) - AIStore: scalable storage for AI applications
-- [cli/cli](https://github.com/cli/cli) ([v2.93.0](https://github.com/cli/cli/releases/tag/v2.93.0), 1 day ago) - GitHub’s official command line tool
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), 1 day ago) - Apache Iceberg - Go
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.106.3-canary.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.2](https://github.com/supabase/storage/releases/tag/v1.60.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.6](https://github.com/NVIDIA/aistore/releases/tag/v1.4.6), 1 day ago) - AIStore: scalable storage for AI applications
+- [cli/cli](https://github.com/cli/cli) ([v2.93.0](https://github.com/cli/cli/releases/tag/v2.93.0), 2 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
