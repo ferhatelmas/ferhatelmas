@@ -39,10 +39,10 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.3](https://github.com/supabase/storage/releases/tag/v1.60.3), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.107.0-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.107.0-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.4](https://github.com/supabase/storage/releases/tag/v1.60.4), today) - S3 compatible object storage service that stores metadata in Postgres
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 3 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), 4 days ago) - Apache Iceberg - Go
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.106.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.106.3-canary.2), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.6](https://github.com/NVIDIA/aistore/releases/tag/v1.4.6), 4 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (today)
+- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype&#39;s PgQ. One SQL file to install, pg_cron to tick. (today)
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (today)
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust! (3 weeks ago)
 - [PostHog/duckgres](https://github.com/PostHog/duckgres) - DuckDB Postgres Server (1 month ago)
-- [oxia-db/oxia](https://github.com/oxia-db/oxia) - Oxia - Metadata store and coordination system (2 months ago)
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. (2 months ago)
-- [relytcloud/pg_duckpipe](https://github.com/relytcloud/pg_duckpipe) - Real-time streaming ingestion (CDC) for HTAP in PostgreSQL (2 months ago)
