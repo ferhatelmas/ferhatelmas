@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (3 weeks ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (4 weeks ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.107.0](https://github.com/supabase/supabase-js/releases/tag/v2.107.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.4](https://github.com/supabase/storage/releases/tag/v1.60.4), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 4 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), 5 days ago) - Apache Iceberg - Go
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.6](https://github.com/NVIDIA/aistore/releases/tag/v1.4.6), 5 days ago) - AIStore: scalable storage for AI applications
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.107.0](https://github.com/supabase/supabase-js/releases/tag/v2.107.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.4](https://github.com/supabase/storage/releases/tag/v1.60.4), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 5 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), 6 days ago) - Apache Iceberg - Go
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.6](https://github.com/NVIDIA/aistore/releases/tag/v1.4.6), 6 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -60,8 +60,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (today)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
-- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (1 day ago)
-- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype&#39;s PgQ. One SQL file to install, pg_cron to tick. (1 day ago)
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (1 day ago)
+- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (1 day ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 days ago)
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (2 days ago)
+- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype&#39;s PgQ. One SQL file to install, pg_cron to tick https://pgque.dev (2 days ago)
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (2 days ago)
