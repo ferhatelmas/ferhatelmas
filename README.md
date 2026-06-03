@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: add acceptance matrix for vectors](https://github.com/supabase/storage/pull/1132) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: rebalance pool in place](https://github.com/supabase/storage/pull/1125) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 - [fix: leak in iceberg upload part](https://github.com/supabase/storage/pull/1123) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 - [fix: database slowdown error message check](https://github.com/supabase/storage/pull/1122) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 - [fix: drop tenant id from metrics to reduce allocations](https://github.com/supabase/storage/pull/1121) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
-- [fix: single callback for memory/handle collector](https://github.com/supabase/storage/pull/1118) on [supabase/storage](https://github.com/supabase/storage) (1 week ago)
 
 #### 📚 Latest Blog posts
 
