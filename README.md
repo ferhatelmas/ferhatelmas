@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.5](https://github.com/supabase/storage/releases/tag/v1.60.5), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.0-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.108.0-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.6](https://github.com/supabase/storage/releases/tag/v1.60.6), today) - S3 compatible object storage service that stores metadata in Postgres
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.7](https://github.com/NVIDIA/aistore/releases/tag/v1.4.7), 1 day ago) - AIStore: scalable storage for AI applications
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.107.0](https://github.com/supabase/supabase-js/releases/tag/v2.107.0), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 6 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), 1 week ago) - Apache Iceberg - Go
 
@@ -51,7 +51,6 @@ Previously:
 - [fix: add acceptance matrix for vectors](https://github.com/supabase/storage/pull/1132) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: rebalance pool in place](https://github.com/supabase/storage/pull/1125) on [supabase/storage](https://github.com/supabase/storage) (2 weeks ago)
 - [fix: leak in iceberg upload part](https://github.com/supabase/storage/pull/1123) on [supabase/storage](https://github.com/supabase/storage) (2 weeks ago)
-- [fix: database slowdown error message check](https://github.com/supabase/storage/pull/1122) on [supabase/storage](https://github.com/supabase/storage) (2 weeks ago)
 
 #### 📚 Latest Blog posts
 
