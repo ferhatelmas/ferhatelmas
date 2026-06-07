@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 month ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 month ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (2 months ago)
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.8](https://github.com/supabase/storage/releases/tag/v1.60.8), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.0-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.108.0-canary.0), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.7](https://github.com/NVIDIA/aistore/releases/tag/v1.4.7), 3 days ago) - AIStore: scalable storage for AI applications
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.8](https://github.com/supabase/storage/releases/tag/v1.60.8), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.0-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.108.0-canary.0), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.7](https://github.com/NVIDIA/aistore/releases/tag/v1.4.7), 4 days ago) - AIStore: scalable storage for AI applications
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 1 week ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) ([v0.6.0](https://github.com/apache/iceberg-go/releases/tag/v0.6.0), 1 week ago) - Apache Iceberg - Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: add multigres into acceptance matrix](https://github.com/supabase/storage/pull/1137) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore(ci): extract common deps setup](https://github.com/supabase/storage/pull/1136) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: provide unique metric identity for workers](https://github.com/supabase/storage/pull/1134) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: add acceptance matrix for vectors](https://github.com/supabase/storage/pull/1132) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: add multigres into acceptance matrix](https://github.com/supabase/storage/pull/1137) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [chore(ci): extract common deps setup](https://github.com/supabase/storage/pull/1136) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: provide unique metric identity for workers](https://github.com/supabase/storage/pull/1134) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: add acceptance matrix for vectors](https://github.com/supabase/storage/pull/1132) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,8 +59,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (3 days ago)
-- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (4 days ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 days ago)
-- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (5 days ago)
-- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype&#39;s PgQ. One SQL file to install, pg_cron to tick https://pgque.dev (5 days ago)
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (4 days ago)
+- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (5 days ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (6 days ago)
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (6 days ago)
+- [NikolayS/PgQue](https://github.com/NikolayS/PgQue) - PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype&#39;s PgQ. One SQL file to install, pg_cron to tick https://pgque.dev (6 days ago)
