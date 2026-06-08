@@ -39,18 +39,17 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.1-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.108.1-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.108.1-canary.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.11](https://github.com/supabase/storage/releases/tag/v1.60.11), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v1.0.0](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v1.0.0), today) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.10](https://github.com/supabase/storage/releases/tag/v1.60.10), today) - S3 compatible object storage service that stores metadata in Postgres
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.7](https://github.com/NVIDIA/aistore/releases/tag/v1.4.7), 5 days ago) - AIStore: scalable storage for AI applications
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 1 week ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: duplicated instance label from autoconversion](https://github.com/supabase/storage/pull/1141) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: rebalance over recycle on only tenant config conn change](https://github.com/supabase/storage/pull/1140) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: sanitize imgproxy source image errors](https://github.com/supabase/storage/pull/1138) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: add multigres into acceptance matrix](https://github.com/supabase/storage/pull/1137) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore(ci): extract common deps setup](https://github.com/supabase/storage/pull/1136) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,7 +59,7 @@ Previously:
 #### ⭐ Recent Stars
 
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 day ago)
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (5 days ago)
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (5 days ago)
 - [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (6 days ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
 - [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (1 week ago)
