@@ -39,16 +39,16 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.14](https://github.com/supabase/storage/releases/tag/v1.60.14), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.1-canary.1](https://github.com/supabase/supabase-js/releases/tag/v2.108.1-canary.1), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.1](https://github.com/supabase/supabase-js/releases/tag/v2.108.1), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.15](https://github.com/supabase/storage/releases/tag/v1.60.15), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v1.0.0](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v1.0.0), 1 day ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.7](https://github.com/NVIDIA/aistore/releases/tag/v1.4.7), 6 days ago) - AIStore: scalable storage for AI applications
 - [apache/answer](https://github.com/apache/answer) ([v2.0.1](https://github.com/apache/answer/releases/tag/v2.0.1), 1 week ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: error listeners for pools](https://github.com/supabase/storage/pull/1144) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: drive ssl for mt through conn string](https://github.com/supabase/storage/pull/1143) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: more sanitization for imgproxy bad requests](https://github.com/supabase/storage/pull/1142) on [supabase/storage](https://github.com/supabase/storage) (today)
 
 #### 📚 Latest Blog posts
 
