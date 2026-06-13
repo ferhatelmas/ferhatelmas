@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), today) - Cloudflare Terraform Provider
 - [supabase/storage](https://github.com/supabase/storage) ([v1.60.17](https://github.com/supabase/storage/releases/tag/v1.60.17), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2-beta.5](https://github.com/supabase/supabase-js/releases/tag/v2.108.2-beta.5), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 3 days ago) - GitHub’s official command line tool
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v1.0.0](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v1.0.0), 5 days ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.7](https://github.com/NVIDIA/aistore/releases/tag/v1.4.7), 1 week ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
 
