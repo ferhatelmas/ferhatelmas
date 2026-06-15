@@ -47,9 +47,8 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: fold timeout into scope query](https://github.com/supabase/storage/pull/1154) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: drop single_use pool mode](https://github.com/supabase/storage/pull/1152) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: drop pgboss-v10 migrate admin endpoint](https://github.com/supabase/storage/pull/1146) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: harden pg connection and admin timeouts](https://github.com/supabase/storage/pull/1145) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
