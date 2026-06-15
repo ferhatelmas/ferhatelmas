@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 month ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 month ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 months ago)
@@ -39,17 +39,17 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), 1 day ago) - Cloudflare Terraform Provider
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.17](https://github.com/supabase/storage/releases/tag/v1.60.17), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2-beta.5](https://github.com/supabase/supabase-js/releases/tag/v2.108.2-beta.5), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 4 days ago) - GitHub’s official command line tool
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v1.0.0](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v1.0.0), 6 days ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), 2 days ago) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.17](https://github.com/supabase/storage/releases/tag/v1.60.17), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2-beta.5](https://github.com/supabase/supabase-js/releases/tag/v2.108.2-beta.5), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 5 days ago) - GitHub’s official command line tool
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) ([iceberg-js-v1.0.0](https://github.com/supabase/iceberg-js/releases/tag/iceberg-js-v1.0.0), 1 week ago) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop single_use pool mode](https://github.com/supabase/storage/pull/1152) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [chore: drop pgboss-v10 migrate admin endpoint](https://github.com/supabase/storage/pull/1146) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: harden pg connection and admin timeouts](https://github.com/supabase/storage/pull/1145) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: drop single_use pool mode](https://github.com/supabase/storage/pull/1152) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [chore: drop pgboss-v10 migrate admin endpoint](https://github.com/supabase/storage/pull/1146) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: harden pg connection and admin timeouts](https://github.com/supabase/storage/pull/1145) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -61,5 +61,5 @@ Previously:
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 week ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
 - [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (1 week ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
-- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (1 week ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
+- [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (2 weeks ago)
