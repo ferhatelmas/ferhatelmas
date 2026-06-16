@@ -39,16 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.20](https://github.com/supabase/storage/releases/tag/v1.60.20), today) - S3 compatible object storage service that stores metadata in Postgres
 - [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), today) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.18](https://github.com/supabase/storage/releases/tag/v1.60.18), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), 3 days ago) - Cloudflare Terraform Provider
 - [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 6 days ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: cheaper counter metrics](https://github.com/supabase/storage/pull/1159) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: export distinct status codes](https://github.com/supabase/storage/pull/1158) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: make cache metrics cheaper](https://github.com/supabase/storage/pull/1157) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: map wrapped slowdown error and enrich its context](https://github.com/supabase/storage/pull/1156) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: fold timeout into scope query](https://github.com/supabase/storage/pull/1154) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
