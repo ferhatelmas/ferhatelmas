@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 month ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 month ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 months ago)
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.20](https://github.com/supabase/storage/releases/tag/v1.60.20), today) - S3 compatible object storage service that stores metadata in Postgres
-- [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), today) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), 3 days ago) - Cloudflare Terraform Provider
-- [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 6 days ago) - GitHub’s official command line tool
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.20](https://github.com/supabase/storage/releases/tag/v1.60.20), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 1 day ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.2), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), 4 days ago) - Cloudflare Terraform Provider
+- [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: cheaper counter metrics](https://github.com/supabase/storage/pull/1159) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: export distinct status codes](https://github.com/supabase/storage/pull/1158) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: make cache metrics cheaper](https://github.com/supabase/storage/pull/1157) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: map wrapped slowdown error and enrich its context](https://github.com/supabase/storage/pull/1156) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: cheaper counter metrics](https://github.com/supabase/storage/pull/1159) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: export distinct status codes](https://github.com/supabase/storage/pull/1158) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: make cache metrics cheaper](https://github.com/supabase/storage/pull/1157) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: map wrapped slowdown error and enrich its context](https://github.com/supabase/storage/pull/1156) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -60,7 +60,7 @@ Previously:
 #### ⭐ Recent Stars
 
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 week ago)
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 week ago)
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
 - [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (2 weeks ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
 - [xataio/pgstream](https://github.com/xataio/pgstream) - PostgreSQL replication with DDL changes (2 weeks ago)
