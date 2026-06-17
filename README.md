@@ -39,9 +39,9 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.60.20](https://github.com/supabase/storage/releases/tag/v1.60.20), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 1 day ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.2), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.20.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.20.0), 4 days ago) - Cloudflare Terraform Provider
 - [cli/cli](https://github.com/cli/cli) ([v2.94.0](https://github.com/cli/cli/releases/tag/v2.94.0), 1 week ago) - GitHub’s official command line tool
 
