@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 month ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 month ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 months ago)
@@ -39,17 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.0), today) - Cloudflare Terraform Provider
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.25](https://github.com/supabase/storage/releases/tag/v1.60.25), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 2 days ago) - GitHub’s official command line tool
-- [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 3 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.0), 1 day ago) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.25](https://github.com/supabase/storage/releases/tag/v1.60.25), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 3 days ago) - GitHub’s official command line tool
+- [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 4 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: inefficient traversal and intermediate allocations](https://github.com/supabase/storage/pull/1164) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: override child factory with identity](https://github.com/supabase/storage/pull/1163) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: cap delete objects by config](https://github.com/supabase/storage/pull/1162) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: drop sizeof and pass estimates](https://github.com/supabase/storage/pull/1165) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: inefficient traversal and intermediate allocations](https://github.com/supabase/storage/pull/1164) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: override child factory with identity](https://github.com/supabase/storage/pull/1163) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: cap delete objects by config](https://github.com/supabase/storage/pull/1162) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -58,8 +59,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (1 day ago)
-- [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools MCP faster (1 day ago)
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (1 day ago)
+- [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (2 days ago)
+- [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools MCP faster (2 days ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 week ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
-- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (2 weeks ago)
