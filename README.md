@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.0), 1 day ago) - Cloudflare Terraform Provider
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.25](https://github.com/supabase/storage/releases/tag/v1.60.25), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 3 days ago) - GitHub’s official command line tool
-- [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 4 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.26](https://github.com/supabase/storage/releases/tag/v1.60.26), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.0), 2 days ago) - Cloudflare Terraform Provider
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 4 days ago) - GitHub’s official command line tool
+- [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 5 days ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop sizeof and pass estimates](https://github.com/supabase/storage/pull/1165) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: inefficient traversal and intermediate allocations](https://github.com/supabase/storage/pull/1164) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: override child factory with identity](https://github.com/supabase/storage/pull/1163) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: cap delete objects by config](https://github.com/supabase/storage/pull/1162) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: drop sizeof and pass estimates](https://github.com/supabase/storage/pull/1165) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: inefficient traversal and intermediate allocations](https://github.com/supabase/storage/pull/1164) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: override child factory with identity](https://github.com/supabase/storage/pull/1163) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: cap delete objects by config](https://github.com/supabase/storage/pull/1162) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -59,8 +59,8 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (1 day ago)
-- [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (2 days ago)
-- [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools MCP faster (2 days ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 week ago)
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (2 days ago)
+- [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (3 days ago)
+- [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools MCP faster (3 days ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (2 weeks ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (2 weeks ago)
