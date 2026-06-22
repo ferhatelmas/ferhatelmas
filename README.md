@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.60.28](https://github.com/supabase/storage/releases/tag/v1.60.28), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.60.29](https://github.com/supabase/storage/releases/tag/v1.60.29), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.0), 3 days ago) - Cloudflare Terraform Provider
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 5 days ago) - GitHub’s official command line tool
@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: improve performance of log redaction](https://github.com/supabase/storage/pull/1172) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [perf(logger): serialize request/reply logs with fast-json-stringify](https://github.com/supabase/storage/pull/1171) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [perf: lazily allocate per-request abort signals](https://github.com/supabase/storage/pull/1170) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [perf: use fast-decode for uri component decoding](https://github.com/supabase/storage/pull/1169) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [perf(s3): precompile router query/header matchers](https://github.com/supabase/storage/pull/1168) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: split s3 checksum config for req/res](https://github.com/supabase/storage/pull/1167) on [supabase/storage](https://github.com/supabase/storage) (today)
 
 #### 📚 Latest Blog posts
 
