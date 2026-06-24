@@ -48,7 +48,6 @@ Previously:
 #### 🔨 Latest Pull Requests I published
 
 - [fix: improve ecs client, cache metadata and reduce list calls](https://github.com/supabase/storage/pull/1176) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [chore: improve lint rules](https://github.com/supabase/storage/pull/1175) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
