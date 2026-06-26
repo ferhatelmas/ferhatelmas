@@ -39,15 +39,16 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.61.3](https://github.com/supabase/storage/releases/tag/v1.61.3), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 2 days ago) - Cloudflare Terraform Provider
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 6 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.61.4](https://github.com/supabase/storage/releases/tag/v1.61.4), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 3 days ago) - Cloudflare Terraform Provider
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 1 week ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 1 week ago) - GitHub’s official command line tool
 - [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 1 week ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: do not override tenant feature via global config](https://github.com/supabase/storage/pull/1177) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: cheaper header validator](https://github.com/supabase/storage/pull/1178) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: do not override tenant feature via global config](https://github.com/supabase/storage/pull/1177) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
@@ -56,7 +57,7 @@ Previously:
 
 #### ⭐ Recent Stars
 
-- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (6 days ago)
+- [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (1 week ago)
 - [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (1 week ago)
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster (1 week ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (2 weeks ago)
