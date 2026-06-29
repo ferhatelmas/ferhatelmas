@@ -47,6 +47,7 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: make hooks sync unless needed](https://github.com/supabase/storage/pull/1183) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: cheaper header validator](https://github.com/supabase/storage/pull/1178) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 - [fix: do not override tenant feature via global config](https://github.com/supabase/storage/pull/1177) on [supabase/storage](https://github.com/supabase/storage) (5 days ago)
 
