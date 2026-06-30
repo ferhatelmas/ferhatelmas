@@ -39,17 +39,17 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.61.7](https://github.com/supabase/storage/releases/tag/v1.61.7), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.61.8](https://github.com/supabase/storage/releases/tag/v1.61.8), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 1 week ago) - Cloudflare Terraform Provider
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.108.3-canary.2](https://github.com/supabase/supabase-js/releases/tag/v2.108.3-canary.2), 1 week ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 1 week ago) - GitHub’s official command line tool
 - [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 2 weeks ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: build secure context once](https://github.com/supabase/storage/pull/1189) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: drop pool mode](https://github.com/supabase/storage/pull/1187) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: drop constraint for delete count migration](https://github.com/supabase/storage/pull/1185) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: skip req metadata serialization in general case](https://github.com/supabase/storage/pull/1184) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: make hooks sync unless needed](https://github.com/supabase/storage/pull/1183) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
