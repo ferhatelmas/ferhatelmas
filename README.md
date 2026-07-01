@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.61.9](https://github.com/supabase/storage/releases/tag/v1.61.9), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.61.10](https://github.com/supabase/storage/releases/tag/v1.61.10), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 1 week ago) - Cloudflare Terraform Provider
 - [cli/cli](https://github.com/cli/cli) ([v2.95.0](https://github.com/cli/cli/releases/tag/v2.95.0), 2 weeks ago) - GitHub’s official command line tool
@@ -49,7 +49,6 @@ Previously:
 
 - [fix: build secure context once](https://github.com/supabase/storage/pull/1189) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: drop pool mode](https://github.com/supabase/storage/pull/1187) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: drop constraint for delete count migration](https://github.com/supabase/storage/pull/1185) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
