@@ -47,9 +47,9 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: replace mutex with single flight pattern](https://github.com/supabase/storage/pull/1193) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: full app profiling for changing worker ids](https://github.com/supabase/storage/pull/1192) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: handle invalid svgs](https://github.com/supabase/storage/pull/1191) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: build secure context once](https://github.com/supabase/storage/pull/1189) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [chore: drop pool mode](https://github.com/supabase/storage/pull/1187) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
