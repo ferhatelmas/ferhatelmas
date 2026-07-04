@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [refactor(tools): drop unnecessary atomic from list](https://github.com/multigres/multigres/pull/1239) on [multigres/multigres](https://github.com/multigres/multigres) (today)
 - [feat: add tls session resumption](https://github.com/supabase/storage/pull/1195) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: cheaper hostname/SAN check](https://github.com/supabase/storage/pull/1194) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: replace mutex with single flight pattern](https://github.com/supabase/storage/pull/1193) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 - [fix: full app profiling for changing worker ids](https://github.com/supabase/storage/pull/1192) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: handle invalid svgs](https://github.com/supabase/storage/pull/1191) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
