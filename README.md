@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.62.0](https://github.com/supabase/storage/releases/tag/v1.62.0), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.62.3](https://github.com/supabase/storage/releases/tag/v1.62.3), today) - S3 compatible object storage service that stores metadata in Postgres
 - [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 4 days ago) - GitHub’s official command line tool
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 6 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 1 week ago) - Cloudflare Terraform Provider
@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: leak of request into pools](https://github.com/supabase/storage/pull/1206) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: split docs and deploy for retry](https://github.com/supabase/storage/pull/1205) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: replace hrtime with performance not to allocate](https://github.com/supabase/storage/pull/1204) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: precompile x-forwarded-host regexp](https://github.com/supabase/storage/pull/1203) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: cut down per request garbage](https://github.com/supabase/storage/pull/1202) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [refactor(tools): drop unnecessary atomic from list](https://github.com/multigres/multigres/pull/1239) on [multigres/multigres](https://github.com/multigres/multigres) (2 days ago)
-- [feat: add tls session resumption](https://github.com/supabase/storage/pull/1195) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
