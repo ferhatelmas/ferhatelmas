@@ -23,8 +23,8 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (2 days ago)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (1 month ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 months ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 months ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 months ago)
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads (4 months ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.61.13](https://github.com/supabase/storage/releases/tag/v1.61.13), 2 days ago) - S3 compatible object storage service that stores metadata in Postgres
-- [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 3 days ago) - GitHub’s official command line tool
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 5 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.61.13](https://github.com/supabase/storage/releases/tag/v1.61.13), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 4 days ago) - GitHub’s official command line tool
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 6 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 1 week ago) - Cloudflare Terraform Provider
 - [tus/tusd](https://github.com/tus/tusd) ([v2.10.0](https://github.com/tus/tusd/releases/tag/v2.10.0), 2 weeks ago) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(tools): drop unnecessary atomic from list](https://github.com/multigres/multigres/pull/1239) on [multigres/multigres](https://github.com/multigres/multigres) (1 day ago)
-- [feat: add tls session resumption](https://github.com/supabase/storage/pull/1195) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: cheaper hostname/SAN check](https://github.com/supabase/storage/pull/1194) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: replace mutex with single flight pattern](https://github.com/supabase/storage/pull/1193) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: full app profiling for changing worker ids](https://github.com/supabase/storage/pull/1192) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [refactor(tools): drop unnecessary atomic from list](https://github.com/multigres/multigres/pull/1239) on [multigres/multigres](https://github.com/multigres/multigres) (2 days ago)
+- [feat: add tls session resumption](https://github.com/supabase/storage/pull/1195) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: cheaper hostname/SAN check](https://github.com/supabase/storage/pull/1194) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: replace mutex with single flight pattern](https://github.com/supabase/storage/pull/1193) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: full app profiling for changing worker ids](https://github.com/supabase/storage/pull/1192) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
