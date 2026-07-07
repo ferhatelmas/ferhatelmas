@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.2-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.2-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [supabase/storage](https://github.com/supabase/storage) ([v1.62.7](https://github.com/supabase/storage/releases/tag/v1.62.7), today) - S3 compatible object storage service that stores metadata in Postgres
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.8](https://github.com/NVIDIA/aistore/releases/tag/v1.4.8), 1 day ago) - AIStore: scalable storage for AI applications
 - [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 5 days ago) - GitHub’s official command line tool
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 1 week ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 2 weeks ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(wattpm): handle worker-specific heap snapshot errors](https://github.com/platformatic/platformatic/pull/4932) on [platformatic/platformatic](https://github.com/platformatic/platformatic) (today)
 - [fix: simplify operation shape](https://github.com/supabase/storage/pull/1210) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: drop admin metric toggle handler](https://github.com/supabase/storage/pull/1209) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: leak of request into pools](https://github.com/supabase/storage/pull/1206) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: split docs and deploy for retry](https://github.com/supabase/storage/pull/1205) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: replace hrtime with performance not to allocate](https://github.com/supabase/storage/pull/1204) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
