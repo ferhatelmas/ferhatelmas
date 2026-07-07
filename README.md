@@ -23,7 +23,7 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 months ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 months ago)
 - [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 months ago)
@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.62.5](https://github.com/supabase/storage/releases/tag/v1.62.5), today) - S3 compatible object storage service that stores metadata in Postgres
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.8](https://github.com/NVIDIA/aistore/releases/tag/v1.4.8), today) - AIStore: scalable storage for AI applications
-- [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 4 days ago) - GitHub’s official command line tool
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 6 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 1 week ago) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.62.6](https://github.com/supabase/storage/releases/tag/v1.62.6), today) - S3 compatible object storage service that stores metadata in Postgres
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.8](https://github.com/NVIDIA/aistore/releases/tag/v1.4.8), 1 day ago) - AIStore: scalable storage for AI applications
+- [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 5 days ago) - GitHub’s official command line tool
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.0), 1 week ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.21.1](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.21.1), 2 weeks ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: drop admin metric toggle handler](https://github.com/supabase/storage/pull/1209) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: leak of request into pools](https://github.com/supabase/storage/pull/1206) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [chore: split docs and deploy for retry](https://github.com/supabase/storage/pull/1205) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: replace hrtime with performance not to allocate](https://github.com/supabase/storage/pull/1204) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: precompile x-forwarded-host regexp](https://github.com/supabase/storage/pull/1203) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: simplify operation shape](https://github.com/supabase/storage/pull/1210) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: drop admin metric toggle handler](https://github.com/supabase/storage/pull/1209) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: leak of request into pools](https://github.com/supabase/storage/pull/1206) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [chore: split docs and deploy for retry](https://github.com/supabase/storage/pull/1205) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
+- [fix: replace hrtime with performance not to allocate](https://github.com/supabase/storage/pull/1204) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
@@ -63,5 +63,5 @@ Previously:
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (2 weeks ago)
 - [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (2 weeks ago)
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster (2 weeks ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (4 weeks ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 month ago)
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 month ago)
