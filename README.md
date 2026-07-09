@@ -39,18 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.64.3](https://github.com/supabase/storage/releases/tag/v1.64.3), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/storage](https://github.com/supabase/storage) ([v1.65.1](https://github.com/supabase/storage/releases/tag/v1.65.1), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.2](https://github.com/supabase/supabase-js/releases/tag/v2.110.2), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.0](https://github.com/platformatic/platformatic/releases/tag/v3.61.0), 1 day ago) - Platformatic Open Source monorepo!
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.2-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.2-canary.0), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.8](https://github.com/NVIDIA/aistore/releases/tag/v1.4.8), 3 days ago) - AIStore: scalable storage for AI applications
 - [cli/cli](https://github.com/cli/cli) ([v2.96.0](https://github.com/cli/cli/releases/tag/v2.96.0), 1 week ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: unit for execution time and improve onerror handler of logflare](https://github.com/supabase/storage/pull/1221) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: do not allocate log options for excluded urls](https://github.com/supabase/storage/pull/1220) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: add migration version admin handler](https://github.com/supabase/storage/pull/1219) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: lazy retry, handle cases, drop async-retry](https://github.com/supabase/storage/pull/1218) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: cache fast path and less allocations for outcome](https://github.com/supabase/storage/pull/1217) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: leverage stateless cdn cache manager](https://github.com/supabase/storage/pull/1216) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
