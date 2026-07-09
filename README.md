@@ -47,11 +47,11 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: parse traceparent and add to logs](https://github.com/supabase/storage/pull/1224) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [chore: cleanup logflare onerror edge cases](https://github.com/supabase/storage/pull/1222) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: unit for execution time and improve onerror handler of logflare](https://github.com/supabase/storage/pull/1221) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: do not allocate log options for excluded urls](https://github.com/supabase/storage/pull/1220) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: add migration version admin handler](https://github.com/supabase/storage/pull/1219) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: lazy retry, handle cases, drop async-retry](https://github.com/supabase/storage/pull/1218) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [fix: cache fast path and less allocations for outcome](https://github.com/supabase/storage/pull/1217) on [supabase/storage](https://github.com/supabase/storage) (today)
 
 #### 📚 Latest Blog posts
 
