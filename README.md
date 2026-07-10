@@ -39,10 +39,10 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.3-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.1](https://github.com/platformatic/platformatic/releases/tag/v3.61.1), today) - Platformatic Open Source monorepo!
 - [supabase/storage](https://github.com/supabase/storage) ([v1.66.2](https://github.com/supabase/storage/releases/tag/v1.66.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.07](https://github.com/supabase/supabase/releases/tag/v1.26.07), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.2](https://github.com/supabase/supabase-js/releases/tag/v2.110.2), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.0](https://github.com/platformatic/platformatic/releases/tag/v3.61.0), 2 days ago) - Platformatic Open Source monorepo!
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.8](https://github.com/NVIDIA/aistore/releases/tag/v1.4.8), 4 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
