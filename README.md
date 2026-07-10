@@ -39,11 +39,11 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [apache/answer](https://github.com/apache/answer) ([v2.0.2-RC1](https://github.com/apache/answer/releases/tag/v2.0.2-RC1), today) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), today) - Cloudflare Terraform Provider
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.3-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.1](https://github.com/platformatic/platformatic/releases/tag/v3.61.1), today) - Platformatic Open Source monorepo!
 - [supabase/storage](https://github.com/supabase/storage) ([v1.66.2](https://github.com/supabase/storage/releases/tag/v1.66.2), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.07](https://github.com/supabase/supabase/releases/tag/v1.26.07), 1 day ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.8](https://github.com/NVIDIA/aistore/releases/tag/v1.4.8), 4 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -51,7 +51,6 @@ Previously:
 - [feat: parse traceparent and add to logs](https://github.com/supabase/storage/pull/1224) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [chore: cleanup logflare onerror edge cases](https://github.com/supabase/storage/pull/1222) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: unit for execution time and improve onerror handler of logflare](https://github.com/supabase/storage/pull/1221) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: do not allocate log options for excluded urls](https://github.com/supabase/storage/pull/1220) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
