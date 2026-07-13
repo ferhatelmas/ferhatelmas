@@ -47,10 +47,8 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add continuous profiling and client](https://github.com/supabase/storage/pull/1226) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: log span_id next to trace_id](https://github.com/supabase/storage/pull/1225) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [feat: parse traceparent and add to logs](https://github.com/supabase/storage/pull/1224) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [chore: cleanup logflare onerror edge cases](https://github.com/supabase/storage/pull/1222) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
-- [fix: unit for execution time and improve onerror handler of logflare](https://github.com/supabase/storage/pull/1221) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
