@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (3 days ago)
-- [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo! (4 days ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (4 days ago)
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo! (5 days ago)
 - [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 months ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 months ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (3 months ago)
+- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -39,18 +39,18 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [apache/answer](https://github.com/apache/answer) ([v2.0.2-RC1](https://github.com/apache/answer/releases/tag/v2.0.2-RC1), 2 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 2 days ago) - Cloudflare Terraform Provider
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.3-canary.0), 2 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.1](https://github.com/platformatic/platformatic/releases/tag/v3.61.1), 2 days ago) - Platformatic Open Source monorepo!
-- [supabase/storage](https://github.com/supabase/storage) ([v1.66.2](https://github.com/supabase/storage/releases/tag/v1.66.2), 3 days ago) - S3 compatible object storage service that stores metadata in Postgres
+- [apache/answer](https://github.com/apache/answer) ([v2.0.2-RC1](https://github.com/apache/answer/releases/tag/v2.0.2-RC1), 3 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 3 days ago) - Cloudflare Terraform Provider
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.3-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.3-canary.0), 3 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.1](https://github.com/platformatic/platformatic/releases/tag/v3.61.1), 3 days ago) - Platformatic Open Source monorepo!
+- [supabase/storage](https://github.com/supabase/storage) ([v1.66.2](https://github.com/supabase/storage/releases/tag/v1.66.2), 4 days ago) - S3 compatible object storage service that stores metadata in Postgres
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: log span_id next to trace_id](https://github.com/supabase/storage/pull/1225) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [feat: parse traceparent and add to logs](https://github.com/supabase/storage/pull/1224) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [chore: cleanup logflare onerror edge cases](https://github.com/supabase/storage/pull/1222) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: unit for execution time and improve onerror handler of logflare](https://github.com/supabase/storage/pull/1221) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: log span_id next to trace_id](https://github.com/supabase/storage/pull/1225) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [feat: parse traceparent and add to logs](https://github.com/supabase/storage/pull/1224) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [chore: cleanup logflare onerror edge cases](https://github.com/supabase/storage/pull/1222) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
+- [fix: unit for execution time and improve onerror handler of logflare](https://github.com/supabase/storage/pull/1221) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
