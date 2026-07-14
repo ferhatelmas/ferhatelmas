@@ -39,16 +39,17 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.5](https://github.com/supabase/supabase-js/releases/tag/v2.110.5), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.6-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.6-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.66.3](https://github.com/supabase/storage/releases/tag/v1.66.3), today) - S3 compatible object storage service that stores metadata in Postgres
 - [apache/answer](https://github.com/apache/answer) ([v2.0.2-RC2](https://github.com/apache/answer/releases/tag/v2.0.2-RC2), today) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 4 days ago) - Cloudflare Terraform Provider
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.1](https://github.com/platformatic/platformatic/releases/tag/v3.61.1), 4 days ago) - Platformatic Open Source monorepo!
-- [supabase/storage](https://github.com/supabase/storage) ([v1.66.2](https://github.com/supabase/storage/releases/tag/v1.66.2), 5 days ago) - S3 compatible object storage service that stores metadata in Postgres
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: memoize pg request scope and make lazy](https://github.com/supabase/storage/pull/1231) on [supabase/storage](https://github.com/supabase/storage) (today)
+- [fix: retry for backup object event](https://github.com/supabase/storage/pull/1229) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [chore: cleanup multigres workaround for statement timeout](https://github.com/supabase/storage/pull/1228) on [supabase/storage](https://github.com/supabase/storage) (today)
-- [feat: add continuous profiling and client](https://github.com/supabase/storage/pull/1226) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 
 #### 📚 Latest Blog posts
 
