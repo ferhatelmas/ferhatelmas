@@ -39,7 +39,7 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.3](https://github.com/supabase/supabase-js/releases/tag/v2.110.3), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.4](https://github.com/supabase/supabase-js/releases/tag/v2.110.4), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [apache/answer](https://github.com/apache/answer) ([v2.0.2-RC1](https://github.com/apache/answer/releases/tag/v2.0.2-RC1), 4 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 4 days ago) - Cloudflare Terraform Provider
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.61.1](https://github.com/platformatic/platformatic/releases/tag/v3.61.1), 4 days ago) - Platformatic Open Source monorepo!
