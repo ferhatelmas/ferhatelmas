@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
+- [supabase/storage](https://github.com/supabase/storage) ([v1.67.2](https://github.com/supabase/storage/releases/tag/v1.67.2), today) - S3 compatible object storage service that stores metadata in Postgres
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.7](https://github.com/supabase/supabase-js/releases/tag/v2.110.7), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [supabase/storage](https://github.com/supabase/storage) ([v1.67.1](https://github.com/supabase/storage/releases/tag/v1.67.1), today) - S3 compatible object storage service that stores metadata in Postgres
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.62.0](https://github.com/platformatic/platformatic/releases/tag/v3.62.0), today) - Platformatic Open Source monorepo!
 - [apache/answer](https://github.com/apache/answer) ([v2.0.2-RC2](https://github.com/apache/answer/releases/tag/v2.0.2-RC2), 2 days ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 6 days ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: precompile projection columns](https://github.com/supabase/storage/pull/1238) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: enforce S3 limits and reject negative/fractionals](https://github.com/supabase/storage/pull/1237) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [feat: run healthcheck unscoped](https://github.com/supabase/storage/pull/1236) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: hoist regex and num parser in x-robots-tag](https://github.com/supabase/storage/pull/1235) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: postpone parsing policy until signature verification](https://github.com/supabase/storage/pull/1234) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: cut down promises from connection create/dispose](https://github.com/supabase/storage/pull/1233) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
 
 #### 📚 Latest Blog posts
 
