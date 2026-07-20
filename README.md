@@ -47,10 +47,10 @@ Previously:
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: add finite number validation](https://github.com/supabase/storage/pull/1246) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix(basic): wait for dependents stop](https://github.com/platformatic/platformatic/pull/4981) on [platformatic/platformatic](https://github.com/platformatic/platformatic) (today)
 - [chore: tolerate gateway cache-control directives](https://github.com/supabase/storage/pull/1245) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: bump watt to latest and align config to control via env](https://github.com/supabase/storage/pull/1243) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
-- [fix: add transport-neutral database contracts](https://github.com/supabase/storage/pull/1242) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
 
 #### 📚 Latest Blog posts
 
