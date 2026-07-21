@@ -39,19 +39,19 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.67.12](https://github.com/supabase/storage/releases/tag/v1.67.12), today) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.8-canary.0](https://github.com/supabase/supabase-js/releases/tag/v2.110.8-canary.0), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [supabase/storage](https://github.com/supabase/storage) ([v1.67.13](https://github.com/supabase/storage/releases/tag/v1.67.13), today) - S3 compatible object storage service that stores metadata in Postgres
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.8](https://github.com/supabase/supabase-js/releases/tag/v2.110.8), today) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 - [apache/answer](https://github.com/apache/answer) ([v2.0.2](https://github.com/apache/answer/releases/tag/v2.0.2), today) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.63.0-alpha.2](https://github.com/platformatic/platformatic/releases/tag/v3.63.0-alpha.2), 4 days ago) - Platformatic Open Source monorepo!
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 1 week ago) - Cloudflare Terraform Provider
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: fold search path into set config](https://github.com/supabase/storage/pull/1251) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: use stackless singleton error for test permission](https://github.com/supabase/storage/pull/1250) on [supabase/storage](https://github.com/supabase/storage) (today)
 - [fix: drop unused S3 logger middleware](https://github.com/supabase/storage/pull/1249) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: root at s3 upload part copy](https://github.com/supabase/storage/pull/1247) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
 - [fix: add finite number validation](https://github.com/supabase/storage/pull/1246) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix(basic): wait for dependents stop](https://github.com/platformatic/platformatic/pull/4981) on [platformatic/platformatic](https://github.com/platformatic/platformatic) (1 day ago)
 
 #### 📚 Latest Blog posts
 
