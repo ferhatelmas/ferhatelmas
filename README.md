@@ -23,11 +23,11 @@ Previously:
 -----------
 #### 👷 Check out what I'm currently working on
 
-- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (1 day ago)
-- [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo! (2 days ago)
-- [supabase/iceberg-js](https://github.com/supabase/iceberg-js) - A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog. (2 months ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 months ago)
-- [apache/iceberg-go](https://github.com/apache/iceberg-go) - Apache Iceberg - Go (4 months ago)
+- [supabase/storage](https://github.com/supabase/storage) - S3 compatible object storage service that stores metadata in Postgres (today)
+- [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue. (1 week ago)
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo! (1 week ago)
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly (1 week ago)
+- [tus/tus-node-server](https://github.com/tus/tus-node-server) - Node.js tus server, standalone or integrable in any framework, with disk, S3, Azure, and GGC stores. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -39,29 +39,28 @@ Previously:
 
 #### 🚀 Latest releases I've contributed to
 
-- [supabase/storage](https://github.com/supabase/storage) ([v1.67.13](https://github.com/supabase/storage/releases/tag/v1.67.13), 1 day ago) - S3 compatible object storage service that stores metadata in Postgres
-- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.110.8](https://github.com/supabase/supabase-js/releases/tag/v2.110.8), 1 day ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
-- [apache/answer](https://github.com/apache/answer) ([v2.0.2](https://github.com/apache/answer/releases/tag/v2.0.2), 1 day ago) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.63.0-alpha.2](https://github.com/platformatic/platformatic/releases/tag/v3.63.0-alpha.2), 5 days ago) - Platformatic Open Source monorepo!
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) ([v5.22.0](https://github.com/cloudflare/terraform-provider-cloudflare/releases/tag/v5.22.0), 1 week ago) - Cloudflare Terraform Provider
+- [supabase/storage](https://github.com/supabase/storage) ([v1.68.12](https://github.com/supabase/storage/releases/tag/v1.68.12), today) - S3 compatible object storage service that stores metadata in Postgres
+- [platformatic/platformatic](https://github.com/platformatic/platformatic) ([v3.67.0](https://github.com/platformatic/platformatic/releases/tag/v3.67.0), 3 days ago) - Platformatic Open Source monorepo!
+- [supabase/supabase](https://github.com/supabase/supabase) ([v1.26.08](https://github.com/supabase/supabase/releases/tag/v1.26.08), 3 days ago) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase-js](https://github.com/supabase/supabase-js) ([v2.112.2](https://github.com/supabase/supabase-js/releases/tag/v2.112.2), 4 days ago) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
+- [NVIDIA/aistore](https://github.com/NVIDIA/aistore) ([v1.4.9](https://github.com/NVIDIA/aistore/releases/tag/v1.4.9), 5 days ago) - AIStore: scalable storage for AI applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: fold search path into set config](https://github.com/supabase/storage/pull/1251) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: use stackless singleton error for test permission](https://github.com/supabase/storage/pull/1250) on [supabase/storage](https://github.com/supabase/storage) (1 day ago)
-- [fix: drop unused S3 logger middleware](https://github.com/supabase/storage/pull/1249) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: root at s3 upload part copy](https://github.com/supabase/storage/pull/1247) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
-- [fix: add finite number validation](https://github.com/supabase/storage/pull/1246) on [supabase/storage](https://github.com/supabase/storage) (2 days ago)
+- [fix: extract postgres commons for watt](https://github.com/supabase/storage/pull/1309) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: cheaper log time function](https://github.com/supabase/storage/pull/1305) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: add projection cache](https://github.com/supabase/storage/pull/1304) on [supabase/storage](https://github.com/supabase/storage) (3 days ago)
+- [fix: cache crypto key](https://github.com/supabase/storage/pull/1303) on [supabase/storage](https://github.com/supabase/storage) (4 days ago)
 
 #### 📚 Latest Blog posts
 
-- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (1 year ago)
+- [Code Review Behaviors: The Critical Problem of Cherry Picking](https://ferhatelmas.com/blog/code-review-behaviors-the-critical-problem-of-cherry-picking) (2 years ago)
 - [How to control date in a git commit properly](https://ferhatelmas.com/blog/how-to-commit-in-the-past) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. (1 day ago)
+- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. (2 weeks ago)
 - [THUDM/slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling. (1 month ago)
 - [KellerKev/duckicelake](https://github.com/KellerKev/duckicelake) - Iceberg v3 REST Catalog proxy on top of DuckLake (1 month ago)
 - [zeke/faster-chrome-devtools-skill](https://github.com/zeke/faster-chrome-devtools-skill) - Agent skill that makes Chrome DevTools faster (1 month ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (1 month ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent (2 months ago)
